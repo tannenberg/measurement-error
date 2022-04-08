@@ -1,0 +1,4974 @@
+age;income;education;work;female;urban_hukou;b_treatment;b_control;b_placebo
+4; 3; 2;private sector; 1; 0; 1;NA;NA
+1; 2; 4;government; 0; 1;NA; 1;NA
+4; 3;NA;Other; 1; 1;NA; 1;NA
+3; 2; 5;private sector; 0; 1; 3;NA;NA
+3; 2;NA;private sector; 1; 1;NA; 2;NA
+3; 4; 5;private sector; 0; 1;NA; 0;NA
+3; 3;NA;government; 0; 1;NA;NA; 3
+2; 3;NA;NGO; 1; 0;NA;NA; 3
+1; 3;NA;private sector; 0; 0;NA; 2;NA
+1; 6;NA;DK; 0; 0;NA;NA; 3
+2; 4; 5;private sector; 1; 1;NA; 1;NA
+3; 3; 5;government; 0; 1;NA;NA; 2
+2; 1;NA;private sector; 0; 1;NA;NA; 2
+2; 2; 5;private sector; 0; 0;NA; 1;NA
+3; 4;NA;private sector; 1; 1;NA;NA; 2
+3; 3;NA;government; 0; 1; 3;NA;NA
+3; 3;NA;private sector; 1; 1;NA; 2;NA
+3; 2; 5;private sector; 1; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+3; 3; 5;government; 0; 1; 3;NA;NA
+4; 3; 4;Other; 0; 1;NA; 4;NA
+2; 2; 5;private sector; 0; 0;NA;NA; 5
+1; 1; 3;private sector; 0; 1;NA; 2;NA
+1; 1; 7;Other; 0; 0;NA;NA; 1
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+2; 3; 5;private sector; 1; 1; 3;NA;NA
+2; 2; 3;Other; 1; 0;NA; 1;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 1
+2; 4; 6;government; 1; 1;NA;NA; 1
+1; 3; 5;private sector; 1; 1;NA; 2;NA
+1; 1; 6;private sector; 0; 0;NA;NA; 2
+3; 3; 5;government; 1; 1;NA;NA; 2
+3; 4; 5;private sector; 0; 1; 1;NA;NA
+2; 2; 5;private sector; 1; 1; 2;NA;NA
+3; 4; 6;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1; 5;NA;NA
+3; 3; 5;private sector; 1; 1; 2;NA;NA
+3; 3; 5;private sector;NA; 1;NA; 3;NA
+3; 2;NA;private sector;NA;NA;NA;NA; 4
+3; 2; 5;private sector; 1; 1;NA; 1;NA
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 3; 5;government; 0; 1;NA; 3;NA
+3; 3;NA;private sector; 1; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 4
+3; 4; 5;private sector; 1; 1; 5;NA;NA
+1; 4; 4;private sector; 1; 1; 1;NA;NA
+3; 2;NA;private sector; 0; 1;NA;NA; 3
+3; 4; 5;private sector; 0; 1;NA; 2;NA
+2; 3; 5;government; 0; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1; 4;NA;NA
+3; 4; 5;government; 1; 1;NA;NA; 3
+5; 1; 4;Other; 1; 1;NA;NA; 1
+3; 4; 5;government; 1; 1; 2;NA;NA
+3; 3;NA;private sector; 0; 1; 3;NA;NA
+2; 3; 5;private sector; 1; 1; 2;NA;NA
+2; 3; 5;government; 0; 1; 2;NA;NA
+3; 3; 5;government; 1; 1;NA; 3;NA
+2; 4; 5;private sector;NA;NA; 2;NA;NA
+3; 3; 5;government; 1; 1;NA; 4;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 3
+2; 3; 5;government; 1; 1;NA; 2;NA
+3; 2; 5;private sector; 1; 1; 2;NA;NA
+4; 2; 4;private sector; 0; 1; 4;NA;NA
+4; 3; 4;private sector; 0; 1;NA;NA; 5
+3; 4; 5;government; 1; 1;NA;NA; 3
+3; 2; 5;private sector; 0; 1;NA; 3;NA
+2; 3; 5;government; 1; 1;NA;NA; 2
+2; 3; 5;private sector; 1; 1; 2;NA;NA
+3; 2; 5;government; 1; 1;NA; 3;NA
+4; 2; 4;private sector; 0; 1;NA; 2;NA
+2; 4; 5;private sector; 1; 1;NA; 2;NA
+2; 3; 5;private sector;NA; 1;NA;NA; 3
+3; 3; 5;private sector; 1; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 1;NA; 1;NA
+3; 4; 5;government; 1; 1; 3;NA;NA
+2; 4; 6;private sector; 1; 1;NA;NA; 2
+3; 3;NA;NGO; 1; 0;NA; 1;NA
+2; 2;NA;private sector; 1; 1;NA;NA; 2
+3; 2;NA;private sector; 1; 1; 1;NA;NA
+2; 4; 6;private sector; 1; 1;NA;NA; 2
+3; 1; 3;NA; 0; 0;NA;NA; 1
+3; 3; 5;private sector; 1; 1;NA;NA; 3
+2; 3; 5;government; 1; 1;NA;NA; 3
+3; 4; 6;private sector; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 1; 1; 2;NA;NA
+2; 4; 5;private sector; 0; 1;NA;NA; 2
+3; 4; 6;government; 1; 1;NA; 2;NA
+4; 2; 5;private sector; 1; 1; 4;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+4; 2; 5;government; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 3; 6;private sector; 1; 1; 3;NA;NA
+2; 2; 5;government; 0; 1;NA;NA; 2
+2; 4; 5;private sector; 0; 1; 2;NA;NA
+2; 4; 5;government; 1; 1;NA;NA; 1
+2; 4; 5;private sector; 0; 1;NA; 3;NA
+2; 2; 5;Other; 0; 1;NA; 0;NA
+2; 4; 5;government; 0; 1; 3;NA;NA
+4; 1;NA;private sector; 0; 1; 3;NA;NA
+2; 4; 5;private sector; 0; 1;NA; 2;NA
+2; 4; 5;private sector; 0; 1;NA; 2;NA
+2; 2;NA;government; 1; 0;NA; 3;NA
+2; 2; 5;Other; 1; 1;NA;NA; 3
+3; 3; 5;private sector;NA;NA; 3;NA;NA
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+5; 2; 5;private sector; 0; 1; 2;NA;NA
+2; 4; 5;private sector; 0; 1;NA;NA; 3
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 1
+2; 3; 5;private sector; 1; 1;NA;NA; 1
+2; 2; 6;private sector; 1; 1;NA;NA; 1
+2; 4; 5;government; 1; 1; 2;NA;NA
+2; 3;NA;private sector; 1; 1;NA;NA; 3
+3; 3; 5;private sector; 1; 1;NA;NA; 2
+3; 4; 5;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 3; 5;private sector; 1; 1; 2;NA;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 1
+4; 1; 5;private sector; 1; 1; 2;NA;NA
+2; 4; 5;private sector; 1; 1; 3;NA;NA
+4; 2; 4;government; 1; 1;NA; 2;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 1
+2; 4; 5;private sector; 0; 1;NA;NA; 3
+2; 2; 5;private sector; 1; 1; 2;NA;NA
+2; 3; 5;private sector; 0; 1;NA; 1;NA
+2; 4; 5;government; 1; 1;NA;NA; 4
+4; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 2; 5;private sector; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 0;NA;NA; 2
+2; 4; 5;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 2;NA;government; 1; 1;NA; 1;NA
+2; 2; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1; 2;NA;NA
+3; 4; 5;government; 1; 1;NA; 4;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 3; 5;government; 0; 1;NA;NA; 2
+3; 4; 6;private sector; 0; 1; 2;NA;NA
+3; 2; 5;private sector; 0; 1; 2;NA;NA
+3; 2; 5;private sector; 1; 1;NA;NA; 2
+2; 2; 5;Other; 1; 1;NA; 2;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 3
+2; 2; 4;private sector; 1; 0; 3;NA;NA
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 2
+1; 2; 5;Other; 1; 1; 0;NA;NA
+3; 3; 5;government; 0; 1; 2;NA;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 1
+2; 4; 5;private sector; 1; 1;NA;NA; 1
+3; 3; 5;private sector; 1; 1; 4;NA;NA
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 3; 6;government; 1; 1;NA; 3;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 3
+2; 3; 5;government; 1; 1; 3;NA;NA
+3; 2;NA;private sector; 1; 1;NA;NA; 3
+2; 2; 5;private sector; 1; 1;NA; 3;NA
+3; 3;NA;private sector; 0; 1; 1;NA;NA
+2; 4; 6;private sector; 0; 1; 2;NA;NA
+2; 2; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;government; 1; 1; 3;NA;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 2
+3; 3; 6;private sector; 1; 1; 1;NA;NA
+2; 2; 5;private sector; 0; 0;NA; 2;NA
+1; 3; 5;government; 1; 1;NA;NA; 0
+4; 3; 5;private sector; 0; 1;NA;NA; 2
+1; 6;NA;Other; 0; 1; 2;NA;NA
+3; 3; 5;private sector; 1; 1;NA; 3;NA
+2; 3; 6;private sector; 1; 1;NA; 2;NA
+4; 3;NA;government; 0; 1; 2;NA;NA
+2; 2; 5;private sector; 1; 1;NA;NA; 3
+2;NA; 6;government; 1; 1; 2;NA;NA
+3; 4; 5;private sector; 1; 1; 2;NA;NA
+3; 1; 4;Other; 1; 1; 2;NA;NA
+1; 1; 3;private sector; 0; 0; 3;NA;NA
+2; 4; 6;private sector;NA;NA;NA;NA; 3
+3; 3; 6;government; 1; 1;NA; 2;NA
+2; 3; 5;government; 1; 1;NA;NA; 2
+2; 3; 6;private sector; 1; 1;NA; 3;NA
+1; 1;NA;private sector; 0; 1; 1;NA;NA
+3; 4; 5;private sector; 1; 1; 1;NA;NA
+4; 3;NA;government; 0; 1;NA; 3;NA
+3; 4; 6;government; 0; 1; 1;NA;NA
+2; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 4; 5;private sector; 1; 1;NA;NA; 2
+4; 3; 5;government; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 1; 2;NA;NA
+3; 3; 6;private sector; 1; 1;NA;NA; 3
+3; 4;NA;government; 1; 1;NA; 2;NA
+3; 4; 5;private sector; 1; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 3; 5;private sector; 0; 1;NA; 3;NA
+1; 3; 5;private sector; 1; 1; 2;NA;NA
+2; 4; 5;government; 1; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+4; 2; 4;government; 1; 1; 4;NA;NA
+2; 3; 5;government; 0; 1;NA; 3;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 2
+3; 1; 2;Other; 0; 1; 2;NA;NA
+3; 2; 5;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 1;NA; 3;NA
+2; 4; 5;private sector; 0; 1; 3;NA;NA
+2; 3; 5;government; 1; 0; 1;NA;NA
+2; 2;NA;private sector; 1; 1;NA; 4;NA
+3; 4; 5;private sector; 1; 1; 2;NA;NA
+2; 3; 6;government; 1; 1;NA; 1;NA
+2; 2; 6;private sector; 0; 1;NA; 3;NA
+3; 4; 5;private sector; 0; 1; 2;NA;NA
+2; 4; 6;government; 1; 1; 4;NA;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 1
+3; 3; 5;government; 0; 1; 5;NA;NA
+3; 4; 5;private sector; 1; 1; 2;NA;NA
+1; 4; 4;private sector; 1; 1; 5;NA;NA
+2; 4; 6;government; 1; 1; 1;NA;NA
+3; 4; 6;government; 1; 1;NA;NA; 1
+2; 4; 6;government; 0; 1;NA;NA; 2
+2; 3; 5;government; 0; 1;NA; 3;NA
+5; 2; 4;Other; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA; 3;NA
+2; 2; 5;private sector; 1; 0; 2;NA;NA
+1; 1; 4;private sector; 1; 0;NA;NA; 2
+3; 2; 5;private sector; 1; 1;NA; 3;NA
+3; 1; 4;private sector; 1; 1; 1;NA;NA
+2; 3; 5;private sector; 0; 1;NA; 3;NA
+3; 3; 5;government; 0; 0; 2;NA;NA
+3; 1;NA;Other; 1; 0;NA; 1;NA
+2; 3; 5;government; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 3
+2; 2; 5;private sector; 0; 0;NA;NA; 1
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+3; 2;NA;private sector; 0; 1;NA; 3;NA
+3; 2; 5;private sector; 1; 1;NA; 2;NA
+3; 4; 5;private sector; 1; 1;NA; 2;NA
+2; 2; 5;government; 1; 1; 3;NA;NA
+2; 1; 5;private sector; 1; 1;NA;NA; 2
+2; 3; 6;private sector; 0; 1;NA; 2;NA
+3; 3; 4;private sector; 0; 0; 2;NA;NA
+2; 3; 5;government; 0; 1;NA; 1;NA
+2; 3; 5;government; 0; 1;NA;NA; 1
+3; 4; 5;private sector;NA; 1;NA; 2;NA
+5; 3; 5;government; 0; 1;NA;NA; 1
+3; 3;NA;private sector; 0; 1; 2;NA;NA
+1; 2;NA;Other;NA; 0;NA;NA; 2
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 3; 5;private sector; 1; 1; 1;NA;NA
+3; 2; 4;private sector; 1; 1;NA;NA; 1
+3; 3; 6;government; 0; 1;NA; 2;NA
+2; 4; 6;private sector; 1; 1;NA; 0;NA
+1; 3;NA;private sector; 0; 1; 0;NA;NA
+2; 2;NA;NGO; 0; 1;NA;NA; 1
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 2
+1; 2; 4;private sector; 0; 1; 1;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 3;NA
+2; 3; 5;private sector; 1; 1; 4;NA;NA
+3; 2; 5;private sector; 0; 1; 2;NA;NA
+2; 3; 5;government; 1; 1;NA; 2;NA
+4; 4; 5;private sector; 1; 1;NA; 3;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 2
+4; 3;NA;private sector; 0; 1;NA;NA; 2
+4; 4; 5;private sector; 0; 1; 5;NA;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 2
+3; 2; 5;government; 0; 1;NA; 3;NA
+2; 2; 5;private sector; 1; 1; 4;NA;NA
+2; 3; 5;private sector; 1; 1; 2;NA;NA
+3; 3; 5;private sector; 1; 1;NA; 1;NA
+2; 4;NA;government; 1; 1; 3;NA;NA
+3; 4; 5;government; 1; 1; 2;NA;NA
+2; 4; 6;private sector; 0; 1;NA;NA; 3
+3; 2; 5;private sector; 0; 1;NA; 4;NA
+1; 4; 5;government; 1; 1;NA; 4;NA
+3; 4; 6;private sector; 0; 1; 3;NA;NA
+4; 2; 5;government; 0; 1; 2;NA;NA
+3; 4; 5;Other; 0; 1;NA;NA; 2
+1; 1; 5;Other; 1; 0;NA; 2;NA
+2; 3; 5;government; 1; 1;NA; 3;NA
+5; 2;NA;government; 1; 1;NA;NA; 2
+2; 3; 5;private sector; 1; 1;NA; 0;NA
+2; 6; 5;private sector; 0; 1;NA; 1;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 3
+3; 4; 5;private sector; 0; 1;NA;NA; 3
+4; 1; 4;private sector; 0; 1;NA; 1;NA
+2; 4; 6;private sector; 1; 0; 3;NA;NA
+2; 3; 5;private sector; 1; 1; 3;NA;NA
+5; 1; 6;NGO; 1; 0;NA;NA; 5
+2; 2; 5;private sector; 0; 1; 1;NA;NA
+4; 4; 5;government; 1; 1;NA;NA; 2
+5; 1; 5;Other; 0; 1;NA; 3;NA
+3; 3; 6;government; 0; 1;NA;NA; 3
+2; 2; 5;private sector; 1; 0;NA;NA; 2
+2; 3; 5;private sector; 0; 1; 4;NA;NA
+3; 2; 5;government; 1; 1;NA; 2;NA
+2; 4; 5;private sector; 1; 1; 1;NA;NA
+3; 1;NA;private sector; 0; 1;NA;NA; 2
+1; 1; 4;NGO; 1; 0;NA; 1;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 1
+4; 2; 5;government; 1; 1;NA; 1;NA
+2; 2; 5;NGO; 1; 1; 3;NA;NA
+2; 3; 5;government; 0; 1; 1;NA;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 1
+1; 2; 5;private sector; 0; 0;NA;NA; 0
+3; 3; 5;private sector; 1; 1;NA;NA; 3
+3; 4; 5;government; 0; 1;NA;NA; 3
+2; 3; 5;private sector;NA; 1; 4;NA;NA
+2; 2; 5;government; 1; 0;NA; 1;NA
+3; 1; 5;private sector; 1; 1;NA; 2;NA
+3; 1; 6;government; 0; 1;NA;NA; 0
+3; 3;NA;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+4; 3; 4;government; 0; 1;NA;NA; 3
+2; 2; 5;government; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 3; 5;private sector; 0; 1; 1;NA;NA
+3; 4; 5;private sector; 1; 1;NA;NA; 2
+3; 2; 5;government; 0; 1;NA;NA; 2
+2; 4; 6;private sector; 1; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1;NA; 3;NA
+3; 3; 5;government; 1; 1;NA;NA; 2
+2; 3; 6;private sector; 0; 1; 2;NA;NA
+1; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 4; 5;private sector; 1; 1; 3;NA;NA
+1; 6;NA;Other; 1; 0;NA; 1;NA
+1; 2;NA;private sector; 1; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 1;NA;NA; 0
+1; 2; 5;private sector; 1; 1;NA; 3;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 4; 5;government; 0; 1;NA;NA; 3
+1; 3; 5;Other;NA; 0;NA; 3;NA
+2; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 3; 5;Other; 1; 1;NA; 2;NA
+3; 3; 5;government; 1; 1;NA;NA; 3
+3; 2; 5;government; 0; 1;NA;NA; 2
+4; 2; 5;private sector; 1; 1;NA; 3;NA
+3; 4; 5;private sector; 1; 1;NA; 1;NA
+3; 3; 5;private sector; 1; 1; 2;NA;NA
+1; 1; 5;NGO; 1; 0;NA; 1;NA
+2; 6; 5;Other; 0; 1;NA;NA; 1
+2; 1;NA;Other; 1; 1;NA;NA; 3
+2; 4; 5;private sector; 1; 0;NA; 3;NA
+3; 3; 5;private sector; 1; 1; 4;NA;NA
+4; 4;NA;private sector; 1; 1;NA;NA; 2
+2; 2; 5;Other; 1; 0;NA;NA; 2
+3; 2; 5;private sector; 1; 1;NA; 1;NA
+2; 4; 5;private sector; 0; 1;NA; 2;NA
+4; 4; 5;government; 1; 1; 2;NA;NA
+3; 4; 5;private sector; 1; 1; 1;NA;NA
+2; 2; 5;private sector; 1; 1;NA;NA; 2
+3; 3; 5;government; 1; 1; 3;NA;NA
+1; 6; 5;Other; 0; 1;NA; 1;NA
+2; 4; 5;private sector; 0; 1;NA; 2;NA
+3; 2; 5;government;NA; 1;NA; 2;NA
+2; 3;NA;private sector; 1; 0;NA;NA; 2
+1; 2; 5;Other; 1; 0; 2;NA;NA
+2; 2; 6;private sector; 1; 1; 0;NA;NA
+3; 3; 5;private sector; 1; 1; 2;NA;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 4; 5;private sector; 0; 1; 2;NA;NA
+3; 3; 5;Other; 1; 1;NA;NA; 3
+1; 3; 4;private sector; 0; 0; 3;NA;NA
+2; 2; 5;private sector; 0; 1; 2;NA;NA
+3; 4; 5;private sector; 1; 1; 3;NA;NA
+3; 2; 5;private sector; 1; 1;NA;NA; 1
+3; 2; 5;private sector; 1; 0; 3;NA;NA
+2; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 2; 5;Other; 1; 1;NA;NA; 1
+4; 1; 4;private sector; 0; 1;NA; 4;NA
+1; 1; 5;government; 0; 0; 2;NA;NA
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+2; 4; 5;private sector; 1; 1;NA;NA; 2
+2; 3; 5;government; 1; 1; 2;NA;NA
+3; 3; 6;private sector; 1; 1;NA; 3;NA
+3; 2; 3;private sector; 1; 0;NA; 3;NA
+1; 6; 5;Other; 1; 1;NA; 1;NA
+2; 4; 6;government; 1; 1;NA;NA; 3
+4; 2; 4;private sector; 0; 1; 3;NA;NA
+2; 4; 5;government; 1; 1;NA;NA; 2
+3; 2; 5;private sector; 1; 1;NA;NA; 3
+2; 4; 5;private sector; 1; 1;NA; 1;NA
+1; 6;NA;DK; 0; 0; 1;NA;NA
+2; 2; 5;government; 1; 0;NA; 1;NA
+3; 3; 5;government; 1; 1;NA;NA; 2
+1; 2; 5;government; 1; 1; 3;NA;NA
+4; 1;NA;private sector; 1; 1;NA; 4;NA
+2; 3; 5;private sector; 1; 1;NA; 1;NA
+3; 2; 6;government; 0; 1;NA;NA; 3
+2; 2; 5;government; 1; 1; 2;NA;NA
+2; 2; 5;private sector; 1; 0;NA; 2;NA
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+1; 4; 6;private sector; 1; 1;NA;NA; 1
+1; 4;NA;government; 0; 1;NA;NA; 1
+2; 3; 5;private sector;NA; 1; 2;NA;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 4
+3; 4; 5;government; 0; 1;NA; 3;NA
+2; 4; 5;private sector; 0; 1; 2;NA;NA
+2; 2; 5;private sector; 1; 0; 1;NA;NA
+3; 4; 5;private sector; 1; 1;NA;NA; 2
+1; 1; 3;Other; 0; 0; 3;NA;NA
+1; 1; 5;Other; 1; 1; 3;NA;NA
+2; 2; 5;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 5
+1; 1; 3;Other; 1; 0;NA;NA; 1
+2; 2; 5;private sector; 0; 1;NA; 3;NA
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+1; 3; 5;private sector; 1; 0;NA; 1;NA
+1; 2; 3;Other; 0; 0;NA; 2;NA
+4; 2;NA;private sector; 1; 1;NA; 4;NA
+2; 3; 5;private sector; 0; 1;NA; 3;NA
+2; 3; 5;private sector; 1; 1;NA; 1;NA
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+1; 4; 5;private sector;NA;NA; 3;NA;NA
+4; 4; 5;government; 0; 1;NA;NA; 2
+1; 3; 4;private sector; 1; 0;NA;NA; 2
+2; 3; 5;government; 1; 1;NA; 1;NA
+2; 1; 4;private sector; 1; 0;NA;NA; 1
+3; 3; 5;government; 0; 1;NA;NA; 3
+3; 3; 5;private sector; 0; 1;NA;NA; 5
+3; 4; 5;private sector; 0; 1; 3;NA;NA
+4; 1; 4;NGO; 0; 0;NA; 4;NA
+2; 3; 5;private sector; 1; 0;NA; 0;NA
+1; 6; 5;Other; 1; 1;NA; 2;NA
+2; 1;NA;private sector; 0; 1;NA; 1;NA
+1; 1; 5;Other; 1; 1;NA; 0;NA
+2; 4; 6;private sector; 0; 1;NA;NA; 3
+2; 2;NA;private sector; 0; 1;NA; 0;NA
+1; 4; 5;private sector; 0; 1;NA; 1;NA
+4; 3;NA;NGO; 1; 1;NA; 2;NA
+4; 4; 5;Other; 1; 1; 4;NA;NA
+2; 4; 6;government; 1; 1; 2;NA;NA
+2; 4; 5;private sector; 0; 1; 2;NA;NA
+3; 6; 1;DK; 0; 0;NA;NA; 0
+3; 4; 5;government;NA; 1;NA;NA; 2
+1; 2; 4;private sector; 0; 1; 1;NA;NA
+3; 4;NA;private sector; 0; 1; 3;NA;NA
+1; 2; 6;government; 0; 1;NA; 3;NA
+2; 3; 5;private sector; 0; 0;NA;NA; 1
+2; 3; 5;government; 1; 1;NA;NA; 3
+3; 4; 6;government; 0; 1;NA; 3;NA
+2; 1; 3;private sector; 1; 1;NA;NA; 3
+3; 2; 5;Other; 1; 0;NA; 2;NA
+2; 1;NA;NGO; 1; 0; 4;NA;NA
+2; 2; 6;private sector; 1; 1;NA;NA; 2
+3; 2; 5;Other; 1; 1; 4;NA;NA
+2; 3; 5;private sector; 0; 1;NA; 1;NA
+3; 3; 5;Other; 0; 1;NA;NA; 2
+1; 1; 4;NGO; 1; 0;NA; 3;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 2
+1; 1; 2;government; 1; 1;NA;NA; 3
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 2; 6;private sector; 1; 1; 1;NA;NA
+4; 3;NA;private sector; 0; 1; 3;NA;NA
+3; 4; 6;private sector; 0; 1;NA;NA; 1
+3; 3;NA;private sector; 0; 1;NA;NA; 3
+3; 3; 5;government; 0; 1; 2;NA;NA
+1; 2; 4;government; 1; 1; 2;NA;NA
+2; 4; 6;government; 0; 1; 1;NA;NA
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+1; 1;NA;Other; 1; 1;NA;NA; 1
+1; 1; 5;private sector; 1; 1;NA;NA; 3
+2; 4; 5;private sector; 1; 1; 3;NA;NA
+3; 4; 6;private sector; 0; 1;NA; 2;NA
+4; 4; 5;private sector; 1; 1; 1;NA;NA
+2; 4; 6;DK; 0; 0;NA;NA; 1
+1; 3; 5;Other; 1; 0;NA;NA; 0
+3; 1;NA;private sector; 1; 1;NA;NA; 3
+2; 3;NA;private sector; 0; 0;NA; 3;NA
+1; 1; 5;DK; 0; 1;NA; 2;NA
+3; 4; 6;government; 1; 1; 3;NA;NA
+2; 4;NA;NGO; 0; 1; 4;NA;NA
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 4; 6;private sector; 1; 1;NA;NA; 3
+2; 3; 5;Other; 0; 1; 3;NA;NA
+1; 6; 7;DK; 0; 1;NA; 3;NA
+3; 2;NA;private sector; 1; 1; 4;NA;NA
+4; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 4; 5;government; 1; 1;NA;NA; 1
+2; 3; 5;government; 1; 1; 2;NA;NA
+2; 3; 5;private sector;NA; 1;NA; 3;NA
+3; 3; 5;private sector; 1; 1;NA; 3;NA
+2; 2; 5;government; 1; 1;NA;NA; 2
+2; 2; 5;private sector; 0; 1; 2;NA;NA
+5; 3;NA;government; 0; 1;NA;NA; 3
+3; 4; 6;government;NA;NA;NA; 1;NA
+2; 4; 5;government; 1; 1;NA;NA; 5
+1; 2; 4;Other; 0; 1; 2;NA;NA
+2; 2; 5;government; 0; 1; 3;NA;NA
+4; 3; 5;government; 0; 1;NA; 2;NA
+2; 3; 6;private sector; 0; 1; 3;NA;NA
+2; 2; 5;private sector; 0; 0;NA;NA; 1
+3; 4; 5;private sector; 0; 1;NA; 3;NA
+2; 2; 5;Other; 0; 1; 2;NA;NA
+2; 3; 5;government; 0; 1; 1;NA;NA
+4; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 3; 6;government; 1; 1;NA; 3;NA
+2; 3; 6;private sector; 0; 1;NA;NA; 3
+3; 4; 5;private sector; 1; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 2
+1; 6; 5;Other; 0; 0;NA; 2;NA
+1; 6;NA;Other; 0; 0;NA;NA; 1
+2; 4; 5;private sector; 0; 1; 2;NA;NA
+3; 4; 5;private sector; 1; 1;NA;NA; 2
+4; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 1;NA;government; 0; 1;NA; 0;NA
+1; 1; 5;Other; 0; 1;NA; 3;NA
+2; 3; 5;government; 0; 0;NA;NA; 3
+2; 3; 5;private sector; 1; 1;NA; 3;NA
+1; 6; 5;Other; 1; 0;NA;NA; 4
+3; 3; 5;private sector; 0; 1; 1;NA;NA
+3; 4;NA;private sector; 0; 1;NA; 2;NA
+2; 3;NA;private sector; 0; 1;NA; 3;NA
+1; 2; 4;Other; 0; 1;NA;NA; 4
+1; 6; 5;DK; 0; 0; 2;NA;NA
+2; 2;NA;government; 0; 0;NA; 2;NA
+3; 3;NA;private sector; 0; 1; 2;NA;NA
+2; 4; 5;private sector; 1; 1;NA;NA; 2
+1; 3; 5;Other; 0; 1;NA;NA; 3
+2; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 2; 5;government; 0; 1; 2;NA;NA
+2; 4; 6;private sector; 0; 1; 2;NA;NA
+2; 3; 5;government; 0; 1;NA;NA; 5
+5; 2; 4;private sector; 0; 1;NA; 2;NA
+1; 3; 5;private sector; 1; 0;NA;NA; 1
+3; 3; 5;government; 0; 1;NA;NA; 3
+1; 3; 4;Other; 0; 0;NA; 2;NA
+3; 3;NA;government; 0; 1; 3;NA;NA
+3; 4; 5;Other; 1; 1;NA; 3;NA
+4; 4; 5;private sector; 1; 1; 2;NA;NA
+4; 2;NA;private sector; 0; 1;NA;NA; 1
+3; 3;NA;government; 0; 1;NA;NA; 3
+1; 1; 4;Other; 0; 1; 2;NA;NA
+1; 2;NA;private sector; 1; 1;NA; 1;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+1; 1; 5;private sector; 0; 1;NA;NA; 2
+2; 4; 6;private sector; 0; 0;NA;NA; 2
+1; 6;NA;DK; 1; 0; 1;NA;NA
+1; 6;NA;Other; 0; 1;NA;NA; 0
+4; 2; 4;Other; 0; 1;NA; 4;NA
+3; 4; 5;private sector; 0; 1; 4;NA;NA
+4; 3;NA;government; 0; 1; 3;NA;NA
+4; 6;NA;DK; 0; 0; 3;NA;NA
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 2;NA;private sector; 0; 1; 1;NA;NA
+3; 3; 5;government; 1; 1; 2;NA;NA
+2; 4; 5;government; 0; 1;NA;NA; 2
+1; 3; 5;government; 0; 0;NA;NA; 3
+3; 4; 5;private sector; 0; 1;NA; 1;NA
+2; 4; 5;government; 0; 1; 3;NA;NA
+1; 4;NA;NGO; 0; 1; 0;NA;NA
+1; 2; 4;private sector; 0; 0;NA; 3;NA
+1; 1; 5;Other; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+3; 3; 6;private sector; 0; 1; 1;NA;NA
+3; 2; 4;NGO; 0; 1; 5;NA;NA
+3; 2; 4;private sector; 0; 0;NA; 1;NA
+1; 3; 5;government; 1; 1;NA;NA; 3
+3; 1; 4;DK; 1; 1;NA; 2;NA
+2; 4; 6;government; 1; 1;NA;NA; 3
+1; 3; 5;private sector; 0; 0;NA; 2;NA
+3; 2; 5;private sector; 0; 1;NA; 2;NA
+1; 1; 4;Other; 0; 0;NA; 1;NA
+2; 3; 5;government; 0; 1;NA; 2;NA
+3; 3; 4;government; 0; 1; 2;NA;NA
+1; 1;NA;Other; 1; 1; 3;NA;NA
+3; 3; 4;private sector; 1; 1;NA; 3;NA
+3; 2; 5;private sector; 0; 1;NA;NA; 2
+1; 6; 4;Other; 0; 0;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+4; 2; 5;government; 0; 1; 3;NA;NA
+3; 3; 4;private sector; 0; 1;NA; 1;NA
+5; 2; 5;private sector; 0; 1; 4;NA;NA
+2; 2; 5;government; 1; 1; 3;NA;NA
+3; 2;NA;Other; 0; 1;NA;NA; 3
+3; 2; 5;government; 1; 1; 2;NA;NA
+4; 3; 5;government; 0; 1;NA;NA; 3
+3; 2; 5;government; 1; 1;NA; 1;NA
+2; 4; 5;government; 0; 1;NA; 1;NA
+2; 2; 5;private sector; 1; 1;NA; 4;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 1
+1; 2; 3;government; 1; 1;NA;NA; 4
+1; 2; 5;private sector; 0; 0; 1;NA;NA
+2; 4;NA;private sector; 1; 0;NA; 3;NA
+2; 3; 5;private sector; 0; 0; 5;NA;NA
+1; 2;NA;private sector; 1; 1; 1;NA;NA
+4; 3; 5;government; 1; 1; 2;NA;NA
+3; 2; 5;private sector; 1; 1;NA; 3;NA
+3; 2; 5;private sector; 0; 1; 3;NA;NA
+1; 3; 5;private sector; 0; 1;NA;NA; 2
+3; 2; 5;private sector; 1; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 1;NA; 1;NA
+4; 2; 5;government; 1; 1;NA; 3;NA
+2; 1; 5;government; 1; 1;NA;NA; 2
+1; 1;NA;private sector; 0; 1;NA; 4;NA
+3; 3; 5;private sector; 0; 1; 5;NA;NA
+3; 3; 5;private sector; 1; 1; 1;NA;NA
+3; 3; 6;private sector; 1; 1;NA;NA; 4
+5; 1;NA;private sector; 1; 1;NA; 2;NA
+2; 4; 5;Other; 1; 1; 3;NA;NA
+2; 2;NA;private sector; 1; 0;NA;NA; 5
+2; 3;NA;private sector; 1; 1;NA;NA; 3
+3; 4; 6;private sector; 0; 1;NA; 4;NA
+3; 4;NA;private sector; 1; 1;NA; 2;NA
+1; 3;NA;private sector; 0; 1; 2;NA;NA
+4; 2;NA;private sector; 1; 0;NA; 3;NA
+3; 4; 5;private sector; 0; 1;NA; 2;NA
+3; 3; 5;government; 1; 1; 3;NA;NA
+2; 4; 6;government; 0; 1;NA; 2;NA
+3; 3; 5;government; 1; 1;NA; 2;NA
+2; 4; 5;private sector; 0; 1;NA; 3;NA
+1; 2; 5;Other; 1; 1; 3;NA;NA
+3; 4; 5;government; 0; 1; 2;NA;NA
+2; 3; 5;government; 1; 1;NA; 3;NA
+1; 1; 4;Other; 0; 0;NA;NA; 0
+2; 2; 5;Other; 1; 1;NA; 2;NA
+1; 2; 4;government; 1; 1;NA; 3;NA
+1; 2;NA;NGO; 1; 1;NA;NA; 1
+2; 3; 6;private sector; 0; 1;NA; 3;NA
+4; 2; 5;private sector; 0; 1; 4;NA;NA
+3; 4; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+3; 2;NA;private sector; 0; 1;NA; 3;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 3
+3; 2;NA;private sector; 0; 1;NA;NA; 2
+2; 6; 6;private sector; 0; 1;NA;NA; 2
+4; 3;NA;private sector; 0; 1;NA;NA; 3
+3; 4; 5;private sector; 0; 1; 1;NA;NA
+3; 4; 5;private sector; 0; 1;NA; 1;NA
+2; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+4; 3;NA;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 1;NA;NA; 2
+4; 3;NA;private sector; 0; 1;NA; 3;NA
+3; 3;NA;NGO; 0; 1;NA; 3;NA
+3; 3; 5;private sector; 1; 1; 1;NA;NA
+4; 3; 4;private sector; 0; 1;NA;NA; 3
+4; 3;NA;private sector; 0; 1;NA;NA; 3
+4; 2;NA;government; 1; 1;NA;NA; 1
+2; 3; 6;private sector; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 1; 1; 4;NA;NA
+2; 2; 5;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+4; 3;NA;private sector; 0; 1; 3;NA;NA
+2; 4; 6;private sector; 1; 1;NA; 1;NA
+1; 1; 4;Other; 1; 1; 3;NA;NA
+1; 1; 4;private sector; 0; 0;NA; 1;NA
+4; 3; 6;government; 0; 1; 3;NA;NA
+3; 3; 6;government; 0; 1;NA; 1;NA
+2; 2; 4;private sector; 0; 1;NA; 1;NA
+2; 3; 5;private sector; 0; 1; 1;NA;NA
+3; 4; 6;private sector; 1; 1;NA; 3;NA
+4; 3; 5;government; 0; 1;NA; 3;NA
+2; 4; 5;private sector; 1; 1; 2;NA;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 2
+2; 3;NA;private sector; 0; 1; 2;NA;NA
+3; 4; 5;government; 0; 1;NA; 3;NA
+4; 3;NA;private sector; 0; 1;NA;NA; 3
+2; 4; 6;private sector; 0; 1;NA; 2;NA
+1; 1;NA;private sector; 0; 1; 2;NA;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 3
+1; 2;NA;private sector; 0; 1;NA; 2;NA
+2; 2; 5;private sector; 0; 1;NA;NA; 2
+4; 3; 4;private sector; 0; 1;NA; 3;NA
+1; 1;NA;government; 1; 1;NA;NA; 1
+2; 2;NA;private sector; 0; 1; 3;NA;NA
+2; 1; 5;private sector; 0; 1; 2;NA;NA
+2; 3;NA;private sector; 0; 1;NA; 2;NA
+2; 2; 5;government; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 1; 1; 3;NA;NA
+2; 2; 5;private sector; 0; 1; 2;NA;NA
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+1; 6;NA;Other; 0; 1; 4;NA;NA
+2; 2;NA;government; 0; 1;NA;NA; 3
+3; 4; 6;government; 1; 0;NA;NA; 2
+1; 1; 5;Other; 0; 1; 1;NA;NA
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 3; 5;government; 0; 1; 4;NA;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 3
+2; 1;NA;private sector; 0; 1;NA;NA; 1
+2; 2;NA;private sector; 1; 1;NA;NA; 4
+2; 6; 5;private sector; 1; 1;NA;NA; 2
+2; 3; 5;private sector; 1; 1; 1;NA;NA
+2; 2; 4;private sector; 1; 1;NA;NA; 1
+3; 3; 5;private sector; 0; 1;NA;NA; 4
+2; 2;NA;private sector; 0; 1;NA;NA; 2
+1; 3; 5;private sector; 1; 1; 1;NA;NA
+2; 3;NA;private sector; 0; 1; 3;NA;NA
+2; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 2; 6;private sector; 1; 1;NA; 1;NA
+1; 2;NA;private sector; 0; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 3
+4; 3;NA;private sector; 0; 1;NA; 3;NA
+2; 3;NA;private sector; 0; 1;NA; 2;NA
+2; 2;NA;private sector; 0; 1;NA; 2;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+3; 3; 6;private sector; 1; 1;NA;NA; 3
+2; 2;NA;private sector; 0; 1; 1;NA;NA
+3; 2; 5;private sector; 0; 1;NA;NA; 1
+2; 3; 5;private sector; 0; 1;NA;NA; 1
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 2; 6;government; 1; 1;NA; 2;NA
+4; 2; 5;government; 0; 1;NA; 3;NA
+2; 4; 5;private sector; 1; 1;NA;NA; 3
+2; 4; 5;private sector; 1; 1; 2;NA;NA
+2; 3;NA;Other; 0; 0;NA; 2;NA
+2; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 3; 5;private sector; 0; 1;NA; 0;NA
+2; 1; 5;government; 1; 1;NA; 2;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 2
+3; 3; 5;government; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA; 3;NA
+1; 2; 4;private sector; 1; 1; 1;NA;NA
+1; 2; 4;Other; 0; 0;NA;NA; 1
+2; 2; 5;private sector; 1; 0;NA;NA; 1
+1; 2; 4;Other; 0; 0;NA; 2;NA
+3; 2;NA;private sector; 0; 1;NA; 2;NA
+4; 3;NA;private sector; 0; 1;NA;NA; 3
+2; 2;NA;government; 0; 1; 1;NA;NA
+3; 3; 6;private sector; 1; 1;NA; 2;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 2
+2; 2; 5;private sector; 1; 1;NA; 1;NA
+2; 2;NA;private sector; 0; 0; 2;NA;NA
+3; 2; 5;private sector; 0; 1;NA; 1;NA
+1; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 2;NA;private sector; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 2; 5;government; 0; 1;NA; 1;NA
+4; 3;NA;private sector; 0; 1;NA; 3;NA
+2; 2; 5;private sector; 0; 1;NA;NA; 1
+3; 4; 5;government; 0; 1;NA; 2;NA
+2; 2;NA;private sector; 0; 1; 3;NA;NA
+1; 1;NA;government; 1; 1;NA;NA; 1
+3; 2; 5;NGO; 0; 1;NA;NA; 1
+2; 3;NA;private sector; 0; 1;NA;NA; 1
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 2; 5;private sector; 1; 1;NA;NA; 1
+4; 3;NA;private sector; 0; 1;NA; 3;NA
+2; 2; 5;government; 0; 1;NA; 3;NA
+2; 2; 5;government; 1; 1;NA;NA; 1
+1; 3; 5;private sector; 1; 1;NA; 1;NA
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 2; 4;NGO; 0; 0; 2;NA;NA
+2; 2;NA;government; 0; 1; 2;NA;NA
+2; 3;NA;private sector; 0; 1; 2;NA;NA
+3; 4; 5;private sector; 1; 1; 1;NA;NA
+2; 3; 5;government; 0; 1;NA;NA; 4
+4; 3;NA;private sector; 0; 1; 3;NA;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 1
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 2; 4;Other; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+1; 1; 5;government; 1; 0;NA;NA; 4
+2; 3; 5;private sector; 1; 1; 3;NA;NA
+4; 3;NA;private sector; 0; 1;NA;NA; 2
+1; 3; 5;private sector; 0; 1;NA;NA; 1
+3; 2;NA;government; 0; 0; 1;NA;NA
+1; 3; 5;Other; 1; 1; 2;NA;NA
+3; 2; 4;NGO; 0; 1;NA;NA; 2
+3; 2; 5;private sector; 1; 1;NA;NA; 1
+2; 2;NA;private sector; 0; 1;NA;NA; 1
+4; 3;NA;private sector; 0; 1;NA;NA; 3
+2; 3; 5;private sector; 0; 1;NA;NA; 2
+1; 1; 5;Other; 1; 0;NA; 1;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 2
+1; 3; 5;private sector; 1; 1; 1;NA;NA
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 4; 5;government; 0; 1;NA; 2;NA
+3; 2; 6;Other; 1; 1; 3;NA;NA
+1; 3; 5;private sector; 1; 1;NA;NA; 1
+4; 3;NA;private sector; 0; 1; 3;NA;NA
+4; 3;NA;private sector; 0; 1; 2;NA;NA
+3; 4; 5;private sector; 0; 1; 0;NA;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 3
+3; 2;NA;NGO; 0; 1;NA;NA; 2
+2; 3; 5;government; 0; 1; 1;NA;NA
+2; 3; 5;private sector; 1; 1;NA; 1;NA
+4; 2; 4;Other; 0; 1; 2;NA;NA
+2; 3; 6;Other; 0; 0;NA;NA; 1
+1; 2;NA;private sector; 0; 0;NA; 3;NA
+3; 3;NA;private sector; 1; 0; 3;NA;NA
+3; 3; 6;private sector; 0; 1;NA;NA; 3
+2; 3; 5;private sector; 1; 1; 3;NA;NA
+1; 1; 5;Other; 0; 1;NA; 3;NA
+2; 2;NA;private sector; 0; 1;NA;NA; 1
+4; 2; 5;government; 1; 1;NA;NA; 2
+1; 2;NA;private sector; 0; 1;NA;NA; 2
+1; 6; 5;Other; 0; 1;NA;NA; 1
+2; 3; 5;private sector; 1; 1;NA; 1;NA
+3; 3;NA;private sector; 0; 1; 1;NA;NA
+2; 4; 6;private sector; 1; 1;NA;NA; 2
+2; 2; 5;government; 0; 1; 4;NA;NA
+2; 3; 5;private sector;NA; 1;NA; 2;NA
+4; 3;NA;private sector; 1; 1;NA;NA; 3
+4; 3;NA;private sector; 0; 1; 3;NA;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 2
+2; 2;NA;government; 1; 1;NA;NA; 2
+2; 3;NA;private sector; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 1; 1;NA; 4;NA
+2; 6; 7;DK; 0; 1;NA; 3;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 1
+1; 3; 5;private sector; 0; 0; 3;NA;NA
+1; 3; 5;private sector; 1; 1; 1;NA;NA
+2; 2; 5;private sector; 0; 1; 4;NA;NA
+2; 3; 5;private sector; 0; 0;NA;NA; 1
+4; 2; 4;DK; 1; 1; 2;NA;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 4
+2; 3;NA;private sector; 0; 1;NA;NA; 1
+3; 6; 1;Other; 0; 1;NA;NA;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 2
+2; 3;NA;private sector; 0; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+2; 3;NA;government; 0; 1; 2;NA;NA
+2; 2; 5;private sector; 0; 0;NA;NA; 4
+4; 1;NA;Other; 0; 1;NA; 1;NA
+2; 3; 5;private sector; 1; 1;NA; 3;NA
+2; 2; 4;private sector; 0; 1;NA;NA; 2
+4; 3;NA;government; 0; 1;NA;NA; 3
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+1; 2;NA;Other; 1; 1; 1;NA;NA
+3; 3; 4;private sector; 0; 0;NA; 3;NA
+3; 2; 4;private sector; 0; 1; 2;NA;NA
+4; 2; 4;DK; 1; 1;NA;NA; 2
+1; 2;NA;private sector; 1; 1;NA;NA; 2
+4; 3;NA;private sector; 0; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1; 4;NA;NA
+2; 1;NA;private sector; 1; 0;NA; 2;NA
+2; 3; 5;private sector; 1; 1;NA; 1;NA
+2; 2;NA;private sector; 0; 1; 2;NA;NA
+1; 3;NA;private sector; 0; 0; 0;NA;NA
+3; 2; 4;private sector; 0; 1;NA; 1;NA
+3; 1;NA;private sector; 0; 0; 2;NA;NA
+3; 2;NA;private sector; 0; 1;NA; 1;NA
+1; 1; 5;private sector; 1; 0;NA; 1;NA
+4; 3;NA;government;NA;NA;NA; 3;NA
+1; 4; 5;government; 1; 1;NA; 3;NA
+1; 2; 4;private sector; 0; 0;NA; 1;NA
+2; 3;NA;private sector; 0; 1;NA; 1;NA
+3; 4; 5;private sector; 0; 1;NA; 2;NA
+3; 4; 5;private sector; 0; 1;NA; 3;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 2
+3; 2;NA;private sector; 0; 1; 2;NA;NA
+3; 4; 6;private sector; 0; 1;NA; 4;NA
+1; 3; 5;private sector; 1; 1;NA; 1;NA
+2; 3;NA;private sector; 0; 1;NA; 2;NA
+2; 1; 4;DK; 0; 0; 3;NA;NA
+3; 2; 5;private sector; 0; 1; 1;NA;NA
+3; 3; 4;private sector; 0; 0; 2;NA;NA
+2; 2; 4;private sector; 0; 1; 2;NA;NA
+3; 3;NA;private sector; 0; 1; 3;NA;NA
+2; 4; 5;private sector; 1; 0;NA;NA; 2
+1; 1;NA;Other; 1; 1;NA; 2;NA
+1; 2; 5;government; 0; 1;NA;NA; 3
+2; 2;NA;private sector; 0; 1;NA; 2;NA
+4; 2; 4;DK; 0; 1; 2;NA;NA
+3; 2;NA;private sector; 0; 1; 2;NA;NA
+2; 3;NA;private sector; 1; 1; 3;NA;NA
+1; 3; 5;private sector; 1; 1;NA;NA; 1
+2; 3; 6;private sector; 0; 1; 2;NA;NA
+1; 2;NA;private sector; 0; 0; 2;NA;NA
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+2; 3; 5;government; 1; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 3; 5;private sector; 1; 1;NA; 1;NA
+2; 2; 5;government; 0; 1;NA; 3;NA
+3; 3;NA;government; 0; 1;NA;NA; 3
+2; 3; 5;private sector; 1; 1; 2;NA;NA
+3; 4; 5;government; 1; 1;NA;NA; 1
+1; 1;NA;private sector; 0; 1; 2;NA;NA
+4; 4; 6;private sector; 0; 1;NA;NA; 3
+2; 2; 4;NGO; 0; 1;NA;NA; 3
+2; 3; 5;government; 1; 1; 2;NA;NA
+2; 2; 6;NGO; 0; 0;NA; 3;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 2
+5; 2; 4;DK; 1; 1; 2;NA;NA
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+5; 2; 5;private sector; 0; 1;NA;NA; 2
+2; 2; 5;private sector; 0; 1;NA; 2;NA
+4; 3;NA;government; 1; 1;NA;NA; 3
+2; 3; 5;private sector; 1; 1;NA; 1;NA
+3; 2; 5;government; 1; 1;NA;NA; 3
+5; 3; 5;government; 0; 1;NA; 3;NA
+1; 1; 5;Other; 1; 1;NA; 2;NA
+3; 4;NA;private sector; 1; 0;NA;NA; 3
+2; 2; 4;NGO; 0; 1; 3;NA;NA
+3; 4; 6;private sector; 1; 1;NA;NA; 2
+5; 2; 5;government; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 3;NA;private sector; 1; 1;NA;NA; 2
+3; 4;NA;private sector; 0; 0;NA;NA; 2
+1; 1; 3;Other; 1; 0; 3;NA;NA
+1; 3; 4;private sector; 0; 1;NA;NA; 1
+1; 6; 5;Other; 1; 1;NA; 1;NA
+2; 2; 5;private sector; 1; 0;NA; 1;NA
+5; 2; 4;DK; 1; 1;NA;NA; 2
+4; 3;NA;government; 1; 1;NA; 3;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 2
+3; 3; 5;government; 0; 1;NA;NA; 4
+4; 1;NA;Other; 1; 1;NA; 1;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 1
+2; 3; 6;private sector; 1; 1; 1;NA;NA
+2; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 2;NA;private sector; 0; 0; 2;NA;NA
+3; 2;NA;private sector; 0; 1;NA;NA; 2
+1; 3; 5;Other; 0; 1;NA;NA; 0
+2; 2;NA;private sector; 0; 1;NA;NA; 2
+4; 3;NA;private sector; 1; 1;NA; 2;NA
+2; 3;NA;private sector; 1; 1;NA; 3;NA
+4; 4; 4;private sector; 0; 0;NA;NA; 3
+4; 3; 5;private sector; 0; 1; 2;NA;NA
+1; 1; 4;government; 0; 1;NA; 3;NA
+4; 3; 5;private sector; 1; 1;NA;NA; 2
+1; 4; 4;private sector; 1; 1;NA;NA; 2
+2; 1; 5;Other; 0; 0; 2;NA;NA
+4; 2; 4;DK; 1; 1;NA; 1;NA
+2; 3;NA;private sector; 1; 1;NA; 2;NA
+4; 1;NA;Other; 1; 1; 1;NA;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 2
+1; 3; 5;private sector; 1; 1;NA; 3;NA
+2; 2; 5;private sector; 1; 0;NA; 1;NA
+1; 1; 4;private sector; 1; 1; 3;NA;NA
+2; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 2; 5;government; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+5; 6; 1;Other; 1; 1;NA; 4;NA
+2; 1; 3;private sector; 0; 1;NA; 2;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 2
+2; 2; 2;private sector; 1; 1; 1;NA;NA
+2; 1; 4;private sector; 0; 1; 4;NA;NA
+2; 2; 6;private sector; 1; 1;NA; 1;NA
+4; 2; 4;DK; 1; 1; 2;NA;NA
+2; 4; 5;private sector; 0; 1;NA;NA; 2
+2; 4; 5;private sector; 1; 1;NA;NA; 2
+2; 4; 5;government; 1; 1;NA;NA; 2
+2; 4; 6;private sector; 1; 1;NA; 1;NA
+3; 4; 5;private sector; 0; 1; 1;NA;NA
+2; 3; 6;private sector; 1; 1;NA; 1;NA
+2; 1;NA;private sector; 0; 1;NA; 2;NA
+2; 2; 5;private sector; 0; 1;NA;NA; 1
+4; 2; 4;DK; 1; 1;NA;NA; 1
+2; 1; 5;Other; 1; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 2; 5;private sector; 1; 1;NA; 2;NA
+2; 6; 5;private sector; 1; 1;NA; 2;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 3
+1; 1; 5;Other; 0; 1;NA; 1;NA
+3; 3; 5;private sector; 0; 1;NA; 0;NA
+4; 3; 5;private sector; 1; 1;NA; 3;NA
+3; 4; 5;government; 0; 1; 3;NA;NA
+2; 3; 6;private sector; 0; 1;NA; 2;NA
+5; 2; 4;DK; 1; 1;NA; 2;NA
+3; 4; 5;Other; 0; 1;NA; 0;NA
+3; 4; 5;private sector; 1; 1; 2;NA;NA
+2; 3; 6;private sector; 1; 1;NA;NA; 2
+3; 3; 5;government; 0; 1; 4;NA;NA
+4; 2;NA;Other; 1; 1; 3;NA;NA
+2; 3; 5;Other; 1; 0;NA;NA; 3
+4; 2; 4;DK; 1; 1;NA;NA; 1
+3; 2; 5;government; 1; 1;NA; 2;NA
+1; 3; 5;private sector; 1; 1;NA; 1;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 2
+2; 2;NA;government; 0; 1; 2;NA;NA
+4; 3; 5;private sector; 0; 1; 2;NA;NA
+1; 2; 5;private sector; 0; 1;NA;NA; 0
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+1; 1; 1;government; 0; 1;NA; 0;NA
+1; 1; 5;government; 0; 1;NA; 1;NA
+2; 3; 5;government; 0; 1; 3;NA;NA
+4; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 3; 5;government; 0; 1;NA;NA; 2
+3; 3; 6;private sector; 0; 1; 1;NA;NA
+3; 2; 5;private sector; 1; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 2; 5;private sector; 1; 1;NA;NA; 2
+1; 6;NA;government; 0; 1;NA;NA; 1
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+4; 4;NA;private sector; 1; 1; 1;NA;NA
+2; 3; 5;private sector; 1; 1;NA; 1;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+1; 1;NA;private sector; 0; 1;NA; 1;NA
+1; 2; 5;government; 0; 1;NA; 2;NA
+2; 2; 5;private sector; 0; 1;NA;NA; 1
+3; 2; 5;government; 1; 1;NA; 1;NA
+2; 3; 5;private sector; 1; 1; 2;NA;NA
+1; 1; 5;DK; 0; 0; 1;NA;NA
+2; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 6;government; 1; 1; 1;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 2; 5;private sector; 0; 1; 2;NA;NA
+1; 3; 5;private sector; 1; 1;NA; 1;NA
+2; 2; 5;private sector; 1; 1;NA; 1;NA
+2; 3; 5;private sector; 1; 1;NA; 2;NA
+1; 6; 5;DK; 0; 1; 2;NA;NA
+4; 3; 5;private sector; 1; 1;NA; 1;NA
+4; 3; 5;government; 0; 1; 2;NA;NA
+4; 3;NA;government; 1; 1; 1;NA;NA
+3; 2; 5;private sector; 1; 1;NA; 1;NA
+1; 3; 5;private sector; 1; 1;NA; 1;NA
+2; 3;NA;private sector; 0; 1;NA; 2;NA
+2; 2; 5;private sector; 1; 1;NA;NA; 1
+3; 3; 4;NGO; 1; 0; 0;NA;NA
+2; 1; 4;private sector; 0; 0; 3;NA;NA
+3; 2; 5;private sector; 1;NA;NA; 1;NA
+1; 1; 5;Other; 1; 1;NA; 2;NA
+2; 4; 5;private sector; 0; 1;NA; 1;NA
+1; 3; 5;private sector; 1; 1;NA; 1;NA
+3; 4; 6;government; 0; 1;NA; 2;NA
+2; 1;NA;private sector; 1; 1;NA; 2;NA
+3; 4; 5;government; 1; 1; 2;NA;NA
+3; 4;NA;government; 1; 1; 3;NA;NA
+2; 3;NA;government; 0; 1; 3;NA;NA
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+1; 1; 5;Other; 1; 1;NA; 4;NA
+3; 3; 5;private sector; 1; 1; 1;NA;NA
+3; 3;NA;government; 0; 1;NA; 3;NA
+1; 6; 5;private sector; 0; 0;NA; 3;NA
+1; 3;NA;private sector; 1; 1; 1;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 2; 5;government; 1; 1;NA; 1;NA
+1; 2;NA;NGO; 1; 1;NA; 3;NA
+1; 2;NA;private sector; 0; 0; 2;NA;NA
+3; 6; 4;Other; 0; 1;NA;NA; 1
+2; 3;NA;government; 0; 1;NA;NA; 3
+1; 4; 2;NGO; 0; 0;NA;NA; 2
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+1; 2; 4;Other; 1; 1; 1;NA;NA
+1; 2; 5;private sector; 1; 1;NA;NA; 3
+1; 1; 5;Other; 0; 0;NA; 1;NA
+1; 1; 5;private sector;NA;NA; 2;NA;NA
+3; 3; 5;Other; 1; 1;NA; 3;NA
+3; 3; 6;government; 0; 1;NA; 2;NA
+3; 3; 5;government; 0; 1;NA;NA; 4
+1; 1; 1;Other; 0; 1; 3;NA;NA
+2; 3; 5;government; 0; 1;NA;NA; 1
+4; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 6;NA;Other; 1; 1; 3;NA;NA
+1; 3; 5;private sector; 0; 0;NA; 1;NA
+3; 3;NA;Other; 1; 1;NA;NA; 2
+2; 3;NA;government; 0; 1; 3;NA;NA
+2; 3; 5;government; 1; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 1; 1;NA;NA
+1; 2;NA;private sector; 1; 0;NA; 2;NA
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 1; 4;NA;NA
+1; 3; 5;private sector; 1; 1;NA;NA; 1
+4; 3; 6;government; 0; 1;NA; 1;NA
+4; 2; 4;private sector; 0; 1; 2;NA;NA
+2; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 3; 3;Other; 1; 0; 0;NA;NA
+2; 3;NA;private sector; 1; 0; 5;NA;NA
+3; 4; 6;private sector; 0; 1; 1;NA;NA
+3; 2; 5;private sector; 0; 1;NA;NA; 3
+2; 3; 5;private sector; 1; 1;NA;NA; 1
+3; 3; 5;private sector; 1; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 3;NA;government; 0; 1; 2;NA;NA
+2; 2; 5;private sector; 0; 0; 4;NA;NA
+2; 1; 5;Other; 0; 1;NA;NA; 1
+1; 6; 4;Other; 0; 0;NA; 1;NA
+4; 3; 5;private sector; 1; 1; 2;NA;NA
+1; 3; 5;private sector; 1; 1;NA;NA; 1
+1; 1;NA;private sector; 1; 0; 3;NA;NA
+2; 3;NA;government; 0; 0;NA; 3;NA
+1; 1; 4;Other; 1; 1;NA;NA; 1
+2; 2;NA;private sector; 1; 1;NA; 3;NA
+4; 3; 6;government; 1; 1;NA; 2;NA
+1; 1; 5;private sector; 0; 1;NA; 2;NA
+4; 2; 5;private sector; 1; 1;NA;NA; 1
+1; 6; 3;NGO; 0; 0;NA; 2;NA
+2; 2;NA;government; 0; 1; 4;NA;NA
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 1
+1; 3; 5;private sector; 1; 1;NA; 1;NA
+2; 1; 1;government; 0; 1;NA; 0;NA
+4; 2;NA;government; 1; 1; 2;NA;NA
+4; 4; 4;Other; 1; 0;NA; 0;NA
+4; 2; 5;government; 0; 1;NA;NA; 1
+4; 2; 5;government; 0; 1;NA;NA; 3
+4; 2;NA;private sector;NA; 1;NA; 2;NA
+1; 3; 5;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA;NA; 1
+4; 4; 5;government; 0; 1;NA;NA; 2
+1; 1; 5;private sector; 1; 1;NA;NA; 2
+3; 3; 5;government; 1; 1;NA; 2;NA
+3; 4; 5;private sector; 0; 1; 2;NA;NA
+3; 4; 5;government; 0; 1;NA;NA; 3
+2; 4; 5;private sector; 0; 1;NA;NA; 2
+1; 3; 5;private sector; 1; 1;NA;NA; 1
+2; 2; 5;government; 1; 0;NA;NA;NA
+2; 2; 4;private sector; 0; 1;NA;NA; 0
+4; 3; 4;Other; 0; 0;NA;NA; 1
+2; 4; 5;private sector; 1; 1;NA;NA; 0
+1; 2; 5;Other; 1; 0;NA;NA; 1
+4; 4;NA;Other; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 4; 6;private sector; 1; 1; 5;NA;NA
+2; 1; 5;government; 0; 1;NA;NA; 2
+1; 3; 3;Other; 1; 0;NA; 2;NA
+3; 3;NA;NGO; 0; 1; 1;NA;NA
+2; 2;NA;government; 1; 1;NA; 1;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 3
+1; 6; 4;DK; 1; 1;NA;NA; 2
+2; 6; 6;government; 0; 1;NA;NA; 4
+4; 4;NA;NGO; 0; 0;NA; 1;NA
+2; 3; 5;private sector; 1; 1;NA; 3;NA
+2; 2; 5;private sector; 1; 1;NA; 3;NA
+1; 4; 5;private sector; 0; 1; 2;NA;NA
+2; 2; 5;government; 1; 1; 1;NA;NA
+3; 4; 4;NGO; 0; 0;NA;NA; 1
+2; 4; 5;government; 0; 1;NA; 2;NA
+1; 2; 4;NGO; 0; 1;NA; 2;NA
+2; 3; 4;NGO; 0; 0;NA;NA; 2
+3; 4; 5;private sector; 0; 1;NA;NA; 3
+1; 2; 4;DK; 0; 0; 1;NA;NA
+4; 4; 2;Other; 0; 1;NA;NA; 3
+3; 2; 5;private sector; 0; 0;NA;NA; 2
+1; 4;NA;private sector; 1; 0;NA;NA; 1
+2; 3; 6;private sector; 0; 1; 3;NA;NA
+1; 6; 4;Other; 1; 1; 5;NA;NA
+3; 4;NA;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 1
+2; 3; 5;NGO; 1; 1; 2;NA;NA
+2; 1; 5;Other; 0; 1;NA;NA; 2
+1; 1; 5;Other; 0; 1; 1;NA;NA
+3; 4;NA;government; 0; 1;NA; 3;NA
+2; 2; 5;private sector; 1; 1;NA; 3;NA
+3; 2; 5;private sector; 0; 1;NA; 3;NA
+1; 1; 4;private sector; 0; 1; 3;NA;NA
+3; 1; 4;Other; 0; 1;NA;NA; 2
+2; 1; 4;private sector; 1; 1; 2;NA;NA
+1; 3; 5;Other; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+4; 4;NA;private sector; 0; 1;NA; 1;NA
+1; 4; 5;Other; 1; 0; 3;NA;NA
+3; 4; 5;government; 1; 1; 3;NA;NA
+2; 3; 6;government; 0; 1;NA;NA; 1
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+1; 4; 5;private sector; 1; 1;NA; 3;NA
+2; 3; 4;private sector; 1; 1; 0;NA;NA
+1; 3; 6;government; 0; 1;NA; 3;NA
+1; 6; 5;Other; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+1; 1; 5;Other; 1; 1;NA;NA; 3
+2; 3; 5;government; 0; 1;NA;NA; 2
+1; 4; 5;private sector; 0; 1; 2;NA;NA
+2; 3; 5;government; 0; 0;NA; 2;NA
+4; 3; 5;private sector; 1; 1; 1;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 3;NA
+4; 2; 4;private sector; 0; 0; 1;NA;NA
+1; 6; 5;Other; 0; 1;NA; 3;NA
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+2; 4; 5;government; 0; 1;NA; 1;NA
+2; 2; 5;private sector; 1; 1; 1;NA;NA
+2; 3;NA;government; 0; 1;NA;NA; 3
+2; 4; 5;government; 1; 1;NA;NA; 3
+2; 1; 6;Other; 0; 1;NA;NA; 3
+3; 4; 5;government; 0; 1;NA; 2;NA
+2; 4; 6;government; 1; 1;NA; 1;NA
+1; 3; 5;Other; 0; 1; 2;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 3;NA
+1; 1;NA;private sector; 0; 0;NA; 2;NA
+1; 1; 5;private sector; 1; 1;NA;NA;NA
+1; 1; 5;Other; 0;NA; 0;NA;NA
+4; 2; 4;private sector; 0; 1;NA;NA; 2
+4; 4; 4;Other; 0; 1;NA; 3;NA
+2; 4; 5;government; 1; 1;NA; 1;NA
+2; 4; 6;private sector; 0; 1; 3;NA;NA
+3; 4; 6;government; 0; 1;NA; 4;NA
+2; 1; 4;Other; 0; 0;NA; 3;NA
+2; 4; 6;private sector; 0; 1;NA; 4;NA
+2; 1; 5;government; 0; 1; 1;NA;NA
+1; 1; 5;government; 1; 0;NA; 2;NA
+2; 4; 5;private sector; 0; 1; 4;NA;NA
+2; 4; 5;private sector; 1; 1; 1;NA;NA
+2; 4; 5;government; 0; 1; 3;NA;NA
+3; 4; 5;private sector; 1; 1;NA; 2;NA
+4; 3; 4;government; 0; 1; 3;NA;NA
+3; 4; 5;government; 1; 1;NA; 2;NA
+3; 3; 5;government; 0; 1;NA;NA; 2
+1; 2; 5;private sector; 0; 1; 0;NA;NA
+1; 2; 5;Other; 0; 1;NA;NA; 3
+2; 2; 5;government; 0; 1; 2;NA;NA
+1; 1; 5;Other; 0; 0;NA;NA; 2
+3; 3; 5;private sector; 1; 1;NA;NA; 3
+1; 2; 4;government; 1; 1; 1;NA;NA
+2; 3; 6;government; 0; 1; 3;NA;NA
+5; 2; 4;government; 1; 1; 2;NA;NA
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+2; 4; 5;private sector; 0; 1; 2;NA;NA
+1; 1; 4;government; 1; 0;NA;NA; 2
+2; 3; 6;private sector; 1; 1; 2;NA;NA
+4; 3;NA;private sector; 0; 1; 2;NA;NA
+2; 4; 5;private sector;NA; 0;NA;NA; 1
+1; 2; 5;Other; 0; 1;NA;NA; 3
+1; 2;NA;private sector; 0; 0;NA; 2;NA
+3; 2; 4;government; 1; 0;NA;NA; 3
+2; 2;NA;private sector; 1; 0; 4;NA;NA
+2; 1; 3;private sector; 1;NA;NA;NA; 1
+3; 2; 3;private sector; 0; 0; 4;NA;NA
+3; 1; 3;NGO; 1; 0;NA;NA; 2
+2; 4; 5;private sector; 0; 1; 3;NA;NA
+2; 2; 5;government; 0; 1;NA; 2;NA
+3; 3; 5;Other; 0; 1; 2;NA;NA
+1; 1; 5;private sector; 0; 0; 1;NA;NA
+3; 3; 5;government; 0; 1; 3;NA;NA
+1; 1; 4;government; 1; 0;NA; 3;NA
+1; 4; 6;private sector; 0; 1; 3;NA;NA
+1; 6;NA;DK; 0; 0; 2;NA;NA
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+1; 3; 7;NGO; 0; 1;NA;NA; 2
+3; 1;NA;Other; 1; 0;NA; 2;NA
+4; 4; 5;private sector; 0; 1; 1;NA;NA
+1; 2;NA;private sector; 0; 1;NA; 2;NA
+4; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 2; 5;government; 1; 1;NA; 3;NA
+1; 1; 5;Other; 1; 0;NA; 1;NA
+2; 2; 5;private sector; 0; 1; 3;NA;NA
+1; 3; 4;Other; 0; 0;NA;NA; 3
+1; 1;NA;private sector; 0; 0;NA; 2;NA
+3; 4; 5;DK; 0; 1;NA; 1;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 1
+3; 4; 6;private sector; 1; 1;NA;NA; 2
+2; 4; 5;private sector; 0; 1;NA; 2;NA
+1; 3; 4;private sector; 0; 0; 2;NA;NA
+1; 1; 3;private sector; 0; 0;NA;NA; 5
+3; 4; 5;private sector; 0; 1; 0;NA;NA
+3; 4; 5;private sector; 1; 1; 2;NA;NA
+2; 2;NA;private sector; 1; 0;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+1; 6; 4;Other; 0; 1;NA; 2;NA
+2; 3;NA;private sector; 0; 0;NA; 1;NA
+1; 1; 5;private sector; 1; 0;NA; 1;NA
+4; 2; 5;private sector; 0; 1; 1;NA;NA
+2; 1; 5;private sector; 0; 0; 1;NA;NA
+1; 1; 3;Other; 0; 0;NA;NA; 3
+4; 4; 5;private sector; 1; 1;NA; 2;NA
+1; 6; 5;Other; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 6; 7;DK; 0; 1;NA; 1;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 1
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+4; 1; 4;private sector; 0; 1; 1;NA;NA
+1; 2; 5;private sector; 0; 1;NA;NA; 1
+2; 1;NA;private sector; 1; 0; 1;NA;NA
+2; 3; 5;government; 0; 1; 1;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+4; 3; 5;private sector; 0; 1;NA; 1;NA
+2; 4; 6;private sector; 0; 1;NA;NA; 1
+2; 6; 3;Other; 1; 0;NA;NA; 3
+1; 6; 7;DK; 0; 1;NA; 2;NA
+1; 1;NA;private sector; 1; 1;NA; 4;NA
+2; 4; 5;private sector; 1; 1;NA; 2;NA
+2; 3; 4;government; 1; 0; 1;NA;NA
+1; 4;NA;private sector; 0; 1;NA;NA; 1
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 3;NA;government; 0; 1; 2;NA;NA
+3; 2; 6;private sector; 1; 1;NA; 2;NA
+2; 4; 5;private sector; 1; 1;NA; 1;NA
+2; 2;NA;Other; 1; 0; 1;NA;NA
+1; 1; 4;Other; 1; 0;NA; 3;NA
+2; 6;NA;Other; 1; 0;NA; 2;NA
+2; 1; 4;DK; 1; 0;NA;NA; 2
+1; 1; 4;Other; 1; 0;NA;NA; 2
+1; 6; 7;Other; 0; 0;NA; 2;NA
+1; 3; 4;NGO; 0; 0;NA; 0;NA
+3; 6;NA;Other; 1; 1;NA;NA; 0
+2; 1; 6;Other; 1; 1; 3;NA;NA
+3; 4; 5;private sector; 0; 1;NA; 2;NA
+2; 1; 3;Other; 1; 0;NA; 2;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 4; 6;private sector; 0; 1;NA;NA; 3
+3; 4; 5;private sector; 1; 1; 2;NA;NA
+2; 4; 5;private sector; 0; 1;NA; 0;NA
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 2
+4; 2; 4;private sector; 0; 0;NA;NA; 2
+2; 1; 3;private sector; 0; 0; 4;NA;NA
+1; 3;NA;private sector; 1; 1;NA;NA; 2
+2; 3; 6;government; 1; 1;NA;NA; 3
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+1; 1;NA;private sector; 0; 0;NA; 2;NA
+2; 2; 4;Other; 0; 1;NA;NA; 5
+2; 1;NA;private sector; 0; 0;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+1; 1; 5;government;NA;NA; 3;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 1
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+1; 2;NA;Other; 0; 0; 3;NA;NA
+2; 2; 5;government; 0; 1; 2;NA;NA
+1; 1; 5;Other; 1; 0;NA;NA; 2
+3; 2; 4;private sector; 0; 0;NA;NA; 2
+3; 3; 5;NGO; 1; 1; 1;NA;NA
+3; 3; 5;government; 0; 1;NA;NA; 3
+2; 1;NA;Other; 0; 1;NA; 3;NA
+1; 3; 4;private sector; 0; 0;NA;NA; 1
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+4; 2; 5;private sector; 0; 1;NA;NA; 1
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+4; 4; 6;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1; 1;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 1; 4;government; 1; 1;NA; 4;NA
+2; 2; 4;private sector; 0; 0;NA; 2;NA
+1; 1; 4;private sector; 0; 0;NA; 1;NA
+2; 1; 5;private sector; 0; 1;NA; 2;NA
+3; 3;NA;government; 0; 1;NA;NA; 2
+3; 4; 6;private sector; 0; 1;NA;NA; 2
+3; 2; 3;private sector; 0; 0;NA;NA; 1
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+2; 2;NA;private sector; 1; 0;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1;NA; 3;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+1; 1; 5;Other; 1; 0;NA;NA; 2
+1; 4; 5;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1; 1;NA;NA
+3; 2; 4;private sector; 0; 0; 4;NA;NA
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+1; 6; 5;NGO; 0; 0;NA; 1;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+3; 3; 5;private sector; 1; 1;NA; 1;NA
+3; 4; 6;private sector; 1; 1;NA;NA; 3
+1; 2; 3;Other; 1; 1;NA;NA; 0
+2; 3; 6;government; 0; 1;NA; 2;NA
+1; 1;NA;Other; 0; 0; 3;NA;NA
+3; 4; 6;private sector; 1; 1; 2;NA;NA
+1; 1; 4;Other; 0; 1;NA;NA; 3
+1; 2; 4;DK; 0; 0;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 4; 5;private sector; 0; 1;NA; 1;NA
+3; 4; 5;private sector; 1; 1; 1;NA;NA
+2; 3; 5;government; 1; 1; 2;NA;NA
+1; 1; 3;Other; 1; 0;NA;NA; 3
+2; 4; 6;private sector; 1; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+1; 2; 4;Other; 0; 1; 2;NA;NA
+3; 6; 1;Other; 0; 0;NA;NA; 3
+1; 2; 5;NGO; 1; 1;NA;NA; 3
+1; 1; 4;Other; 0; 1; 1;NA;NA
+1; 1; 5;government; 1; 0;NA; 2;NA
+3; 3; 1;government; 0; 1;NA; 3;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 2
+1; 1; 4;private sector; 1; 1;NA; 1;NA
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+1; 6; 4;Other; 1; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 2; 5;government; 1; 1;NA;NA; 1
+3; 3; 5;private sector; 0; 1;NA; 4;NA
+4; 4; 5;private sector; 0; 1;NA; 2;NA
+2; 2;NA;private sector; 0; 0;NA;NA; 2
+1; 6;NA;private sector; 1; 1;NA;NA; 3
+1; 6;NA;Other; 1; 0; 1;NA;NA
+3; 4; 5;private sector; 0; 1; 3;NA;NA
+1; 1; 4;private sector; 1; 0;NA;NA; 3
+1; 1; 5;Other; 0; 0;NA; 0;NA
+1; 1; 4;private sector; 0; 0;NA; 3;NA
+2; 4; 5;private sector; 1; 1;NA; 2;NA
+2; 2; 5;government; 0; 1; 3;NA;NA
+3; 2; 4;NGO; 1; 0;NA; 4;NA
+2; 3; 5;government; 1; 1;NA; 1;NA
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+4; 4; 5;private sector; 1; 1; 4;NA;NA
+3; 3; 5;government; 0; 1;NA; 2;NA
+1; 1; 5;private sector; 1; 1; 3;NA;NA
+2; 3; 6;private sector; 0; 1; 2;NA;NA
+2; 4; 5;private sector; 0; 1;NA;NA; 2
+2; 2;NA;Other; 1; 0;NA;NA; 0
+3; 4; 5;government; 0; 1;NA; 2;NA
+2; 2;NA;private sector; 0; 0; 3;NA;NA
+1; 1; 4;Other; 0; 0;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA; 1;NA
+2; 2; 6;private sector; 1; 1; 1;NA;NA
+2; 2;NA;private sector; 0; 1; 3;NA;NA
+2; 4; 6;private sector; 0; 1;NA; 3;NA
+4; 3;NA;private sector; 0; 1;NA;NA; 2
+3; 2;NA;Other; 0; 0; 4;NA;NA
+2; 2;NA;NGO; 1; 0;NA; 1;NA
+3; 3; 5;government; 0; 1;NA; 3;NA
+2; 1; 4;private sector; 0; 0; 3;NA;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 2
+2; 2; 5;private sector; 0; 1;NA; 3;NA
+1; 1; 5;Other; 1; 0;NA;NA; 2
+1; 3; 5;private sector; 0; 1; 0;NA;NA
+1; 4; 4;private sector; 1; 0;NA; 2;NA
+3; 3; 5;private sector; 0; 1; 1;NA;NA
+3; 4;NA;private sector; 1; 1; 2;NA;NA
+2; 2; 5;private sector; 1; 1;NA;NA; 1
+2; 3; 4;private sector; 1; 0;NA; 2;NA
+4; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 1;NA;private sector; 1; 0;NA;NA; 1
+3; 1; 4;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1; 1;NA;NA
+3; 4; 5;private sector; 1; 1;NA; 2;NA
+2; 2; 4;private sector; 0; 0; 2;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+1; 1; 4;NGO; 0; 0;NA;NA; 3
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+1; 6;NA;Other; 0; 0;NA; 1;NA
+3; 4; 5;private sector; 0; 1; 2;NA;NA
+2; 2;NA;private sector; 0; 0;NA;NA; 2
+1; 1;NA;Other; 0; 0; 2;NA;NA
+2; 2; 5;Other; 1; 0; 4;NA;NA
+4; 1; 4;private sector; 0; 0;NA; 3;NA
+2; 4; 5;government; 0; 1; 4;NA;NA
+3; 3; 5;private sector; 0; 1; 1;NA;NA
+1; 1; 4;private sector; 0; 0;NA;NA; 4
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+2; 3; 5;Other; 1; 1; 1;NA;NA
+2; 2; 5;private sector; 0; 1;NA; 2;NA
+4; 4; 5;private sector; 0; 1; 3;NA;NA
+3; 4; 5;private sector; 1; 1; 4;NA;NA
+3; 2; 5;private sector; 0; 0;NA;NA; 1
+3; 3;NA;private sector; 1; 1;NA; 2;NA
+2; 1;NA;NGO; 0; 0; 2;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 1; 3;private sector; 0; 0;NA; 1;NA
+2; 2; 5;private sector; 1; 0;NA; 2;NA
+1; 1; 4;Other; 0; 0;NA;NA; 1
+1; 6;NA;Other; 0; 1; 3;NA;NA
+4; 3; 5;government; 0; 1;NA;NA; 3
+3; 3; 5;government; 0; 1;NA; 2;NA
+3; 3; 5;government; 0; 1;NA;NA; 3
+3; 4; 5;government; 0; 1; 2;NA;NA
+1; 6;NA;DK; 0; 1;NA; 1;NA
+2; 1; 4;Other; 0; 0;NA;NA; 1
+3; 3;NA;private sector; 0; 1; 2;NA;NA
+2; 3;NA;private sector; 0; 1;NA;NA; 3
+1; 1;NA;Other; 0; 0; 3;NA;NA
+3; 1; 4;private sector; 1; 0;NA; 2;NA
+2; 4; 6;private sector; 1; 1;NA;NA; 3
+2; 1; 4;Other; 1; 0;NA;NA; 1
+3; 4; 5;private sector; 0; 1;NA;NA; 3
+1; 1; 5;private sector; 0; 0;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 4; 5;private sector; 0; 1;NA;NA; 2
+2; 3; 6;private sector; 0; 1; 2;NA;NA
+2; 2;NA;private sector; 0; 0;NA;NA; 1
+2; 3; 5;private sector; 0; 1;NA; 3;NA
+1; 6; 4;Other; 0; 0;NA;NA; 5
+3; 4; 6;private sector; 1; 1; 1;NA;NA
+2; 2; 4;private sector; 0; 0;NA; 1;NA
+1; 1; 5;Other; 0; 1;NA; 1;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 3
+2; 4; 6;private sector; 1; 1; 2;NA;NA
+2; 4; 5;private sector; 1; 1;NA;NA; 1
+1; 1; 4;Other; 0; 1;NA; 3;NA
+2; 6; 4;private sector; 1; 0;NA;NA; 3
+1; 1;NA;Other; 0; 0;NA; 2;NA
+1; 4; 5;private sector; 0; 1;NA;NA; 3
+3; 4; 6;private sector; 0; 1;NA;NA; 2
+1; 6; 4;DK; 0; 0;NA;NA; 1
+2; 4; 5;private sector; 1; 1;NA;NA; 1
+4; 2; 4;government;NA; 1;NA; 2;NA
+3; 3; 5;government; 0; 1; 3;NA;NA
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+2; 4; 4;private sector; 1; 0;NA; 2;NA
+1; 1; 3;NGO; 0; 0; 3;NA;NA
+2; 2;NA;private sector; 1; 0; 3;NA;NA
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+4; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+2; 2; 3;private sector; 0; 0;NA;NA; 2
+3; 3; 5;private sector; 1; 1;NA; 3;NA
+1; 1; 4;Other; 0; 1;NA; 2;NA
+1; 1;NA;Other; 1; 0; 1;NA;NA
+4; 3;NA;private sector; 1; 1;NA; 3;NA
+1; 2;NA;Other; 0; 1;NA; 1;NA
+1; 1; 4;Other; 1; 1;NA; 2;NA
+3; 2; 5;private sector; 0; 0;NA; 3;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 3
+2; 3; 5;private sector; 0; 1;NA;NA; 4
+3; 3; 5;government; 0; 1; 2;NA;NA
+3; 3; 5;government; 0; 1;NA;NA; 3
+1; 1;NA;Other; 1; 0; 1;NA;NA
+3; 3;NA;government; 0; 1; 2;NA;NA
+2; 4; 5;private sector; 0; 1;NA; 3;NA
+1; 2; 5;Other; 1; 0;NA; 1;NA
+3; 4; 6;private sector; 1; 1; 1;NA;NA
+2; 2;NA;private sector; 0; 1;NA; 1;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 2
+4; 1; 5;private sector; 0; 1;NA;NA; 2
+1; 1; 4;private sector; 1; 0;NA;NA; 1
+1; 1;NA;Other; 1; 0; 3;NA;NA
+1; 3; 5;private sector; 0; 1; 2;NA;NA
+1; 1; 3;Other; 1; 0;NA;NA; 1
+1; 1; 4;Other; 1; 0; 2;NA;NA
+2; 2;NA;private sector; 0; 0;NA;NA; 1
+1; 6; 5;Other; 1; 1;NA;NA; 3
+1; 2; 5;Other; 1; 0;NA;NA; 1
+2; 3; 5;private sector; 0; 1;NA;NA; 2
+4; 3; 5;private sector; 0; 1;NA;NA; 3
+1; 1; 4;government; 0; 1;NA; 1;NA
+1; 1; 4;Other; 1; 0; 0;NA;NA
+1; 1; 4;private sector; 0; 1;NA; 1;NA
+1; 1; 5;Other; 0; 1;NA; 3;NA
+3; 4; 5;private sector; 1; 1; 4;NA;NA
+2; 1; 5;government; 1; 1; 1;NA;NA
+1; 1; 4;Other; 0; 0;NA;NA; 3
+4; 4;NA;private sector; 0; 1;NA;NA; 3
+1; 2; 4;private sector; 0; 0;NA;NA; 2
+1; 1; 1;Other; 0; 0;NA; 1;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 4;NA;private sector; 0; 1;NA;NA; 2
+2; 2;NA;private sector;NA;NA;NA;NA; 3
+2; 4; 5;Other; 1; 1; 3;NA;NA
+4; 3; 5;private sector; 0; 1;NA; 3;NA
+3; 2;NA;private sector; 0; 0;NA; 3;NA
+1; 2;NA;private sector; 1; 0;NA;NA; 2
+1; 1; 4;NGO; 0; 0; 3;NA;NA
+1; 1; 7;Other; 0; 1;NA;NA; 1
+1; 2; 4;private sector; 0; 0;NA; 1;NA
+2; 3; 5;private sector; 1; 1;NA; 2;NA
+1; 3; 5;government; 1; 0;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 3
+3; 3;NA;government; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+2; 2; 7;private sector; 0; 0;NA; 2;NA
+3; 6; 4;DK; 1; 0;NA; 2;NA
+2; 3; 5;private sector; 1; 1; 2;NA;NA
+3; 3; 5;government; 0; 1;NA; 2;NA
+2; 1; 4;Other; 0; 0;NA; 2;NA
+1; 1;NA;private sector; 0; 0; 4;NA;NA
+2; 2;NA;government; 0; 1; 3;NA;NA
+2; 3; 5;government; 1; 0;NA; 3;NA
+1; 1; 5;Other; 0; 1; 2;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+2; 2; 5;private sector; 0; 1;NA; 4;NA
+3; 3; 5;government; 0; 1; 2;NA;NA
+3; 2; 4;private sector; 0; 0;NA;NA; 3
+3; 2;NA;private sector; 1; 1;NA; 2;NA
+3; 6; 4;private sector; 1; 0; 1;NA;NA
+1; 4; 6;government; 0; 1;NA; 2;NA
+1; 1; 4;Other; 1; 1;NA; 0;NA
+3; 4; 6;private sector; 1; 1;NA;NA; 3
+1; 1; 4;DK; 0; 0;NA;NA; 2
+1; 6; 4;Other; 0; 1;NA;NA; 1
+2; 2; 5;government; 0; 0; 2;NA;NA
+1; 3; 5;private sector; 0; 1; 2;NA;NA
+1; 4; 6;private sector; 1; 1; 3;NA;NA
+3; 3;NA;private sector; 0; 1; 2;NA;NA
+4; 3; 5;government;NA;NA;NA; 4;NA
+2; 4; 5;private sector; 1; 1; 3;NA;NA
+2; 1; 5;government; 1; 0; 2;NA;NA
+2; 6; 7;DK; 0; 1; 3;NA;NA
+2; 1; 5;private sector; 1; 1;NA; 1;NA
+1; 1; 5;Other; 1; 0; 2;NA;NA
+1; 1; 4;Other; 1; 0; 3;NA;NA
+2; 2; 6;private sector; 0; 1; 3;NA;NA
+2; 3; 5;private sector; 0; 0; 1;NA;NA
+3; 4;NA;private sector; 0; 1;NA;NA; 2
+2; 3;NA;private sector; 0; 0; 3;NA;NA
+2; 6; 7;DK; 0; 0; 0;NA;NA
+3; 2; 5;private sector; 1; 1;NA;NA; 2
+3; 3; 5;government; 0; 1; 2;NA;NA
+2; 3; 5;private sector; 1; 1; 1;NA;NA
+2; 4; 5;private sector; 0; 1;NA;NA; 1
+1; 1; 4;Other; 0; 1;NA; 2;NA
+2; 2; 5;government; 1; 1; 2;NA;NA
+1; 1; 5;Other; 0; 0; 2;NA;NA
+3; 6;NA;private sector; 0; 1;NA;NA; 3
+1; 1; 5;private sector; 0; 0;NA;NA; 2
+3; 4;NA;private sector; 0; 1; 3;NA;NA
+2; 2; 6;private sector; 1; 1;NA; 2;NA
+2; 2; 4;private sector; 1; 0;NA;NA; 3
+2; 4; 5;private sector; 1; 1;NA;NA; 2
+1; 1;NA;Other; 1; 1;NA; 1;NA
+3; 6; 4;Other; 0; 1;NA;NA; 0
+3; 4; 6;private sector; 0; 1;NA; 2;NA
+2; 4; 5;government; 0; 0;NA; 2;NA
+3; 3; 4;private sector; 0; 1;NA; 3;NA
+2; 1; 3;government; 0; 1; 5;NA;NA
+2; 3; 6;government; 0; 1;NA;NA; 3
+1; 1; 4;private sector; 0; 0;NA; 2;NA
+2; 4; 6;private sector; 1; 1;NA;NA; 3
+3; 3; 5;private sector; 1; 1;NA; 3;NA
+1; 2; 5;private sector; 0; 0; 3;NA;NA
+1; 1;NA;Other; 1; 1; 3;NA;NA
+4; 1; 4;private sector; 0; 1; 2;NA;NA
+2; 2; 4;government; 0; 0;NA; 2;NA
+1; 2; 5;NGO; 1; 1;NA; 2;NA
+2; 4; 5;private sector; 0; 1;NA; 2;NA
+1; 3; 5;private sector;NA; 0;NA; 2;NA
+1; 6;NA;Other; 1; 1; 1;NA;NA
+1; 1; 4;Other; 0; 0;NA;NA; 3
+1; 2;NA;private sector; 1; 1;NA; 3;NA
+4; 3; 5;government; 0; 1;NA;NA; 2
+1; 1; 4;Other; 1; 0;NA; 3;NA
+1; 1; 3;NGO; 0; 0;NA; 2;NA
+1; 3; 5;government; 1; 0;NA; 2;NA
+1; 1;NA;Other; 0; 1;NA; 1;NA
+1; 6; 5;Other; 1; 0;NA;NA; 3
+3; 3; 5;government; 0; 1;NA;NA; 2
+3; 1;NA;private sector; 0; 0;NA;NA; 2
+3; 1; 4;private sector; 0; 1;NA; 4;NA
+1; 6;NA;Other; 0; 0;NA;NA; 1
+2; 2; 5;government; 0; 1;NA;NA; 3
+2; 4; 5;government; 0; 1; 2;NA;NA
+1; 1;NA;private sector; 0; 0;NA;NA; 2
+1; 1;NA;Other; 1; 0;NA; 0;NA
+4; 2;NA;private sector; 0; 1;NA; 2;NA
+1; 2;NA;private sector; 0; 0;NA;NA; 1
+2; 1;NA;private sector; 0; 0;NA;NA; 2
+1; 3; 5;private sector; 0; 1; 2;NA;NA
+1; 1; 4;Other; 1; 0;NA; 4;NA
+2; 1;NA;Other; 1; 0; 3;NA;NA
+2; 1; 5;private sector; 0; 1;NA; 2;NA
+2; 1; 4;Other; 0; 1; 3;NA;NA
+3; 1;NA;private sector; 1; 1;NA;NA; 3
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+1; 6;NA;Other; 0; 0;NA; 4;NA
+1; 1; 4;private sector; 1; 0; 5;NA;NA
+2; 2; 5;private sector; 0; 0;NA;NA; 0
+2; 3; 5;private sector; 1; 1;NA;NA; 2
+1; 3; 5;government; 1; 1;NA;NA; 2
+1; 1;NA;Other; 1; 0; 1;NA;NA
+1; 1; 4;Other; 1; 0;NA;NA; 2
+3; 4; 5;government; 0; 1; 3;NA;NA
+1; 6; 5;Other; 1; 0;NA;NA; 0
+1; 1; 4;private sector; 1; 1;NA; 2;NA
+2; 3; 5;private sector; 1; 1;NA; 4;NA
+1; 6;NA;Other; 0; 0;NA; 1;NA
+1; 2; 6;private sector; 0; 1;NA; 1;NA
+2; 4; 6;private sector; 1; 1;NA; 2;NA
+1; 1; 5;private sector; 0; 0;NA;NA; 2
+2; 1; 5;private sector; 0; 1; 3;NA;NA
+1; 3;NA;private sector; 1; 1; 1;NA;NA
+1; 2; 4;Other; 0; 0;NA; 2;NA
+4; 2;NA;private sector; 0; 1;NA;NA; 4
+3; 3; 5;private sector; 1; 1;NA; 3;NA
+3; 2; 5;government; 0; 1;NA;NA; 2
+4; 1; 4;Other; 0; 0;NA; 2;NA
+3; 1; 3;private sector; 0; 0; 4;NA;NA
+1; 1; 4;Other; 0; 0;NA;NA; 2
+1; 1; 4;private sector; 1; 0; 3;NA;NA
+1; 1;NA;Other; 0; 0;NA; 2;NA
+1; 2;NA;private sector; 1; 0; 2;NA;NA
+1; 1; 4;private sector; 0; 1; 3;NA;NA
+2; 1;NA;private sector; 0; 0;NA; 2;NA
+2; 3; 4;private sector; 0; 1;NA; 3;NA
+1; 1; 3;private sector; 0; 0;NA; 1;NA
+1; 3;NA;Other; 1; 1;NA; 2;NA
+3; 2; 5;Other; 0; 1;NA;NA; 3
+1; 6; 5;Other; 0; 0; 2;NA;NA
+2; 1; 4;NGO; 0; 0;NA;NA; 2
+2; 6; 5;Other; 0; 1;NA;NA; 3
+1; 1; 5;Other; 0; 1;NA; 3;NA
+1; 3; 5;private sector; 0; 1; 3;NA;NA
+1; 6; 4;Other; 0; 0;NA; 1;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+3; 2;NA;government; 0; 1; 2;NA;NA
+3; 4; 6;private sector; 0; 1; 1;NA;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 2
+2; 3;NA;private sector; 0; 1;NA;NA; 2
+1; 6;NA;Other; 1; 1; 4;NA;NA
+2; 3; 5;private sector; 1; 1;NA; 3;NA
+1; 1; 7;Other; 0; 0; 1;NA;NA
+1; 6; 7;Other; 0; 0;NA;NA; 1
+2; 3; 5;private sector; 1; 1; 2;NA;NA
+1; 6; 5;DK; 0; 1;NA; 2;NA
+2; 1; 5;Other; 1; 0;NA;NA; 2
+3; 4; 5;Other; 1; 1;NA; 4;NA
+1; 2; 4;private sector; 1; 1;NA; 1;NA
+1; 1; 5;Other; 1; 1; 0;NA;NA
+1; 1;NA;private sector; 0; 1; 2;NA;NA
+1; 6;NA;Other; 0; 1; 3;NA;NA
+1; 1; 3;Other; 1; 0;NA;NA; 2
+1; 2; 5;DK; 0; 0; 1;NA;NA
+1; 1;NA;Other; 1; 0;NA;NA; 2
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 4; 5;private sector; 1; 1;NA;NA; 1
+1; 6;NA;Other; 0; 0;NA; 4;NA
+2; 3;NA;private sector; 0; 1; 4;NA;NA
+1; 3; 5;private sector; 0; 1; 3;NA;NA
+1; 6; 5;DK; 0; 1;NA;NA; 0
+1; 4; 5;private sector; 0; 1;NA; 2;NA
+2; 2;NA;private sector; 0; 0;NA;NA; 5
+1; 1; 4;Other; 0; 0;NA;NA; 2
+3; 4; 5;government; 0; 1;NA;NA; 2
+1; 6; 5;Other; 0; 0;NA;NA; 4
+1; 2;NA;Other; 0; 1;NA; 2;NA
+2; 1; 3;private sector; 1; 0;NA;NA; 5
+1; 1; 4;private sector; 0; 0;NA; 3;NA
+1; 4; 3;Other; 0; 0;NA; 3;NA
+3; 1; 5;Other; 1; 1; 0;NA;NA
+3; 4; 6;private sector; 1; 1; 1;NA;NA
+1; 3; 5;Other; 0; 1;NA;NA; 3
+1; 6; 5;Other; 1; 1; 1;NA;NA
+1; 2; 4;private sector; 0; 0;NA; 1;NA
+3; 2;NA;private sector; 0; 0; 3;NA;NA
+1; 1; 4;Other; 0; 0; 1;NA;NA
+1; 1; 4;Other; 1; 0; 1;NA;NA
+4; 2;NA;government; 0; 1; 3;NA;NA
+1; 2; 3;private sector; 1; 0; 5;NA;NA
+1; 1; 4;Other; 0; 0; 1;NA;NA
+2; 1;NA;Other; 1; 0; 1;NA;NA
+1; 2; 5;private sector; 0; 1;NA; 2;NA
+2; 1; 3;private sector; 0; 1;NA; 3;NA
+1; 4; 6;private sector; 0; 1;NA; 1;NA
+1; 1;NA;government; 0; 1; 4;NA;NA
+1; 1; 1;DK; 0; 1; 2;NA;NA
+1; 2; 4;NGO; 1; 0;NA; 1;NA
+1; 2; 5;private sector; 1; 1;NA;NA; 3
+3; 4; 5;private sector; 0; 1; 3;NA;NA
+1; 1; 5;private sector; 0; 1;NA; 2;NA
+3; 2;NA;government; 0; 1; 2;NA;NA
+1; 1;NA;Other; 0; 0;NA;NA; 3
+1; 6; 5;Other; 0; 0;NA;NA; 1
+3; 2; 4;private sector; 0; 0;NA;NA; 2
+1; 1;NA;Other; 0; 1; 3;NA;NA
+1; 2; 5;Other; 0; 0;NA; 3;NA
+3; 4; 5;private sector; 0; 1; 3;NA;NA
+1; 1; 4;Other; 1; 1;NA; 0;NA
+1; 6; 4;DK; 1; 1;NA;NA; 3
+1; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 2;NA;government; 0; 1;NA;NA; 3
+1; 1; 5;Other; 0; 1;NA; 1;NA
+1; 2; 5;Other; 0; 0; 2;NA;NA
+3; 4; 6;government; 0; 1;NA; 4;NA
+1; 1;NA;Other; 0; 0;NA;NA; 2
+1; 3; 4;private sector; 0; 0; 2;NA;NA
+1; 2;NA;Other; 0; 0;NA; 2;NA
+1; 6; 3;Other; 1; 0; 3;NA;NA
+1; 1; 4;Other; 1; 0;NA; 3;NA
+2; 2;NA;private sector; 1; 0; 3;NA;NA
+1; 6; 5;Other; 0; 1;NA; 3;NA
+1; 1; 4;Other; 0; 1;NA; 1;NA
+4; 2; 5;government; 1; 1; 2;NA;NA
+1; 1; 3;private sector;NA; 0;NA;NA; 3
+1; 1; 4;private sector; 0; 1;NA;NA; 2
+1; 3; 5;private sector; 0; 0; 1;NA;NA
+1; 1;NA;private sector; 0; 0; 4;NA;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 3
+4; 2; 4;government; 0; 1;NA; 2;NA
+3; 4; 6;private sector;NA; 1; 5;NA;NA
+1; 1; 5;DK; 0; 0;NA; 2;NA
+1; 1;NA;DK; 0; 1; 3;NA;NA
+1; 2;NA;Other; 0; 0;NA;NA; 2
+4; 3;NA;private sector; 1; 1;NA;NA; 2
+4; 3;NA;private sector; 1; 1;NA;NA; 3
+4; 3;NA;private sector; 1; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA; 1;NA
+4; 3;NA;private sector; 0; 1; 1;NA;NA
+1; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 3; 4;private sector; 0; 1;NA;NA; 3
+2; 3;NA;private sector; 1; 1;NA;NA; 3
+3; 3; 4;private sector; 1; 1;NA; 2;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 3
+4; 3;NA;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 3; 4;private sector; 0; 1; 2;NA;NA
+2; 4;NA;government; 1; 1;NA; 2;NA
+4; 3; 4;private sector; 1; 1; 3;NA;NA
+3; 3;NA;private sector; 1; 1; 3;NA;NA
+3; 3;NA;government; 1; 1;NA;NA; 4
+3; 3; 4;private sector; 0; 1; 3;NA;NA
+1; 4; 5;private sector; 0; 1;NA; 1;NA
+3; 3;NA;private sector; 1; 1;NA; 2;NA
+3; 3; 5;government; 1; 1;NA; 2;NA
+1; 2; 6;private sector; 0; 1;NA;NA; 0
+3; 2; 4;private sector; 0; 1;NA;NA; 2
+3; 3;NA;government; 1; 1;NA; 2;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 3
+2; 2;NA;private sector; 1; 1;NA;NA; 4
+4; 3;NA;private sector; 0; 1; 4;NA;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 4
+2; 3; 4;private sector; 1; 1;NA; 2;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 3
+2; 2;NA;private sector; 0; 1; 2;NA;NA
+3; 3;NA;private sector; 0; 1; 4;NA;NA
+2; 2; 4;private sector; 1; 1;NA; 1;NA
+4; 3;NA;government; 0; 1;NA; 3;NA
+3; 3;NA;government; 1; 1;NA; 3;NA
+4; 3;NA;private sector; 0; 1; 2;NA;NA
+4; 3;NA;government; 0; 1; 2;NA;NA
+1; 3;NA;private sector; 0; 1;NA; 1;NA
+3; 3;NA;private sector; 1; 1;NA; 3;NA
+3; 4;NA;private sector; 1; 1;NA; 3;NA
+3; 2;NA;private sector; 1; 1; 2;NA;NA
+4; 1; 3;private sector; 0; 0; 3;NA;NA
+4; 2; 4;private sector; 1; 1;NA;NA; 2
+4; 3;NA;private sector; 1; 1;NA; 1;NA
+3; 3; 4;private sector; 1; 1; 4;NA;NA
+3; 3; 4;private sector; 1; 1; 4;NA;NA
+3; 2; 4;government; 1; 1; 2;NA;NA
+2; 2; 4;private sector; 1; 1;NA;NA; 3
+2; 3;NA;private sector; 0; 1; 1;NA;NA
+3; 2; 4;government; 1; 1;NA; 3;NA
+3; 2; 4;private sector; 1; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA; 3;NA
+1; 2; 5;private sector; 0; 1; 4;NA;NA
+3; 2; 4;private sector; 0; 1;NA; 4;NA
+3; 3;NA;government; 1; 1;NA;NA; 2
+1; 6;NA;DK; 0; 1; 1;NA;NA
+3; 2; 4;NGO; 1; 1;NA;NA; 4
+3; 3;NA;government; 1; 1; 4;NA;NA
+1; 1; 4;private sector; 0; 0;NA;NA; 4
+4; 2; 4;private sector; 0; 1;NA; 1;NA
+4; 1; 3;private sector; 0; 0;NA;NA; 4
+4; 3;NA;private sector; 1; 1; 3;NA;NA
+3; 3;NA;NGO; 1; 1; 3;NA;NA
+1; 6; 4;Other; 0; 0;NA;NA; 0
+4; 3;NA;private sector; 0; 1;NA; 2;NA
+3; 3;NA;private sector; 1; 1; 4;NA;NA
+4; 3;NA;private sector; 1; 1;NA;NA; 1
+1; 1; 4;Other; 0; 0; 2;NA;NA
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 3;NA;private sector; 1; 1;NA; 3;NA
+4; 3;NA;private sector; 1; 1;NA;NA; 3
+2; 3;NA;private sector; 1; 1; 3;NA;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 3
+3; 3;NA;private sector; 1; 1;NA; 3;NA
+1; 2; 4;government; 0; 0; 1;NA;NA
+1; 1;NA;Other; 0; 1;NA; 2;NA
+3; 3;NA;NGO; 1; 1;NA;NA; 2
+4; 2; 4;private sector; 0; 1;NA; 2;NA
+1; 1; 3;Other; 1; 0;NA; 3;NA
+3; 2;NA;private sector; 1; 1;NA; 3;NA
+1; 2; 4;NA; 0; 0; 5;NA;NA
+2; 2; 4;private sector; 1; 1;NA; 2;NA
+4; 3;NA;private sector; 1; 1;NA;NA; 2
+4; 2; 6;NGO; 1; 1; 0;NA;NA
+3; 3;NA;private sector; 0; 1;NA; 1;NA
+3; 3; 4;private sector; 1; 1; 3;NA;NA
+4; 4; 3;DK; 0; 0;NA; 3;NA
+1; 1; 4;Other; 1; 0;NA; 2;NA
+3; 2; 5;private sector; 0; 1;NA; 1;NA
+3; 3; 5;private sector; 1; 1; 2;NA;NA
+3; 3;NA;private sector; 1; 1; 3;NA;NA
+3; 6; 4;DK; 1; 0;NA;NA; 0
+4; 2; 5;private sector; 1; 1; 1;NA;NA
+2; 3;NA;private sector; 0; 1; 3;NA;NA
+4; 2; 4;private sector; 0; 1; 3;NA;NA
+2; 3;NA;government; 0; 1;NA; 2;NA
+3; 3; 4;private sector; 1; 1;NA;NA; 3
+3; 4; 5;private sector; 0; 1;NA;NA; 4
+4; 2; 4;private sector; 1; 1; 2;NA;NA
+3; 3;NA;NGO; 1; 1; 3;NA;NA
+2; 3;NA;private sector; 1; 1; 2;NA;NA
+4; 4; 6;government; 0; 1;NA; 1;NA
+3; 3;NA;private sector; 0; 1; 4;NA;NA
+2; 3;NA;private sector; 1; 1; 2;NA;NA
+2; 2; 4;private sector; 0; 1;NA; 3;NA
+4; 2; 4;private sector; 0; 1; 3;NA;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 3
+2; 3; 4;private sector; 0; 1; 2;NA;NA
+3; 3;NA;private sector; 0; 1; 3;NA;NA
+4; 2; 4;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector;NA; 1;NA; 1;NA
+3; 1;NA;government; 0; 1;NA; 2;NA
+4; 2; 4;private sector; 0; 1; 3;NA;NA
+3; 2;NA;NGO; 1; 1;NA; 2;NA
+2; 3;NA;private sector; 0; 1;NA;NA; 2
+3; 4; 6;private sector; 0; 1;NA;NA; 3
+3; 4; 5;private sector; 0; 1;NA; 3;NA
+3; 3;NA;private sector; 0; 1; 2;NA;NA
+4; 3; 4;private sector; 1; 1;NA;NA; 3
+3; 4; 6;private sector; 0; 1;NA; 2;NA
+4; 3; 4;NGO; 1; 1;NA;NA; 3
+3; 4; 6;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA; 3;NA
+4; 2; 4;private sector; 1; 1;NA; 3;NA
+4; 2; 4;private sector; 0; 1;NA; 2;NA
+5; 2; 5;Other; 1; 1; 2;NA;NA
+4; 3; 4;private sector; 1; 1; 3;NA;NA
+4; 2; 4;private sector; 0; 1;NA;NA; 2
+4; 2; 4;private sector; 1; 1; 3;NA;NA
+4; 2;NA;private sector; 0; 0; 4;NA;NA
+3; 3; 4;government; 0; 1;NA; 2;NA
+4; 3; 4;NGO; 1; 1;NA; 3;NA
+5; 2;NA;government; 0; 1;NA; 3;NA
+3; 3; 5;government; 0; 1;NA;NA; 3
+4; 2;NA;private sector; 1; 1; 3;NA;NA
+4; 2; 4;private sector; 1; 1; 1;NA;NA
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 3; 4;NGO; 1; 1; 2;NA;NA
+4; 3; 5;government; 0; 1;NA; 2;NA
+3; 2;NA;private sector; 0; 1; 4;NA;NA
+4; 3;NA;private sector; 1; 1;NA;NA; 3
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 6; 7;DK; 0; 1;NA;NA; 0
+3; 3; 4;private sector; 1; 1;NA;NA; 2
+3; 2;NA;private sector; 0; 1;NA;NA; 3
+4; 4; 5;private sector; 1; 1;NA;NA; 3
+4; 3;NA;private sector; 1; 1;NA;NA; 2
+4; 2;NA;private sector; 0; 1;NA;NA; 2
+3; 2;NA;private sector; 1; 1;NA;NA; 2
+4; 2; 4;private sector; 0; 1;NA; 2;NA
+4; 2; 4;government; 1; 1; 3;NA;NA
+2; 2;NA;private sector; 0; 1; 2;NA;NA
+3; 1; 4;Other; 1; 1;NA; 1;NA
+4; 3; 6;private sector; 0; 1; 2;NA;NA
+3; 3; 4;NGO; 1; 1;NA;NA; 2
+3; 1; 3;private sector; 1; 0;NA;NA; 2
+4; 3;NA;private sector; 1; 1;NA; 3;NA
+4; 3; 4;private sector; 1; 1;NA; 2;NA
+4; 4; 5;private sector; 0; 1; 2;NA;NA
+4; 3; 4;NGO; 1; 1;NA;NA; 2
+4; 3; 3;private sector; 0; 0;NA;NA; 1
+4; 3; 4;private sector; 0; 1;NA;NA; 2
+3; 4; 5;private sector; 0; 1;NA;NA; 2
+4; 3; 4;private sector; 1; 1;NA;NA; 3
+4; 2; 4;private sector; 1; 1;NA; 1;NA
+3; 1; 4;private sector; 0; 0;NA; 1;NA
+3; 3; 4;private sector; 1; 1; 3;NA;NA
+4; 3; 5;government; 0; 1;NA;NA; 2
+4; 1;NA;Other; 1; 0;NA;NA; 4
+4; 2; 5;private sector; 0; 1;NA; 1;NA
+3; 3;NA;government; 0; 1;NA;NA; 3
+4; 1; 4;Other; 0; 1; 3;NA;NA
+3; 2; 4;private sector; 0; 1;NA;NA; 3
+3; 2; 4;private sector; 1; 1; 3;NA;NA
+3; 2; 5;private sector; 0; 1;NA; 2;NA
+3; 1; 4;Other; 1; 1;NA; 4;NA
+2; 3; 4;NGO; 0; 1;NA;NA; 2
+4; 3;NA;private sector; 0; 1; 4;NA;NA
+3; 3; 4;private sector; 0; 1;NA;NA; 3
+3; 3; 4;private sector; 1; 1;NA;NA; 3
+3; 3; 5;private sector;NA; 1;NA;NA; 1
+2; 2;NA;government; 0; 1;NA; 1;NA
+4; 3; 5;private sector; 1; 1;NA;NA; 2
+4; 4; 6;government; 0; 1;NA;NA; 2
+3; 2; 4;government; 1; 1; 3;NA;NA
+4; 2; 4;government; 0; 1;NA; 2;NA
+5;NA; 7;DK; 0; 0;NA; 4;NA
+4; 3; 6;government; 0; 1;NA;NA; 2
+4; 2; 4;government; 1; 1; 2;NA;NA
+3; 3;NA;government; 0; 1;NA;NA; 3
+2; 2; 4;private sector; 1; 1; 2;NA;NA
+3; 3; 4;government; 1; 1;NA; 2;NA
+4; 3; 4;private sector; 1; 1; 2;NA;NA
+2; 3; 4;private sector; 1; 1;NA; 3;NA
+3; 3; 4;private sector; 1; 1;NA; 2;NA
+3; 3;NA;government; 1; 1;NA;NA; 3
+3; 3; 4;government; 1; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 2; 4;private sector; 0; 1;NA; 2;NA
+3; 2; 4;government; 1; 1;NA;NA; 1
+4; 3; 5;private sector; 1; 1;NA; 1;NA
+2; 2;NA;private sector; 1; 1; 3;NA;NA
+4; 3; 5;government; 0; 1;NA; 1;NA
+4; 3; 5;private sector; 1; 1;NA; 3;NA
+3; 3;NA;government; 0; 1;NA; 2;NA
+4; 4; 6;government; 1; 1;NA;NA; 1
+4; 3;NA;private sector; 0; 1; 3;NA;NA
+4; 3; 5;private sector; 1; 1; 3;NA;NA
+4; 3; 5;private sector; 1; 1;NA; 1;NA
+3; 3; 4;private sector; 0; 1;NA;NA; 3
+4; 3; 6;private sector; 1; 1; 2;NA;NA
+4; 3; 4;private sector; 0; 1; 4;NA;NA
+3; 2; 5;government; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1; 1;NA;NA
+3; 2; 4;private sector; 0; 1; 3;NA;NA
+4; 4; 5;private sector;NA; 1; 2;NA;NA
+3; 1;NA;private sector; 0; 1;NA;NA; 3
+4; 3; 5;private sector; 0; 1;NA;NA; 1
+3; 3; 5;NGO; 1; 1; 1;NA;NA
+4; 2; 5;private sector; 1; 0;NA; 1;NA
+3; 2; 4;government; 0; 1; 2;NA;NA
+4; 3; 5;private sector; 1; 1;NA;NA; 2
+4; 3; 6;government; 0; 1; 2;NA;NA
+4; 3; 5;private sector; 1; 1;NA;NA; 2
+3; 2;NA;private sector;NA;NA;NA;NA; 3
+4; 3; 4;NGO; 1; 1;NA;NA; 3
+3; 2; 5;private sector; 0; 1;NA;NA; 3
+4; 3; 4;private sector; 0; 1;NA;NA; 4
+4; 3; 5;private sector; 0; 1;NA;NA; 1
+3; 2; 4;government; 0; 1;NA;NA; 3
+4; 2; 3;DK; 1; 0; 1;NA;NA
+4; 3; 5;government; 1; 1; 1;NA;NA
+3; 2; 4;private sector; 1; 0;NA;NA; 3
+4; 2; 4;private sector; 1; 1; 4;NA;NA
+4; 3; 5;private sector; 1; 1; 3;NA;NA
+3; 2; 4;private sector; 1; 1;NA;NA; 3
+3; 2; 4;private sector; 0; 1; 2;NA;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 4
+4; 3; 6;private sector; 0; 1;NA; 1;NA
+4; 2; 4;private sector; 1; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1; 3;NA;NA
+3; 2;NA;private sector; 0; 1; 2;NA;NA
+4; 4; 4;private sector; 0; 1;NA; 3;NA
+3; 4; 4;Other; 0; 1;NA;NA; 3
+3; 4;NA;private sector; 0; 1;NA; 3;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 4
+1; 1; 5;DK; 0; 0; 2;NA;NA
+4; 3; 4;NGO; 0; 1;NA;NA; 3
+4; 3; 5;private sector; 0; 1;NA; 2;NA
+4; 3; 5;private sector; 1; 1; 3;NA;NA
+3; 3; 4;private sector; 0; 1; 3;NA;NA
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 2; 4;private sector; 1; 1; 3;NA;NA
+3; 2; 5;private sector; 1; 1; 2;NA;NA
+4; 2; 4;DK; 1; 0; 2;NA;NA
+4; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 2; 5;government; 1; 1;NA; 3;NA
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 3
+5; 3; 5;private sector; 0; 1;NA;NA; 1
+4; 3; 5;private sector; 1; 1;NA;NA; 3
+3; 2;NA;private sector; 1; 1;NA; 1;NA
+4; 3; 4;Other; 0; 1; 3;NA;NA
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 4; 5;private sector; 0; 1;NA; 3;NA
+4; 3; 4;NGO; 1; 1;NA; 2;NA
+3; 3; 4;private sector; 1; 1; 3;NA;NA
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 2; 4;private sector; 0; 1; 3;NA;NA
+5; 2; 5;private sector; 0; 1;NA; 3;NA
+2; 3; 5;private sector; 1; 1; 3;NA;NA
+4; 2;NA;government; 1; 1; 3;NA;NA
+4; 3;NA;private sector; 1; 1;NA;NA; 4
+4; 3; 5;private sector; 1; 1; 1;NA;NA
+3; 3; 5;private sector; 0; 1; 1;NA;NA
+4; 3;NA;private sector; 0; 1;NA;NA; 3
+3; 1; 3;Other; 1; 1;NA; 1;NA
+3; 1; 3;private sector; 1; 0;NA; 1;NA
+4; 3; 4;private sector; 1; 1;NA;NA; 2
+4; 4; 5;government; 1; 1;NA;NA; 3
+3; 4; 6;private sector; 1; 1;NA; 1;NA
+3; 3;NA;government; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 3; 4;private sector; 1; 1; 3;NA;NA
+3; 3; 5;government; 0; 1;NA;NA; 2
+4; 4; 5;private sector; 1; 1;NA; 2;NA
+4; 2; 5;private sector; 0; 1;NA; 2;NA
+3; 2; 4;private sector; 1; 1;NA; 3;NA
+4; 3;NA;private sector; 1; 1; 3;NA;NA
+3; 4; 5;private sector; 1; 1;NA; 1;NA
+3; 3; 4;DK; 0; 1;NA;NA; 2
+4; 3; 4;private sector; 1; 1;NA;NA; 2
+3; 3; 5;government; 0; 1;NA; 3;NA
+3; 3; 4;private sector; 1; 1; 3;NA;NA
+4; 4; 5;government; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+4; 3;NA;private sector; 1; 1;NA;NA; 3
+4; 2;NA;private sector; 1; 1;NA; 2;NA
+5; 3;NA;private sector; 1; 0; 3;NA;NA
+3; 2;NA;government; 0; 1; 4;NA;NA
+3; 3;NA;government; 1; 1;NA; 1;NA
+2; 2;NA;private sector; 1; 1;NA; 3;NA
+4; 2; 4;private sector; 1; 1; 3;NA;NA
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1; 2;NA;NA
+3; 3; 5;government; 0; 1;NA;NA; 2
+4; 3; 4;NGO; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+4; 3;NA;private sector; 1; 1; 4;NA;NA
+3; 3; 5;government; 0; 1; 3;NA;NA
+3; 3;NA;private sector; 0; 1;NA; 3;NA
+5; 6; 7;DK; 0; 1;NA; 3;NA
+3; 2; 4;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1; 1;NA;NA
+4; 3;NA;private sector; 1; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1; 3;NA;NA
+4; 2; 4;private sector; 1; 1;NA; 3;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+4; 2;NA;private sector; 1; 1; 3;NA;NA
+3; 4; 5;private sector; 1; 1;NA;NA; 4
+4; 3; 4;government; 1; 1;NA;NA; 3
+4; 3;NA;private sector; 1; 1; 3;NA;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 2
+3; 1;NA;Other; 0; 1; 2;NA;NA
+3; 2; 4;private sector; 1; 1;NA;NA; 3
+3; 2; 5;private sector; 0; 1;NA;NA; 1
+3; 2;NA;private sector; 1; 1; 3;NA;NA
+4; 3; 4;private sector; 1; 1; 3;NA;NA
+3; 3; 5;government; 0; 1; 2;NA;NA
+3; 2; 3;private sector; 1; 1;NA; 2;NA
+3; 2; 5;private sector; 1; 1;NA; 4;NA
+4; 3; 4;government; 0; 1;NA; 3;NA
+4; 2;NA;private sector; 0; 1;NA;NA; 1
+4; 3; 4;private sector; 0; 1; 3;NA;NA
+4; 3; 5;private sector; 0; 1;NA; 3;NA
+4; 3; 5;private sector; 1; 1;NA;NA; 1
+4; 3;NA;private sector; 0; 1;NA;NA; 4
+3; 2; 4;private sector; 1; 1;NA; 3;NA
+4; 2; 4;government; 1; 1; 3;NA;NA
+4; 2; 4;private sector; 1; 1; 3;NA;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 3
+3; 3;NA;private sector; 0; 1;NA;NA; 1
+4; 4;NA;private sector; 1; 1; 3;NA;NA
+3; 2; 4;private sector; 1; 1;NA;NA; 3
+3; 3; 5;NGO; 0; 1;NA;NA; 2
+4; 2;NA;private sector; 1; 1;NA;NA; 2
+2; 3;NA;private sector; 1; 1;NA; 2;NA
+4; 3; 4;government; 1; 1;NA; 2;NA
+4; 4; 5;private sector; 1; 1; 1;NA;NA
+3; 2; 3;private sector; 0; 1;NA;NA; 3
+4; 2; 4;private sector; 1; 1;NA;NA; 3
+4; 4; 5;private sector; 1; 1;NA; 3;NA
+4; 3; 4;government; 1; 1;NA; 3;NA
+4; 2; 5;private sector; 1; 1; 4;NA;NA
+3; 2; 6;private sector; 0; 1;NA; 4;NA
+4; 4; 5;private sector; 0; 1;NA; 2;NA
+3; 3;NA;private sector; 1; 0;NA;NA; 1
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 2; 3;private sector; 0; 1;NA;NA; 4
+4; 3; 4;government; 1; 1;NA;NA; 2
+4; 2; 5;NGO; 0; 1;NA; 2;NA
+4; 3;NA;private sector;NA; 1;NA;NA; 3
+4; 3; 5;private sector; 1; 1;NA; 1;NA
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 2;NA;government; 0; 1; 3;NA;NA
+3; 3; 5;government; 0; 1;NA;NA; 2
+4; 1; 6;Other;NA; 1; 3;NA;NA
+4; 2; 3;private sector; 1; 1;NA;NA; 3
+4; 2;NA;government; 0; 1;NA; 2;NA
+3; 4; 5;private sector; 1; 1; 2;NA;NA
+3; 3; 4;government; 0; 1;NA; 3;NA
+4; 3;NA;private sector; 0; 1; 2;NA;NA
+4; 3;NA;private sector; 0; 1; 2;NA;NA
+4; 3;NA;private sector; 0; 1;NA;NA; 2
+4; 3;NA;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+3; 4; 6;private sector; 0; 1;NA; 3;NA
+3; 1; 5;government; 0; 1;NA; 4;NA
+3; 3;NA;private sector; 0; 1; 1;NA;NA
+3; 3; 5;private sector; 1; 1; 4;NA;NA
+2; 3; 6;government; 1; 1;NA;NA; 2
+4; 2; 3;private sector; 0; 1; 3;NA;NA
+3; 3; 5;NGO; 1; 1; 2;NA;NA
+5; 2; 3;government; 0; 1;NA; 3;NA
+4; 3; 4;private sector; 1; 1; 3;NA;NA
+4; 3; 4;private sector; 0; 1;NA; 2;NA
+3; 3; 5;DK; 0; 0; 2;NA;NA
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 4;NA;government; 0; 1;NA; 2;NA
+4; 2;NA;private sector; 1; 1;NA; 2;NA
+4; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+4; 2;NA;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+4; 3;NA;private sector; 0; 1;NA;NA; 3
+3; 3; 5;private sector; 1; 1; 2;NA;NA
+3; 4; 5;private sector; 1; 1;NA;NA; 1
+4; 2; 5;DK; 0; 1;NA;NA; 3
+4; 4; 5;private sector; 0; 1;NA; 3;NA
+4; 2;NA;private sector; 0; 1;NA; 2;NA
+3; 1; 3;private sector; 1; 0;NA; 2;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 3
+4; 2; 4;private sector; 0; 1;NA; 1;NA
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+4; 3; 5;NGO; 0; 1; 2;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1; 1;NA;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA; 3;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA;NA; 1
+3; 4; 5;government; 0; 1;NA;NA; 0
+4; 3; 5;government; 0; 1;NA; 2;NA
+3; 2; 4;Other; 1; 1;NA; 2;NA
+4; 3; 5;government; 0; 1;NA;NA; 2
+4; 2; 3;private sector; 1; 1;NA;NA; 3
+4; 3; 5;private sector; 1; 1; 2;NA;NA
+3; 3; 5;government; 0; 1;NA;NA; 0
+3; 3; 4;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 1; 3;Other; 1; 0; 5;NA;NA
+3; 2; 3;NGO; 0; 0; 2;NA;NA
+4; 2; 4;private sector; 1; 1;NA;NA; 3
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+4; 3; 5;private sector; 0; 1; 1;NA;NA
+3; 3; 5;government; 0; 1;NA; 1;NA
+4; 3; 3;private sector; 1; 1;NA; 2;NA
+4; 4; 5;private sector; 0; 1; 2;NA;NA
+4; 2; 4;private sector; 0; 1; 3;NA;NA
+2; 3; 5;private sector; 0; 1;NA; 3;NA
+3; 2;NA;government; 0; 1;NA; 3;NA
+3; 3; 5;government; 0; 1;NA;NA; 2
+4; 3; 5;NGO; 0; 1; 2;NA;NA
+4; 3; 5;NGO; 0; 1;NA;NA; 2
+2; 2; 5;private sector; 0; 1;NA; 3;NA
+4; 3;NA;private sector; 0; 1;NA; 3;NA
+4; 3; 4;private sector; 1; 1;NA;NA; 2
+3; 2;NA;private sector; 0; 1;NA; 1;NA
+3; 1; 4;Other; 0; 1;NA; 2;NA
+3; 3;NA;government; 0; 1;NA;NA; 2
+3; 3;NA;government; 0; 1;NA; 1;NA
+3; 4; 5;government; 0; 1; 0;NA;NA
+4; 3;NA;government; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 1
+4; 2;NA;private sector; 0; 1;NA; 2;NA
+5; 3; 5;private sector; 0; 0; 5;NA;NA
+3; 4; 6;government; 1; 1; 2;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+3; 3;NA;private sector; 0; 1;NA; 3;NA
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;government; 0; 1;NA;NA; 2
+3; 3; 5;NGO; 0; 1; 1;NA;NA
+4; 4;NA;private sector; 1; 1;NA; 1;NA
+3; 3; 5;government; 0; 1;NA;NA; 2
+3; 4; 5;government; 0; 1;NA;NA; 1
+4; 1; 4;private sector; 0; 1;NA;NA; 0
+4; 2; 5;government; 1; 1; 2;NA;NA
+4; 2; 4;private sector; 0; 1;NA;NA; 3
+3; 3;NA;government; 0; 1; 1;NA;NA
+3; 2; 5;private sector; 1; 1;NA;NA; 2
+4; 3; 6;government; 0; 1;NA;NA; 2
+3; 1;NA;Other; 1; 1;NA;NA; 2
+3; 4; 5;government; 0; 1;NA; 3;NA
+3; 4; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;government; 0; 1;NA;NA; 2
+3; 2; 4;private sector; 1; 1;NA; 2;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 2
+4; 4; 5;private sector; 0; 1; 2;NA;NA
+4; 2; 5;government; 1; 1;NA;NA; 2
+4; 3;NA;private sector; 0; 1; 5;NA;NA
+3; 4; 5;government; 0; 1; 4;NA;NA
+3; 3;NA;private sector; 0; 1; 1;NA;NA
+3; 1; 5;government; 0; 1;NA; 3;NA
+3; 4; 5;private sector; 0; 1; 3;NA;NA
+4; 4; 5;private sector; 1; 1;NA;NA; 1
+4; 2; 3;private sector; 0; 1; 3;NA;NA
+4; 3;NA;private sector; 0; 1;NA; 4;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 3
+4; 4; 5;private sector; 1; 1;NA; 3;NA
+4; 4;NA;government; 0; 1; 1;NA;NA
+3; 3;NA;government; 0; 1;NA;NA; 2
+3; 3;NA;government; 0; 1;NA;NA; 2
+3; 2; 5;private sector; 1; 1;NA; 3;NA
+3; 2; 4;private sector; 0; 1;NA; 2;NA
+3; 3; 4;private sector; 0; 1;NA;NA; 2
+3; 3;NA;private sector; 0; 1;NA;NA; 3
+4; 3; 5;NGO; 0; 1; 2;NA;NA
+3; 3; 5;NGO; 0; 1;NA;NA; 2
+3; 4; 4;private sector; 0; 1;NA;NA; 3
+4; 3;NA;private sector; 0; 1; 5;NA;NA
+3; 3;NA;private sector; 0; 1;NA; 1;NA
+4; 1; 4;private sector; 0; 0; 4;NA;NA
+3; 1; 5;government; 0; 1;NA;NA; 4
+3; 3; 5;private sector; 0; 1;NA;NA; 1
+3; 3; 5;government; 1; 1;NA; 3;NA
+3; 4; 6;private sector; 1; 1;NA;NA; 3
+3; 4;NA;private sector; 0; 1;NA; 1;NA
+3; 4;NA;government; 1; 1;NA; 2;NA
+3; 1; 4;Other; 0; 1;NA;NA; 1
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 4; 6;private sector;NA;NA;NA;NA; 3
+5; 1;NA;Other; 1; 1;NA; 3;NA
+4; 1; 4;private sector; 1; 1;NA;NA; 2
+4; 3;NA;private sector; 0; 1; 5;NA;NA
+3; 4;NA;private sector; 0; 1; 2;NA;NA
+3; 3;NA;government; 0; 1; 2;NA;NA
+3; 2;NA;private sector;NA; 1;NA; 1;NA
+2; 3;NA;private sector; 0; 1;NA; 1;NA
+4; 3;NA;private sector; 0; 1;NA; 4;NA
+4; 2; 3;private sector; 0; 1;NA; 2;NA
+3; 3;NA;government; 0; 1;NA; 1;NA
+4; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 3; 4;private sector; 0; 1;NA;NA; 2
+3; 3; 4;private sector; 0; 1;NA; 2;NA
+4; 2; 4;private sector; 0; 1;NA; 1;NA
+3; 4; 5;private sector; 1; 1; 1;NA;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 3
+3; 3; 5;NGO; 0; 1; 2;NA;NA
+5; 3; 5;government; 0; 1;NA; 3;NA
+2; 4; 5;private sector; 1; 1;NA;NA; 2
+3; 4;NA;private sector; 0; 1; 2;NA;NA
+4; 2; 3;private sector; 0; 1;NA;NA; 3
+3; 3; 5;private sector; 0; 1;NA;NA; 1
+4; 2; 5;government; 1; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+4; 3; 5;private sector; 1; 1;NA;NA; 3
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 4;NA;private sector; 0; 1; 2;NA;NA
+4; 2; 4;private sector; 0; 1;NA;NA; 4
+2; 3; 5;government;NA;NA;NA;NA; 4
+3; 3;NA;private sector; 0; 1;NA;NA; 2
+3; 3; 4;private sector; 0; 1;NA; 3;NA
+3; 4;NA;private sector; 0; 1; 3;NA;NA
+3; 4; 5;government; 0; 1; 2;NA;NA
+3; 3;NA;private sector; 0; 1; 3;NA;NA
+3; 3; 5;government; 0; 1; 3;NA;NA
+4; 2;NA;government; 0; 1;NA; 3;NA
+3; 3;NA;government; 0; 1; 2;NA;NA
+3; 4; 5;government; 0; 1;NA; 1;NA
+3; 4; 5;private sector; 1; 1;NA; 2;NA
+4; 3;NA;private sector; 0; 1;NA;NA; 5
+4; 3; 5;government; 0; 1; 1;NA;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 2
+3; 2; 4;Other; 0; 1;NA; 2;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 1
+3; 4; 6;private sector; 1; 1;NA;NA; 2
+4; 3; 5;private sector; 1; 1; 1;NA;NA
+3; 3;NA;private sector; 1; 1; 2;NA;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 1
+3; 4; 4;private sector; 0; 1;NA; 3;NA
+3; 4; 4;private sector; 1; 1;NA; 2;NA
+4; 3; 5;private sector; 1; 1; 2;NA;NA
+4; 3;NA;private sector; 0; 1; 3;NA;NA
+4; 4; 5;private sector; 0; 1; 4;NA;NA
+3; 3; 5;private sector; 0; 1; 1;NA;NA
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 4;NA;private sector; 0; 1;NA;NA; 2
+3; 4; 5;government; 0; 1; 4;NA;NA
+4; 3;NA;private sector; 0; 1;NA;NA; 5
+3; 4;NA;private sector; 1; 1;NA;NA; 1
+4; 3; 5;private sector; 1; 1; 2;NA;NA
+4; 3;NA;NGO; 0; 0;NA; 3;NA
+3; 4;NA;private sector; 0; 1;NA; 3;NA
+4; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA; 3;NA
+3; 3; 6;private sector; 0; 0;NA; 1;NA
+3; 4;NA;private sector; 0; 1; 3;NA;NA
+3; 4;NA;private sector; 0; 1; 2;NA;NA
+3; 3;NA;government; 0; 1;NA;NA; 1
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 3; 5;private sector; 1; 1; 2;NA;NA
+3; 4;NA;private sector; 0; 1;NA; 3;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 3
+4; 3; 5;private sector; 0; 1;NA;NA; 2
+3; 3; 5;government; 0; 1;NA; 2;NA
+3; 4; 5;government; 0; 1; 1;NA;NA
+3; 4; 5;government; 0; 1; 3;NA;NA
+3; 4;NA;private sector; 1; 1;NA;NA; 3
+3; 2; 4;NGO; 0; 0; 3;NA;NA
+3; 3;NA;government; 0; 1;NA; 2;NA
+3; 3;NA;government; 0; 1;NA; 2;NA
+4; 3;NA;private sector; 0; 1;NA; 4;NA
+3; 3; 4;private sector; 0; 1;NA; 2;NA
+4; 4; 5;government; 1; 1;NA;NA; 3
+4; 3;NA;NGO; 0; 1;NA;NA; 2
+4; 3;NA;private sector; 0; 1;NA;NA; 1
+4; 3; 5;private sector; 1; 1;NA;NA; 2
+4; 3;NA;private sector; 1; 1;NA;NA; 2
+3; 4; 5;government; 0; 1;NA; 0;NA
+3; 3; 5;government; 1; 1;NA; 3;NA
+4; 4; 5;government; 1; 1;NA;NA; 3
+3; 4; 6;government; 0; 1;NA; 1;NA
+4; 3; 5;government; 0; 1;NA; 2;NA
+3; 4; 6;private sector; 0; 1;NA;NA; 2
+3; 4; 5;private sector; 0; 1; 3;NA;NA
+4; 4; 5;government; 1; 1; 3;NA;NA
+4; 3;NA;private sector; 0; 1;NA;NA; 5
+3; 2; 5;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+4; 3; 5;NGO; 1; 1;NA; 2;NA
+3; 4;NA;private sector; 0; 1;NA;NA; 2
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 4; 4;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1; 4;NA;NA
+4; 3;NA;private sector; 1; 0;NA; 3;NA
+4; 3; 5;private sector; 1; 1;NA;NA; 3
+3; 3;NA;private sector; 0; 1; 3;NA;NA
+4; 3;NA;private sector; 0; 1;NA;NA; 2
+3; 4; 5;private sector; 0; 1;NA; 3;NA
+4; 2; 4;private sector; 0; 1; 2;NA;NA
+4; 3; 5;government; 0; 1;NA;NA; 3
+4; 3; 5;private sector; 1; 1;NA;NA; 3
+3; 2; 5;private sector; 1; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1; 3;NA;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 3
+3; 4; 5;private sector; 0; 1;NA; 2;NA
+4; 3; 5;private sector; 1; 1;NA;NA; 3
+4; 3; 5;private sector; 0; 1;NA; 1;NA
+3; 3; 5;NGO; 1; 1;NA;NA; 2
+4; 3;NA;private sector; 0; 1;NA; 4;NA
+4; 3; 5;NGO; 1; 1; 2;NA;NA
+3; 3; 5;government; 1; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 1
+3; 4; 5;private sector; 1; 1; 2;NA;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 2
+4; 4;NA;Other; 0; 0; 3;NA;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 2
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 3; 5;government; 0; 1;NA; 2;NA
+3; 4; 4;private sector; 0; 1;NA; 3;NA
+4; 3;NA;private sector; 0; 1; 4;NA;NA
+4; 3; 5;private sector; 1; 1; 2;NA;NA
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 3; 5;NGO; 0; 1;NA; 1;NA
+4; 3; 5;private sector; 0; 1; 3;NA;NA
+4; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 3; 5;government;NA; 1;NA; 2;NA
+4; 3;NA;NGO; 1; 0;NA; 2;NA
+3; 3; 4;private sector; 1; 1;NA; 2;NA
+3; 3; 5;government; 1; 1;NA; 3;NA
+4; 3; 5;private sector; 1; 1;NA;NA; 2
+3; 3; 5;government; 0; 1; 0;NA;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 1
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+4; 4;NA;Other; 1; 0; 3;NA;NA
+4; 3; 5;private sector; 1; 1;NA;NA; 1
+4; 3;NA;NGO; 0; 1;NA; 1;NA
+3; 4; 5;private sector; 1; 1;NA; 0;NA
+3; 4; 4;private sector; 0; 1; 2;NA;NA
+4; 4; 5;private sector; 0; 1;NA;NA; 0
+3; 3; 4;private sector; 0; 1; 3;NA;NA
+3; 3;NA;NGO;NA; 1;NA;NA; 2
+3; 3; 4;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 1;NA; 1;NA
+4; 3; 5;NGO; 1; 1; 2;NA;NA
+4; 3;NA;private sector; 0; 0;NA;NA; 3
+3; 3; 5;private sector; 0; 1; 1;NA;NA
+3; 1; 4;private sector; 1; 1;NA; 1;NA
+3; 4; 5;government; 0; 1; 0;NA;NA
+4; 3; 6;private sector; 1; 1;NA;NA; 3
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+4; 4; 6;government; 0; 1;NA; 0;NA
+3; 3;NA;private sector; 0; 1;NA; 1;NA
+4; 3; 5;private sector; 1; 1;NA;NA; 3
+2; 4;NA;private sector;NA;NA;NA; 2;NA
+3; 3;NA;private sector; 0; 1; 2;NA;NA
+4; 3; 4;private sector; 1; 1; 1;NA;NA
+3; 3; 4;private sector; 1; 1;NA;NA; 3
+3; 4; 5;government; 0; 1; 1;NA;NA
+3; 4;NA;private sector; 0; 1;NA;NA; 2
+3; 4;NA;private sector; 0; 1;NA; 3;NA
+3; 3;NA;private sector; 1; 1; 2;NA;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 3
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 4;NA;Other; 0; 1;NA;NA; 4
+4; 2; 4;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1; 1;NA;NA
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1; 1;NA;NA
+3; 3; 5;private sector; 1; 1;NA; 1;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+4; 3;NA;private sector; 0; 1; 2;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+3; 2; 5;government; 1; 1;NA;NA; 1
+4; 3;NA;private sector; 0; 1;NA; 2;NA
+3; 2; 4;private sector; 1; 1;NA;NA; 4
+4; 3; 5;private sector; 1; 1; 3;NA;NA
+4; 2; 5;government; 0; 1;NA;NA; 1
+3; 3; 5;government; 0; 1; 2;NA;NA
+4; 3; 4;private sector; 1; 1;NA; 3;NA
+3; 3;NA;private sector; 0; 1; 2;NA;NA
+3; 2; 5;private sector; 1; 1;NA; 4;NA
+3; 4; 5;private sector; 1; 1;NA;NA; 2
+3; 4; 5;government; 0; 1;NA;NA; 3
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 3; 5;NGO; 0; 1;NA; 2;NA
+4; 4;NA;private sector; 0; 1; 2;NA;NA
+4; 3; 5;private sector; 1; 1;NA; 3;NA
+3; 2; 5;private sector; 1; 1;NA; 2;NA
+2; 3; 5;private sector;NA;NA; 2;NA;NA
+3; 2; 3;private sector; 1; 1;NA; 3;NA
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+3; 3;NA;government; 0; 1;NA; 1;NA
+4; 3; 5;private sector; 1; 1; 4;NA;NA
+4; 4;NA;government; 0; 1; 2;NA;NA
+3; 3;NA;private sector; 0; 1; 1;NA;NA
+4; 3; 4;Other; 1; 0;NA;NA; 4
+3; 3; 5;private sector; 1; 1;NA; 0;NA
+3; 4;NA;private sector; 0; 1;NA; 2;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 2
+5; 2; 6;Other; 0; 1; 3;NA;NA
+4; 3; 5;private sector; 1; 1; 3;NA;NA
+4; 3; 4;NGO; 0; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 2
+3; 3; 4;private sector; 1; 1;NA;NA; 2
+3; 4; 5;private sector; 0; 1; 3;NA;NA
+4; 3; 4;private sector; 1; 1; 2;NA;NA
+4; 3;NA;private sector; 0; 1;NA;NA; 1
+4; 3; 4;Other; 0; 0;NA;NA; 3
+3; 3; 4;NGO; 0; 1; 3;NA;NA
+4; 4;NA;private sector; 0; 0;NA;NA; 3
+4; 2; 5;government; 0; 1; 4;NA;NA
+3; 3; 5;private sector; 1;NA;NA; 3;NA
+3; 4; 5;private sector; 1; 1; 2;NA;NA
+4; 3;NA;private sector; 0; 1;NA;NA; 5
+3; 3; 5;government; 0; 1;NA; 3;NA
+3; 3; 4;private sector; 1; 1;NA; 2;NA
+4; 2; 5;government; 0; 1; 1;NA;NA
+3; 4;NA;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 3
+3; 2;NA;private sector;NA;NA; 2;NA;NA
+3; 3; 4;government; 0; 1; 3;NA;NA
+4; 3;NA;private sector; 0; 1;NA; 4;NA
+3; 4; 6;private sector; 1; 1;NA; 1;NA
+3; 2;NA;NGO; 0; 1; 3;NA;NA
+3; 2; 6;government; 1; 1;NA; 3;NA
+3; 4; 5;government; 0; 1;NA;NA; 4
+3; 1; 5;private sector;NA;NA;NA; 2;NA
+4; 3; 4;private sector; 0; 1;NA; 1;NA
+3; 3; 5;private sector; 0; 1; 1;NA;NA
+4; 6;NA;private sector; 0; 1; 4;NA;NA
+3; 3;NA;private sector;NA; 1; 3;NA;NA
+4; 4; 5;private sector; 0; 1;NA; 1;NA
+4; 3;NA;private sector; 1; 1; 1;NA;NA
+4; 2;NA;NGO; 1; 1; 2;NA;NA
+4; 1; 4;private sector; 1; 1; 2;NA;NA
+4; 3;NA;government; 1; 1;NA;NA; 3
+3; 2; 4;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA;NA;NA
+4; 4; 5;private sector; 1; 1;NA;NA; 2
+4; 3; 4;private sector; 0; 0;NA;NA; 4
+4; 3;NA;government; 0; 1;NA;NA; 2
+3; 3; 5;private sector;NA; 1;NA; 3;NA
+4; 1;NA;government; 0; 1;NA;NA; 3
+3; 3; 5;government; 1; 1;NA; 2;NA
+3; 2; 4;private sector; 1; 1;NA; 3;NA
+3; 3; 6;government; 0; 1;NA; 4;NA
+3; 2;NA;Other; 0; 1;NA; 2;NA
+3; 3;NA;government; 1; 1;NA;NA; 3
+4; 2;NA;private sector; 0; 1; 3;NA;NA
+4; 3; 6;government; 1; 1;NA;NA; 3
+3; 6; 4;private sector; 0; 0;NA; 2;NA
+4; 4; 5;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 1
+3; 2; 5;private sector; 1; 1;NA;NA; 2
+3; 4; 5;government; 0; 1; 3;NA;NA
+3; 2; 5;private sector; 1; 1; 2;NA;NA
+3; 4; 6;private sector; 0; 1; 3;NA;NA
+3; 4; 5;private sector; 1; 1;NA; 1;NA
+4; 3;NA;private sector; 0; 1; 2;NA;NA
+4; 2; 4;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+3; 3; 5;government; 1; 1;NA;NA; 2
+4; 2; 5;government; 0; 1;NA;NA; 3
+3; 3; 5;private sector;NA; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA; 3;NA
+3; 4; 5;NGO; 1; 1;NA;NA; 2
+3; 2;NA;private sector; 0; 1;NA; 3;NA
+3; 2; 5;private sector; 1; 1;NA;NA; 1
+3; 2;NA;private sector; 0; 1;NA; 3;NA
+3; 4; 5;Other; 0; 1; 3;NA;NA
+3; 1; 4;Other; 0; 0; 2;NA;NA
+3; 2; 4;Other; 0; 0;NA; 3;NA
+3; 6; 7;DK; 0; 1;NA;NA; 0
+4; 4; 6;government; 0; 1;NA; 2;NA
+3; 4;NA;Other; 0; 1;NA;NA; 3
+3; 6; 6;government; 0; 1;NA; 2;NA
+3; 1;NA;private sector; 1; 1;NA;NA; 3
+4; 1; 3;Other; 0; 0; 5;NA;NA
+3; 2; 4;private sector; 0; 1;NA; 2;NA
+3; 2; 5;government; 0; 1; 1;NA;NA
+4; 2;NA;DK; 1; 1;NA;NA; 4
+3; 3; 5;government; 0; 1; 2;NA;NA
+4; 2; 4;private sector; 0; 1;NA;NA; 4
+2; 2;NA;private sector; 1; 0; 2;NA;NA
+3; 2; 4;government; 1; 0; 3;NA;NA
+3; 1; 4;private sector; 0; 1;NA; 2;NA
+3; 2; 4;private sector; 0; 1;NA; 2;NA
+3; 3;NA;government; 1; 0;NA; 2;NA
+4; 1; 3;Other; 0; 0;NA;NA; 3
+5; 4;NA;Other; 1; 1;NA;NA;NA
+3; 4; 6;government; 1; 1; 2;NA;NA
+4; 2; 5;government; 0; 1;NA;NA; 3
+3; 4; 6;private sector; 0; 1; 2;NA;NA
+3; 4; 5;private sector; 1; 1; 3;NA;NA
+4; 3;NA;private sector; 0; 1; 2;NA;NA
+3; 3; 5;NGO; 0; 1;NA;NA; 3
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+3; 1;NA;private sector; 1; 1; 2;NA;NA
+3; 6; 7;Other; 0; 1;NA;NA; 3
+4; 4; 5;private sector;NA; 1; 2;NA;NA
+4; 3; 5;private sector; 1; 1; 2;NA;NA
+2; 3; 5;private sector; 0; 1;NA; 3;NA
+4; 3; 5;private sector; 1; 1;NA;NA; 2
+5; 2;NA;government; 0; 1;NA; 1;NA
+4; 2; 5;government; 0; 1;NA;NA; 2
+4; 2; 4;private sector; 0; 1;NA; 3;NA
+3; 3; 5;private sector;NA; 1;NA; 2;NA
+3; 4; 5;private sector; 1; 1;NA; 2;NA
+4; 3; 5;private sector; 0; 1; 1;NA;NA
+4; 3;NA;government; 0; 1;NA;NA; 2
+3; 1; 4;Other; 0; 0;NA;NA; 3
+4; 4; 5;private sector;NA; 1;NA; 2;NA
+4; 2; 3;private sector; 1; 1;NA; 2;NA
+2; 4; 6;private sector; 1; 1;NA; 2;NA
+4; 3; 5;private sector; 0; 1; 3;NA;NA
+4; 4; 5;government; 0; 1; 3;NA;NA
+4; 4;NA;private sector; 0; 1;NA;NA; 3
+4; 4; 5;government; 0; 1; 2;NA;NA
+4; 2;NA;private sector; 1; 1;NA; 2;NA
+3; 1; 2;Other; 0; 1;NA; 0;NA
+3; 4; 5;government; 0; 1; 3;NA;NA
+4; 1;NA;Other; 1; 1;NA; 1;NA
+3; 2; 5;government; 1; 1;NA; 4;NA
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+3; 3; 5;government; 0; 1;NA; 3;NA
+4; 4; 6;government; 0; 1;NA; 3;NA
+4; 3;NA;government; 1; 1;NA; 1;NA
+4; 2; 3;private sector; 1; 1;NA;NA; 3
+4; 3; 5;government; 0; 1;NA;NA; 1
+3; 3; 5;government; 0; 1;NA;NA; 2
+4; 2; 4;private sector; 1; 0;NA;NA; 3
+4; 2; 4;private sector; 0; 1;NA; 2;NA
+4; 4;NA;private sector; 0; 1;NA;NA; 1
+4; 2; 4;private sector; 1; 1;NA;NA; 3
+3; 3;NA;government; 0; 1;NA;NA; 3
+3; 3;NA;private sector; 1; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 1;NA;NA; 3
+4; 3;NA;private sector; 0; 1;NA;NA; 2
+3; 3; 5;government; 1; 1;NA; 4;NA
+3; 3; 5;NGO; 1; 1;NA;NA; 3
+3; 3;NA;government; 1; 1;NA; 1;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 1
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 2; 3;private sector; 1; 1; 3;NA;NA
+3; 3;NA;government; 1; 1; 2;NA;NA
+3; 2;NA;private sector; 0; 0; 2;NA;NA
+3; 3; 4;private sector; 1; 1;NA;NA; 3
+3; 3;NA;private sector; 1; 1;NA;NA; 2
+4; 3; 5;government; 0; 1; 3;NA;NA
+3; 3;NA;private sector; 0; 1; 3;NA;NA
+3; 6; 6;government; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+5; 2;NA;government; 0; 1; 2;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 1
+4; 2; 4;private sector; 1; 0;NA; 3;NA
+3; 2; 5;private sector; 0; 1; 2;NA;NA
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 3; 4;government; 0; 1; 3;NA;NA
+3; 1; 3;private sector; 1; 0; 1;NA;NA
+3; 4; 5;government; 0; 1; 1;NA;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 2
+4; 3;NA;private sector; 0; 1;NA; 2;NA
+3; 2; 4;private sector; 1; 1; 3;NA;NA
+3; 2; 5;government; 0; 1;NA;NA; 1
+3; 2; 5;government; 0; 1;NA;NA; 1
+3; 2; 4;private sector; 1; 1;NA;NA; 3
+3; 4; 5;private sector; 1; 1;NA;NA; 3
+3; 2;NA;government; 0; 1;NA;NA; 3
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+4; 3; 5;private sector; 1; 1;NA; 1;NA
+3; 2; 5;government; 0; 1;NA; 0;NA
+4; 4; 5;private sector; 1; 1;NA;NA; 2
+4; 3; 5;private sector; 1; 1;NA;NA; 2
+4; 3; 4;government; 1; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+3; 4;NA;private sector; 1; 1;NA;NA; 2
+3; 4; 5;Other; 1; 1;NA; 2;NA
+3; 2;NA;private sector; 1; 1;NA; 2;NA
+3; 3; 5;government; 1; 1;NA;NA; 3
+4; 2; 4;private sector; 1; 1; 4;NA;NA
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+4; 3; 4;private sector; 1; 1; 3;NA;NA
+4; 4;NA;government; 1; 1;NA; 1;NA
+4; 3;NA;private sector; 1; 1;NA;NA; 1
+3; 2;NA;Other; 0; 0; 2;NA;NA
+4; 4; 5;private sector; 1; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+4; 3; 5;government; 0; 1;NA;NA; 1
+4; 2;NA;private sector; 1; 0;NA;NA; 3
+3; 3; 5;government; 0; 1;NA;NA; 2
+4; 3;NA;private sector; 1; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 4
+3; 2; 4;private sector; 0; 1;NA; 2;NA
+3; 3; 5;NGO; 1; 0;NA; 2;NA
+4; 2;NA;private sector; 1; 1;NA;NA; 3
+4; 2; 4;private sector; 0; 1; 3;NA;NA
+3; 3;NA;government; 0; 1;NA;NA; 3
+3; 2; 5;government; 0; 1; 1;NA;NA
+4; 3; 5;private sector; 1; 0;NA; 2;NA
+3; 3;NA;private sector; 1; 1;NA; 3;NA
+4; 3;NA;private sector; 1; 1; 2;NA;NA
+5; 2;NA;private sector; 0; 1; 3;NA;NA
+4; 3; 5;government; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 1; 4;NA;NA
+4; 4;NA;private sector; 1; 1; 2;NA;NA
+3; 3;NA;private sector; 1; 1; 2;NA;NA
+4; 2; 4;private sector; 1; 1;NA; 2;NA
+3; 2;NA;private sector; 1; 1;NA;NA; 2
+3; 3;NA;private sector; 1; 1; 3;NA;NA
+4; 2;NA;private sector; 1; 1;NA;NA; 3
+4; 4; 2;private sector; 1; 1; 2;NA;NA
+3; 3;NA;NGO; 1; 1;NA;NA; 2
+3; 2; 5;government; 0; 1; 1;NA;NA
+3; 2; 5;government; 0; 1;NA; 1;NA
+3; 3;NA;private sector; 1; 1;NA; 2;NA
+3; 3;NA;government; 1; 1;NA;NA; 3
+3; 3; 5;private sector; 0; 1;NA;NA; 1
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 3; 5;government; 0; 1;NA; 1;NA
+4; 3; 5;private sector; 1; 1;NA; 3;NA
+3; 3;NA;private sector; 0; 1; 1;NA;NA
+4; 3;NA;government; 1; 1; 3;NA;NA
+3; 3; 5;government; 0; 1;NA;NA; 1
+3; 3;NA;private sector; 1; 1; 3;NA;NA
+3; 3;NA;private sector; 0; 1; 1;NA;NA
+4; 2; 4;private sector; 1; 1;NA; 3;NA
+3; 4; 5;government; 0; 1; 2;NA;NA
+4; 3; 4;government; 1; 1;NA; 2;NA
+3; 4; 5;private sector; 0; 1;NA; 2;NA
+4; 2;NA;private sector; 0; 1;NA; 2;NA
+4; 2; 5;government; 0; 1;NA;NA; 4
+3; 4; 6;private sector; 0; 1;NA; 3;NA
+4; 3; 4;private sector; 1; 1;NA;NA; 2
+3; 2; 5;government; 0; 1;NA; 1;NA
+3; 2; 4;Other; 1; 1;NA; 2;NA
+3; 3; 4;private sector; 1; 1;NA;NA; 3
+4; 4; 5;private sector; 1; 1; 2;NA;NA
+3; 3; 5;government; 0; 1; 1;NA;NA
+4; 3; 4;government; 1; 1;NA; 2;NA
+3; 4; 5;government; 0; 1; 1;NA;NA
+4; 3; 4;private sector; 1; 1; 2;NA;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 2
+4; 2;NA;private sector; 1; 1; 4;NA;NA
+3; 2; 5;government; 1; 1;NA; 3;NA
+4; 3;NA;private sector; 0; 1;NA;NA; 3
+4; 2;NA;private sector; 0; 1; 2;NA;NA
+3; 3; 5;government; 0; 1; 0;NA;NA
+3; 3; 5;government; 0; 1; 0;NA;NA
+4; 4; 5;private sector; 1; 1;NA;NA; 1
+3; 3;NA;private sector; 1; 1;NA;NA; 3
+4; 3; 5;private sector; 0; 1;NA; 1;NA
+3; 3;NA;government; 1; 1;NA;NA; 3
+3; 2; 4;private sector; 0; 0;NA;NA; 2
+3; 4; 6;private sector; 0; 1; 2;NA;NA
+3; 4; 5;government; 0; 1;NA; 1;NA
+4; 4; 5;private sector; 1; 1;NA; 2;NA
+3; 3;NA;government; 1; 1;NA;NA; 2
+3; 4; 5;government; 0; 1;NA;NA; 0
+4; 3; 5;private sector; 1; 1;NA;NA; 2
+4; 3;NA;government; 1; 1; 2;NA;NA
+3; 3; 4;private sector; 1; 1;NA; 2;NA
+3; 3; 4;government; 1; 1; 2;NA;NA
+3; 4; 6;private sector; 1; 1; 3;NA;NA
+3; 3;NA;private sector; 1; 1;NA; 2;NA
+3; 3; 5;government; 0; 1;NA;NA; 1
+4; 4; 5;government;NA; 1; 1;NA;NA
+3; 1; 3;Other; 1; 0; 2;NA;NA
+4; 3; 4;private sector; 0; 1;NA; 2;NA
+4; 2; 5;government; 0; 1;NA; 4;NA
+4; 3;NA;private sector; 0; 1; 3;NA;NA
+4; 4;NA;government; 0; 1;NA; 1;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 1
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 4; 5;private sector; 1; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+4; 4; 5;private sector; 0; 1;NA; 1;NA
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+3; 3; 4;private sector; 0; 1;NA;NA; 2
+4; 3;NA;government; 1; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+4; 4; 5;private sector; 1; 1; 4;NA;NA
+3; 1; 4;private sector; 0; 1;NA;NA; 1
+3; 4;NA;private sector; 1; 1;NA;NA; 3
+3; 4; 5;government; 1; 1;NA;NA; 1
+3; 3; 5;government; 0; 1;NA; 1;NA
+3; 3; 4;private sector; 1; 1; 3;NA;NA
+3; 3; 5;government; 1; 1;NA; 3;NA
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+3; 3;NA;private sector; 0; 1; 2;NA;NA
+3; 3;NA;private sector; 1; 1;NA; 3;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 2
+3; 3; 5;government; 1; 1; 2;NA;NA
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 4
+3; 3; 5;private sector; 1; 1;NA; 4;NA
+3; 2; 4;private sector; 1; 1;NA;NA; 2
+4; 4; 5;private sector; 0; 1;NA;NA; 3
+3; 3;NA;government; 1; 1;NA; 2;NA
+4; 4; 5;government; 0; 1; 1;NA;NA
+4; 3; 4;private sector; 1; 1;NA;NA; 2
+4; 4; 5;government; 1; 1;NA; 3;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 4
+4; 3; 5;private sector; 0; 1;NA;NA; 4
+4; 3;NA;government; 1; 1;NA; 3;NA
+3; 3;NA;government; 1; 1;NA; 3;NA
+4; 2; 4;government; 1; 1;NA;NA; 2
+4; 2;NA;private sector; 1; 1;NA;NA; 2
+5; 3; 4;Other; 0; 1; 0;NA;NA
+3; 4; 5;private sector; 0; 1;NA; 2;NA
+4; 4; 4;private sector; 0; 1;NA; 1;NA
+4; 4; 5;private sector; 1; 1;NA;NA; 2
+4; 2; 3;private sector; 0; 0;NA; 1;NA
+4; 4;NA;private sector; 1; 1;NA;NA; 1
+4; 3; 4;government; 1; 1;NA;NA; 3
+4; 4; 5;private sector; 0; 1;NA;NA; 2
+2; 2; 5;private sector; 1; 1;NA; 4;NA
+4; 2; 4;private sector; 0; 1;NA; 3;NA
+4; 2; 3;private sector; 1; 1; 4;NA;NA
+4; 3; 5;government; 1; 1;NA;NA; 1
+4; 2; 5;government; 0; 1;NA;NA; 1
+2; 2; 4;private sector; 1; 1;NA;NA; 3
+4; 1;NA;private sector; 1; 1; 2;NA;NA
+4; 4; 5;government; 0; 1; 2;NA;NA
+3; 3;NA;private sector; 1; 1; 2;NA;NA
+4; 3; 5;private sector; 0; 0;NA;NA; 2
+4; 2; 5;government; 0; 1;NA; 4;NA
+3; 3; 4;private sector; 1; 1;NA; 2;NA
+4; 2;NA;government; 0; 1;NA; 4;NA
+4; 2; 5;government; 0; 1; 4;NA;NA
+4; 2;NA;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+4; 4; 6;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+3; 3;NA;private sector; 1; 1; 2;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+5; 3;NA;private sector; 0; 1;NA; 1;NA
+4; 3; 5;government; 0; 1;NA;NA; 2
+4; 2;NA;private sector; 0; 1;NA;NA; 3
+3; 3;NA;private sector; 0; 1; 1;NA;NA
+4; 2; 6;private sector; 0; 1;NA;NA; 0
+3; 3;NA;private sector; 0; 1; 2;NA;NA
+4; 2; 5;private sector; 0; 1;NA;NA; 2
+4; 3; 6;government; 0; 1;NA; 2;NA
+5; 2; 4;private sector; 1; 1;NA;NA; 5
+3; 3; 4;government; 1; 1; 3;NA;NA
+4; 3;NA;private sector; 0; 1;NA;NA; 1
+4; 3; 5;private sector; 0; 1;NA; 3;NA
+4; 4;NA;government; 0; 1;NA; 2;NA
+4; 3;NA;private sector; 0; 1;NA; 1;NA
+3; 3;NA;government; 0; 1;NA;NA; 2
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+4; 3; 5;private sector; 0; 1; 1;NA;NA
+5; 6; 7;government; 0; 1;NA;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+4; 2; 5;private sector; 0; 1; 1;NA;NA
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+4; 3;NA;private sector; 1; 1; 2;NA;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 2
+4; 3;NA;NGO; 0; 1; 1;NA;NA
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+4; 4; 5;private sector; 1; 1;NA;NA; 2
+4; 3;NA;private sector; 0; 1;NA;NA; 1
+4; 3; 5;private sector; 0; 1; 1;NA;NA
+4; 3; 5;private sector; 0; 1; 1;NA;NA
+3; 3;NA;government; 0; 1;NA; 2;NA
+3; 2; 5;government; 0; 1;NA; 2;NA
+3; 3; 6;private sector; 0; 1;NA;NA; 1
+4; 3; 4;private sector; 0; 1;NA;NA; 4
+3; 3;NA;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+3; 4; 5;government; 0; 1;NA;NA; 1
+4; 3; 5;private sector; 0; 1;NA; 2;NA
+4; 3; 5;government; 0; 1; 1;NA;NA
+3; 3;NA;private sector; 0; 1; 1;NA;NA
+3; 3; 5;government; 0; 1;NA; 2;NA
+4; 3; 5;NGO; 0; 1;NA;NA; 1
+3; 2; 5;government; 0; 1;NA; 1;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 1
+3; 3; 5;government; 0; 1; 2;NA;NA
+3; 3; 5;government; 0; 1;NA;NA; 2
+4; 3; 5;private sector; 0; 1;NA;NA; 3
+4; 3;NA;private sector; 0; 1;NA;NA; 4
+4; 3;NA;private sector; 0; 1;NA;NA; 3
+4; 3; 5;government; 0; 1;NA; 1;NA
+4; 3; 5;private sector; 0; 1; 4;NA;NA
+3; 3;NA;private sector; 0; 1; 2;NA;NA
+3; 3; 5;government; 0; 1; 1;NA;NA
+3; 3; 6;government; 0; 1;NA; 3;NA
+3; 3;NA;private sector; 0; 1; 2;NA;NA
+4; 3; 5;private sector; 1; 1; 2;NA;NA
+4; 3; 5;private sector; 1; 1;NA;NA; 2
+4; 3; 5;private sector; 0; 1;NA; 1;NA
+3; 2; 5;government; 0; 1; 1;NA;NA
+4; 4; 5;private sector; 1; 1;NA; 3;NA
+4; 3; 5;private sector; 1; 1;NA;NA; 2
+4; 3; 5;private sector; 0; 1; 4;NA;NA
+4; 2;NA;government; 0; 1;NA;NA; 3
+5; 3;NA;government; 0; 1; 3;NA;NA
+4; 3; 5;government; 1; 1; 2;NA;NA
+4; 3;NA;private sector; 0; 1;NA;NA; 2
+4; 3; 5;private sector; 0; 1; 2;NA;NA
+4; 2;NA;government; 1; 1;NA;NA; 2
+3; 3; 5;government; 0; 1;NA;NA; 1
+4; 3; 5;private sector; 0; 1;NA; 1;NA
+4; 3; 5;private sector; 1; 1;NA;NA; 2
+4; 3;NA;private sector; 1; 1;NA;NA; 2
+4; 4; 4;private sector; 1; 1; 2;NA;NA
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 3; 5;private sector; 1; 1; 2;NA;NA
+4; 4;NA;private sector; 1; 1;NA;NA; 2
+4; 3; 6;private sector; 0; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1; 2;NA;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 2
+4; 3; 5;government; 0; 1;NA; 2;NA
+4; 3;NA;private sector; 0; 1; 2;NA;NA
+3; 3; 5;government; 0; 1;NA;NA; 1
+4; 3;NA;private sector; 1; 1;NA;NA; 3
+4; 3; 5;private sector; 1; 1;NA; 3;NA
+4; 3; 5;government; 1; 1;NA;NA; 2
+4; 3; 5;government; 1; 1; 2;NA;NA
+4; 3;NA;government; 1; 1;NA;NA; 3
+4; 3;NA;private sector; 1; 1;NA;NA; 3
+3; 4; 5;government; 0; 1; 1;NA;NA
+3; 3; 5;private sector; 0; 1; 1;NA;NA
+4; 2; 5;government; 0; 1; 3;NA;NA
+4; 3; 6;government; 0; 1;NA;NA; 2
+3; 4; 5;government; 0; 1; 1;NA;NA
+5; 3;NA;Other; 1; 1; 2;NA;NA
+4; 3; 5;government; 0; 1; 1;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+3; 4; 5;government; 0; 1;NA; 1;NA
+2; 2; 4;Other; 1; 0;NA; 2;NA
+3; 4; 5;government; 0; 1; 1;NA;NA
+3; 4; 5;government; 0; 1;NA;NA; 1
+3; 4; 5;government; 0; 1;NA;NA; 1
+4; 1; 3;NGO; 1; 0;NA; 2;NA
+2; 4; 5;private sector; 1; 1;NA;NA; 2
+2; 3; 5;Other;NA; 1; 3;NA;NA
+3; 1; 6;Other; 0; 1;NA;NA; 1
+2; 3; 5;government;NA;NA;NA;NA; 4
+1; 1; 5;Other; 1; 1; 2;NA;NA
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+2; 2; 5;private sector; 1; 1;NA; 2;NA
+1; 2; 5;NGO; 0; 1;NA;NA; 1
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+2; 4; 5;NGO; 1; 1; 3;NA;NA
+2; 4; 5;private sector; 0; 1; 2;NA;NA
+3; 4; 4;government; 0; 1;NA;NA; 2
+3; 2;NA;private sector; 0; 1;NA;NA; 3
+1; 4; 5;private sector; 1; 1;NA; 2;NA
+1; 1; 4;Other; 1; 0;NA; 2;NA
+3; 2; 4;government; 1; 1;NA; 4;NA
+4; 2; 5;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA;NA; 1
+2; 4; 5;private sector; 1; 1;NA; 3;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 4; 6;private sector; 0; 1;NA; 1;NA
+4; 4; 5;private sector; 0; 1;NA;NA; 3
+3; 2;NA;private sector; 1; 1; 4;NA;NA
+2; 2; 5;government; 0; 1; 3;NA;NA
+3; 2; 5;government;NA;NA;NA; 1;NA
+3; 4; 6;private sector; 1; 1; 4;NA;NA
+3; 2; 5;government; 0; 1;NA;NA; 2
+1; 1; 4;private sector; 0; 0; 3;NA;NA
+2; 4; 5;private sector; 1; 1; 1;NA;NA
+2; 4; 6;private sector; 0; 1;NA;NA; 2
+3; 4; 6;private sector; 1; 1;NA;NA; 1
+3; 3; 6;private sector; 0; 1; 1;NA;NA
+1; 2; 6;DK; 0; 1;NA;NA; 2
+3; 2; 5;private sector; 0; 1; 4;NA;NA
+1; 2; 4;DK; 0; 1;NA;NA; 1
+3; 3; 5;government; 1; 1;NA; 2;NA
+2; 2; 5;private sector; 1; 0; 1;NA;NA
+4; 3; 5;private sector; 0; 1;NA; 2;NA
+4; 3; 5;government; 1; 1; 3;NA;NA
+2; 3; 5;government; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 4; 5;private sector; 0; 1;NA; 3;NA
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+3; 4; 5;private sector; 1; 0;NA;NA; 2
+2; 2; 6;private sector; 0; 1; 3;NA;NA
+2; 2; 3;DK; 1; 0;NA; 4;NA
+2; 2; 5;private sector; 0; 1;NA; 2;NA
+2; 4; 6;government; 0; 1;NA; 3;NA
+2; 2; 5;private sector; 1; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+1; 6; 4;DK; 0; 1; 1;NA;NA
+1; 1; 4;DK; 1; 1; 3;NA;NA
+3; 3; 5;government; 1; 1;NA;NA; 3
+1; 6; 4;Other; 1; 1;NA; 2;NA
+3; 3; 5;government; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+1; 1; 5;Other; 1; 1; 2;NA;NA
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+4; 2; 5;private sector; 1; 1; 4;NA;NA
+3; 4; 5;government; 1; 1; 1;NA;NA
+1; 4; 5;government; 0; 1;NA;NA; 1
+3; 3; 5;private sector; 1; 1;NA;NA; 3
+4; 1;NA;private sector; 0; 1;NA;NA; 3
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+1; 1; 5;private sector; 0; 1;NA; 2;NA
+4; 3;NA;private sector; 0; 1; 2;NA;NA
+3; 2; 5;private sector; 0; 0;NA;NA; 1
+4; 4; 6;private sector; 0; 1;NA; 1;NA
+3; 1; 3;Other; 0; 0;NA;NA; 4
+5; 2;NA;Other; 0; 1;NA;NA; 1
+2; 3; 5;government; 0; 1; 2;NA;NA
+2; 2; 5;private sector; 0; 1;NA;NA; 1
+3; 4; 5;private sector; 1; 1; 3;NA;NA
+2; 1; 5;government; 1; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+2; 3; 5;private sector; 0; 1;NA; 1;NA
+4; 3; 5;government; 1; 1;NA;NA; 3
+1; 4; 6;private sector; 0; 1; 2;NA;NA
+2; 2; 5;government; 0; 0;NA;NA; 3
+1; 6; 5;Other; 0; 1; 1;NA;NA
+3; 2;NA;government; 0; 1;NA; 3;NA
+4; 3; 4;Other; 0; 1;NA;NA; 3
+2; 4; 5;Other; 0; 1;NA; 2;NA
+3; 3; 4;NGO; 1; 1; 2;NA;NA
+1; 1; 4;Other; 0; 0;NA; 2;NA
+1; 1; 4;DK; 1; 0;NA;NA; 4
+3; 3; 5;private sector; 0; 1;NA;NA; 1
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+1; 4; 5;government; 1; 1;NA; 4;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 2
+5; 1; 4;government; 0; 1; 0;NA;NA
+2; 3; 5;government; 1; 1;NA;NA; 2
+3; 6; 4;Other; 1; 1; 1;NA;NA
+2; 3;NA;private sector; 1; 1;NA;NA; 2
+2; 4; 6;private sector; 1; 1;NA; 1;NA
+2; 4; 6;private sector; 0; 1; 4;NA;NA
+2; 4; 6;government; 1; 1;NA; 2;NA
+4; 2; 5;government; 1; 1;NA;NA; 2
+3; 3; 6;private sector; 0; 1;NA;NA; 0
+3; 2; 5;government; 0; 1; 1;NA;NA
+1; 1; 4;private sector; 1; 0;NA; 0;NA
+1; 2; 5;Other; 1; 1;NA; 1;NA
+1; 3; 6;private sector; 1; 1;NA;NA; 1
+3; 3; 5;private sector;NA; 1; 5;NA;NA
+2; 2; 5;government; 1; 1; 2;NA;NA
+3; 2; 4;private sector; 0; 0;NA;NA; 3
+3; 3; 5;private sector; 0; 1;NA;NA; 4
+2; 3; 5;private sector;NA;NA;NA;NA; 3
+1; 1; 4;Other; 0; 0;NA; 2;NA
+2; 4; 5;private sector; 0; 1; 4;NA;NA
+2; 2; 5;private sector; 0; 1;NA;NA; 4
+1; 1; 5;Other; 1; 0;NA; 2;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 2
+1; 1; 5;Other; 1; 1;NA;NA; 2
+3; 2; 5;private sector; 1; 1;NA; 2;NA
+1; 1;NA;Other; 1; 1;NA; 3;NA
+4; 2; 4;government; 0; 1;NA; 3;NA
+4; 3; 4;NGO; 1; 0;NA;NA; 5
+4; 3; 5;government; 1; 1;NA;NA; 3
+2; 3;NA;private sector; 0; 1;NA; 0;NA
+3; 4; 5;DK; 0; 1;NA;NA; 2
+2; 4; 6;private sector; 0; 1;NA;NA; 2
+3; 3; 4;private sector; 0; 1;NA; 2;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 4; 6;private sector; 1; 1;NA;NA; 3
+1; 6;NA;DK; 0; 1;NA; 1;NA
+2; 3; 5;private sector; 1; 1; 1;NA;NA
+3; 2;NA;private sector; 0; 1; 2;NA;NA
+1; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 4; 3;private sector; 0; 0; 4;NA;NA
+4; 4; 5;private sector; 0; 1; 3;NA;NA
+1; 2;NA;private sector; 0; 1;NA;NA; 4
+3; 2; 4;private sector; 0; 0;NA;NA; 2
+2; 3; 5;private sector; 1; 1;NA;NA; 0
+3; 4; 5;private sector; 1; 1;NA;NA; 2
+1; 1;NA;private sector; 0; 1;NA;NA; 3
+1; 2;NA;DK; 0; 0;NA;NA; 2
+2; 3; 5;private sector; 0; 1; 3;NA;NA
+1; 4; 5;Other; 1; 1;NA; 2;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+1; 6; 1;DK; 0; 0;NA;NA; 2
+2; 1; 4;Other; 0; 1; 2;NA;NA
+2; 3; 5;government; 1; 1; 2;NA;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 3
+3; 3;NA;private sector; 0; 1;NA; 1;NA
+2; 2;NA;private sector; 0; 1;NA;NA; 2
+1; 1; 4;private sector; 0; 0;NA;NA; 2
+2; 2; 5;private sector; 0; 1;NA;NA;NA
+2; 2; 5;private sector; 1; 1; 3;NA;NA
+3; 3;NA;government; 1; 1;NA; 2;NA
+1; 3; 4;private sector; 0; 1;NA;NA; 2
+1; 1; 5;private sector; 0; 0; 1;NA;NA
+2; 2;NA;NGO; 0; 0; 2;NA;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 3
+1; 1; 5;Other; 1; 0;NA; 2;NA
+1; 6;NA;Other; 0; 0;NA;NA; 3
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 2;NA;NGO; 0; 0;NA;NA; 3
+1; 1;NA;DK; 0; 1;NA;NA; 1
+3; 2; 5;government; 0; 1;NA;NA; 4
+1; 2;NA;private sector; 0; 1;NA; 2;NA
+2; 2;NA;private sector; 1; 1;NA;NA; 2
+1; 3;NA;private sector; 0; 1;NA; 3;NA
+2; 2; 4;private sector; 1; 1;NA;NA;NA
+3; 4; 4;NGO; 0; 1; 4;NA;NA
+2; 4; 5;private sector; 0; 1;NA;NA; 0
+2; 3; 4;private sector; 0; 0; 1;NA;NA
+3; 3; 5;government; 0; 1; 3;NA;NA
+3; 4; 5;private sector; 0; 1;NA; 1;NA
+1; 3;NA;private sector; 0; 1;NA; 2;NA
+3; 4;NA;private sector; 0; 1;NA; 2;NA
+3; 1; 4;NGO; 0; 1; 5;NA;NA
+3; 2; 4;Other; 0; 0; 3;NA;NA
+3; 4; 5;private sector; 0; 1; 2;NA;NA
+2; 2; 5;private sector; 0; 1; 3;NA;NA
+2; 2;NA;private sector; 0; 1;NA; 3;NA
+2; 3; 5;government; 1; 1; 3;NA;NA
+2; 3; 5;private sector; 1; 1;NA; 1;NA
+1; 1;NA;Other; 1; 0;NA;NA; 2
+3; 3;NA;private sector; 0; 1;NA;NA; 3
+3; 3; 5;government; 1; 1; 2;NA;NA
+2; 1; 4;government; 1; 0;NA;NA; 1
+3; 2; 4;Other; 1; 0;NA; 2;NA
+3; 4; 6;NGO; 1; 1;NA; 1;NA
+1; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 3; 5;government; 0; 1; 2;NA;NA
+3; 3; 6;private sector; 1; 1; 3;NA;NA
+1; 1; 4;Other; 0; 0;NA; 2;NA
+3; 3;NA;government; 0; 1; 2;NA;NA
+1; 6; 4;Other; 0; 1;NA;NA; 3
+3; 2; 5;private sector; 0; 1;NA;NA; 2
+3; 4; 6;government; 1; 1; 3;NA;NA
+1; 6; 5;Other; 0; 0;NA; 2;NA
+3; 4; 6;Other; 1; 1; 2;NA;NA
+3; 1;NA;private sector; 1; 0;NA; 2;NA
+3; 3; 4;government; 0; 1;NA;NA; 3
+3; 3; 5;NGO; 1; 1; 3;NA;NA
+1; 6;NA;Other; 0; 0; 4;NA;NA
+2; 2; 4;private sector; 0; 0; 2;NA;NA
+2; 1; 4;Other; 1; 0; 2;NA;NA
+2; 1; 3;Other; 0; 1;NA; 0;NA
+4; 4; 5;government; 0; 1; 2;NA;NA
+1; 1; 4;private sector; 1; 0; 2;NA;NA
+2; 4; 5;private sector; 1; 1;NA;NA; 3
+1; 6; 7;DK; 0; 1;NA; 0;NA
+2; 3;NA;private sector; 1; 1; 2;NA;NA
+2; 6;NA;DK; 0; 0;NA;NA; 2
+2; 3;NA;private sector; 0; 1;NA; 2;NA
+2; 3; 5;NGO; 0; 1;NA; 2;NA
+3; 2;NA;private sector; 1; 0;NA;NA; 2
+2; 2; 4;Other; 0; 0;NA; 2;NA
+2; 3;NA;DK; 1; 1; 1;NA;NA
+2; 3; 5;private sector; 1; 1; 2;NA;NA
+2; 2; 5;private sector; 1; 1; 2;NA;NA
+4; 3; 5;private sector; 0; 0;NA;NA; 3
+2; 4; 5;private sector; 0; 1; 2;NA;NA
+3; 4; 5;private sector; 1; 1;NA; 3;NA
+2; 4; 6;private sector; 1; 1;NA; 1;NA
+1; 6; 4;Other; 0; 1;NA; 2;NA
+2; 2;NA;private sector; 0; 1; 2;NA;NA
+3; 3; 4;private sector; 0; 1;NA; 3;NA
+2; 2;NA;private sector; 0; 1;NA; 3;NA
+2; 2;NA;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 2;NA;Other; 1; 1; 0;NA;NA
+3; 4; 6;private sector;NA;NA;NA;NA; 1
+2; 2; 5;private sector; 0; 1;NA;NA; 3
+3; 1;NA;private sector; 1; 0;NA;NA; 3
+4; 3;NA;private sector; 0; 1; 0;NA;NA
+1; 6; 4;DK; 0; 1; 1;NA;NA
+2; 1; 4;Other; 1; 0;NA;NA; 2
+3; 3; 5;government; 0; 1; 3;NA;NA
+2; 3; 4;NGO; 0; 1;NA; 2;NA
+3; 1; 4;private sector; 1; 1;NA;NA; 3
+4; 3;NA;Other; 1; 1;NA; 0;NA
+3; 3; 5;government; 0; 1; 3;NA;NA
+4; 2;NA;private sector; 0; 0;NA;NA; 2
+2; 1;NA;private sector; 1; 1; 3;NA;NA
+2; 1;NA;private sector; 0; 1;NA; 3;NA
+4; 3;NA;private sector; 1; 1; 0;NA;NA
+4; 1;NA;private sector; 1; 0;NA;NA; 2
+1; 6; 7;Other; 0; 1;NA;NA; 2
+3; 2; 5;private sector; 1; 1;NA;NA; 2
+2; 2;NA;private sector; 0; 0; 3;NA;NA
+3; 4; 5;private sector; 1; 1; 4;NA;NA
+3; 1; 2;Other; 0; 1; 5;NA;NA
+2; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 3; 5;government; 1; 1; 4;NA;NA
+2; 2;NA;NGO; 0; 1;NA;NA; 2
+1; 3; 4;private sector; 1; 0;NA;NA; 2
+2; 2; 6;government; 0; 1;NA;NA; 2
+1; 2; 4;private sector; 0; 1; 2;NA;NA
+5; 1; 3;Other; 0; 1;NA;NA; 2
+4; 3;NA;private sector; 1; 0;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+3; 3; 5;private sector; 1; 1;NA;NA; 3
+3; 3; 5;private sector; 1; 1;NA;NA; 3
+2; 2;NA;private sector; 1; 1;NA; 3;NA
+2; 3; 5;government; 1; 1;NA; 2;NA
+2; 2;NA;private sector; 0; 1; 4;NA;NA
+2; 2;NA;private sector; 0; 1;NA;NA; 2
+3; 4;NA;government; 0; 1; 3;NA;NA
+2; 3; 5;private sector; 1; 1; 4;NA;NA
+1; 1; 4;private sector; 0; 0;NA;NA; 4
+2; 2; 5;private sector; 0; 0;NA;NA; 2
+4; 4; 5;private sector; 0; 1; 1;NA;NA
+3; 1; 4;Other; 0; 0;NA;NA; 2
+2; 4; 6;private sector; 1; 1;NA;NA; 1
+2; 2; 5;private sector; 1; 1;NA;NA; 2
+3; 3; 5;government; 0; 1;NA; 3;NA
+2; 2; 5;private sector; 1; 1;NA;NA; 4
+3; 2;NA;private sector; 0; 1; 2;NA;NA
+1; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 2;NA;private sector; 0; 1;NA;NA; 3
+2; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 4;NA;private sector; 0; 1;NA;NA; 3
+2; 2; 5;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+1; 6;NA;DK; 1; 1; 0;NA;NA
+4; 3; 5;private sector; 0; 1;NA; 3;NA
+2; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA; 3;NA
+3; 3; 5;government; 0; 1;NA;NA; 2
+4; 4; 6;government; 0; 1;NA; 3;NA
+2; 3; 5;private sector; 1; 1;NA; 3;NA
+3; 3;NA;government; 0; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA; 1;NA
+3; 4; 4;private sector; 0; 1;NA;NA; 2
+3; 3; 4;private sector; 0; 0;NA; 1;NA
+3; 4;NA;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 1; 2;NA;NA
+2; 3; 5;government; 1; 1;NA;NA; 3
+4; 3;NA;private sector; 1; 0;NA;NA; 2
+2; 3;NA;private sector; 0; 1;NA; 2;NA
+2; 3; 5;NGO; 0; 1; 3;NA;NA
+2; 2;NA;private sector; 0; 1;NA;NA; 2
+2; 2;NA;private sector; 1; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+2; 2; 5;private sector; 1; 1; 2;NA;NA
+3; 2;NA;private sector; 0; 1;NA; 3;NA
+3; 3; 5;government; 0; 1; 3;NA;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 2
+2; 1; 4;private sector;NA; 1;NA;NA; 0
+3; 3; 5;government; 1; 1; 2;NA;NA
+3; 1; 4;Other; 1; 0; 3;NA;NA
+2; 2; 4;private sector; 0; 1;NA; 4;NA
+3; 3; 4;private sector; 0; 1;NA; 1;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 3
+3; 3;NA;NGO; 0; 1; 1;NA;NA
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 3; 4;NGO; 0; 0;NA; 2;NA
+3; 3; 4;private sector; 0; 0; 1;NA;NA
+3; 3;NA;NGO; 0; 0;NA;NA; 1
+3; 3; 5;private sector; 0; 0;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA;NA; 0
+2; 3; 5;private sector; 1; 1;NA;NA; 4
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 6;government; 0; 1;NA;NA; 2
+1; 2; 7;private sector; 0; 1;NA; 2;NA
+3; 4; 6;private sector; 0; 1; 3;NA;NA
+2; 2;NA;private sector; 0; 1;NA; 2;NA
+2; 3; 4;Other; 0; 1;NA;NA; 3
+3; 3;NA;private sector; 0; 1;NA;NA; 3
+1; 6; 4;DK; 0; 1;NA; 0;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 0; 2;NA;NA
+3; 3; 5;government; 0; 0;NA; 2;NA
+2; 3;NA;private sector; 0; 0;NA;NA; 2
+2; 2; 5;government; 1; 1;NA;NA; 4
+2; 2;NA;private sector; 0; 1;NA;NA; 2
+3; 2; 5;government; 0; 1; 2;NA;NA
+3; 2;NA;private sector; 1; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1; 5;NA;NA
+2; 3; 6;private sector; 0; 1; 3;NA;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 3
+1; 2;NA;private sector; 0; 0; 2;NA;NA
+1; 2; 4;private sector; 0; 1;NA; 1;NA
+2; 2; 4;government; 0; 1;NA;NA; 2
+2; 3;NA;private sector; 0; 1; 2;NA;NA
+2; 3;NA;private sector; 0; 1;NA; 3;NA
+2; 3;NA;private sector; 0; 1;NA;NA; 3
+3; 4; 5;government; 1; 1; 2;NA;NA
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 3; 5;government; 0; 0;NA; 3;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 3
+3; 3;NA;private sector; 0; 1;NA; 1;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 2
+2; 2; 4;private sector; 1; 1; 2;NA;NA
+3; 2;NA;Other; 1; 1;NA;NA; 2
+3; 3; 4;private sector; 1; 1; 1;NA;NA
+2; 2;NA;Other; 0; 1;NA; 2;NA
+3; 3; 5;NGO; 1; 1;NA;NA; 3
+3; 3; 4;private sector; 0; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 0;NA;NA; 2
+3; 3;NA;NGO; 0; 1;NA; 3;NA
+3; 3; 5;private sector; 0; 1; 1;NA;NA
+3; 4; 4;private sector; 0; 1;NA;NA; 3
+3; 3;NA;private sector; 0; 1; 3;NA;NA
+3; 3;NA;government; 0; 0; 1;NA;NA
+3; 4;NA;private sector; 0; 1; 1;NA;NA
+3; 3;NA;government; 0; 1;NA; 3;NA
+3; 4;NA;government; 0; 1;NA; 1;NA
+3; 2;NA;Other; 1; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1;NA; 4;NA
+3; 3; 6;government; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1;NA; 4;NA
+3; 2;NA;private sector; 1; 1; 3;NA;NA
+3; 2;NA;Other; 1; 1;NA;NA; 2
+2; 2; 5;government; 1; 1;NA;NA; 3
+2; 3; 5;government; 0; 1; 2;NA;NA
+3; 3; 5;NGO; 0; 0;NA; 2;NA
+1; 1;NA;Other; 0; 1;NA;NA; 4
+3; 2; 5;Other; 1; 0;NA;NA; 2
+2; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+2; 2;NA;Other; 1; 1;NA; 1;NA
+3; 3; 5;private sector; 0; 0;NA;NA; 2
+2; 3; 5;private sector; 0; 0;NA;NA; 4
+3; 2;NA;private sector; 0; 1; 3;NA;NA
+3; 2; 5;Other; 1; 0;NA;NA; 3
+2; 2; 5;Other; 0; 0;NA;NA; 2
+3; 2;NA;Other; 1; 1; 2;NA;NA
+2; 3; 5;government; 0; 0; 3;NA;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 3
+3; 3;NA;NGO; 0; 1;NA; 2;NA
+1; 1;NA;Other; 0; 1; 3;NA;NA
+2; 3;NA;private sector; 0; 1; 1;NA;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 1
+1; 2; 5;private sector; 0; 1;NA; 1;NA
+2; 3; 6;NGO; 0; 1; 0;NA;NA
+2; 1;NA;private sector; 0; 1;NA;NA; 1
+2; 2; 5;government; 0; 1;NA; 1;NA
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+3; 4; 5;NGO; 0; 1;NA;NA; 0
+3; 2;NA;private sector; 0; 1;NA;NA; 2
+3; 3; 4;private sector; 0; 1;NA; 1;NA
+3; 3;NA;private sector; 0; 0;NA; 1;NA
+3; 3;NA;NGO; 0; 0;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 1
+3; 3;NA;private sector; 0; 1; 2;NA;NA
+3; 3; 4;NGO; 0; 0;NA;NA; 1
+3; 3;NA;private sector; 0; 0;NA; 1;NA
+3; 3;NA;private sector; 0; 0; 2;NA;NA
+3; 3; 5;private sector; 0; 1; 1;NA;NA
+3; 3;NA;private sector; 0; 0;NA;NA; 1
+3; 4; 5;private sector; 0; 1;NA; 4;NA
+3; 4; 6;government; 1; 1; 3;NA;NA
+2; 2; 5;Other; 1; 1; 2;NA;NA
+3; 2;NA;private sector; 1; 1;NA;NA; 3
+2; 3; 5;private sector; 0; 0; 4;NA;NA
+5; 1; 1;Other; 0; 1;NA; 0;NA
+3; 3;NA;Other;NA; 1; 2;NA;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 4; 5;private sector; 0; 0;NA;NA; 4
+1; 1;NA;Other; 0; 1;NA; 3;NA
+2; 3; 5;NGO; 0; 1; 3;NA;NA
+3; 2; 5;Other; 1; 1;NA;NA; 3
+3; 2;NA;private sector; 0; 1;NA; 3;NA
+1; 1;NA;Other; 0; 1;NA;NA; 3
+2; 4; 5;private sector; 1; 1; 3;NA;NA
+3; 2;NA;Other; 0; 0; 2;NA;NA
+3; 2;NA;Other; 1; 1;NA;NA; 2
+3; 4; 6;private sector; 1; 1;NA;NA; 1
+3; 2; 4;private sector; 1; 1;NA; 3;NA
+3; 3; 5;private sector; 0; 0;NA; 3;NA
+2; 3; 5;NGO; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1;NA; 3;NA
+3; 2;NA;private sector; 1; 1;NA;NA; 2
+2; 4; 5;private sector; 0; 1;NA; 1;NA
+1; 1;NA;Other; 0; 1;NA;NA; 3
+2; 3; 6;government; 1; 1; 3;NA;NA
+3; 2;NA;private sector; 0; 1;NA; 3;NA
+2; 2;NA;private sector; 0; 0;NA; 3;NA
+4; 4;NA;private sector; 0; 0; 2;NA;NA
+1; 1;NA;Other; 0; 1;NA; 2;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 2; 5;private sector; 1; 1;NA;NA; 1
+3; 3;NA;private sector; 0; 1; 2;NA;NA
+3; 2;NA;private sector; 1; 1;NA; 3;NA
+4; 2; 5;private sector; 1; 1;NA;NA; 2
+3; 3; 5;government; 0; 1;NA; 3;NA
+5; 2; 5;government; 0; 1; 2;NA;NA
+3; 2;NA;private sector;NA; 1; 1;NA;NA
+2; 2;NA;private sector; 0; 1;NA;NA; 1
+3; 3;NA;private sector; 0; 1; 1;NA;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 1
+2; 3;NA;private sector; 0; 1;NA; 1;NA
+3; 4;NA;private sector;NA;NA;NA; 1;NA
+3; 3; 4;private sector; 0; 1;NA;NA; 1
+3; 3;NA;private sector; 0; 1; 2;NA;NA
+2; 3; 5;private sector; 1; 1; 2;NA;NA
+1; 1;NA;private sector; 0; 1;NA;NA; 4
+4; 3; 5;government; 0; 1; 3;NA;NA
+3; 2; 5;private sector; 0; 1; 3;NA;NA
+2; 1;NA;private sector; 1; 1; 3;NA;NA
+3; 4; 4;private sector; 0; 0; 2;NA;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 1
+3; 4;NA;private sector; 0; 1;NA;NA; 2
+3; 4;NA;private sector; 0; 0;NA;NA; 2
+3; 4;NA;NGO; 0; 0;NA;NA; 1
+3; 3; 5;government; 0; 0;NA;NA; 1
+3; 3; 4;NGO; 0; 1; 2;NA;NA
+3; 3; 5;government; 0; 1;NA;NA; 1
+3; 3;NA;NGO; 0; 1;NA;NA;NA
+3; 4;NA;private sector; 0; 1;NA; 2;NA
+3; 4;NA;private sector; 0; 1; 2;NA;NA
+2; 2;NA;private sector; 0; 1;NA;NA; 2
+3; 4; 5;private sector; 0; 1;NA;NA; 1
+4; 4; 6;government; 0; 1;NA; 3;NA
+3; 2;NA;government; 0; 1;NA; 3;NA
+2; 3; 5;private sector; 0; 1; 3;NA;NA
+2; 3;NA;private sector; 1; 1;NA;NA; 2
+3; 3; 5;private sector;NA;NA;NA; 2;NA
+2; 3; 5;government; 0; 1;NA; 1;NA
+2; 3; 5;government; 0; 1;NA; 2;NA
+2; 2;NA;private sector; 0; 1;NA;NA; 2
+3; 3; 5;government; 1; 1;NA; 3;NA
+3; 2; 5;government; 1; 1;NA; 3;NA
+2; 3; 5;private sector; 1; 1;NA; 3;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 1
+2; 2; 5;private sector; 0; 1; 2;NA;NA
+4; 4; 5;private sector; 0; 0;NA;NA; 1
+3; 3; 5;government; 1; 1;NA;NA; 4
+3; 2; 5;government; 1; 1;NA; 3;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 1
+3; 2; 5;government; 0; 1; 2;NA;NA
+2; 3; 5;government; 0; 1; 0;NA;NA
+2; 2;NA;private sector; 0; 1;NA; 2;NA
+2; 3; 5;NGO; 0; 1;NA;NA; 2
+3; 3;NA;private sector; 1; 1;NA;NA; 3
+2; 2; 5;private sector; 0; 1;NA;NA; 3
+3; 3;NA;NGO; 1; 1; 3;NA;NA
+1; 2; 3;private sector; 0; 0;NA; 0;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 2; 5;private sector; 1; 0;NA; 1;NA
+2; 2;NA;private sector; 0; 1; 2;NA;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 1
+2; 2;NA;private sector; 0; 1; 2;NA;NA
+2; 2; 5;private sector; 0; 1;NA; 3;NA
+2; 2; 5;government; 0; 1;NA;NA; 3
+3; 2;NA;private sector; 1; 1;NA; 3;NA
+3; 2;NA;private sector; 1; 1;NA;NA; 3
+3; 4; 5;government; 0; 0; 1;NA;NA
+3; 4; 4;private sector; 0; 1;NA;NA; 1
+3; 4; 4;NGO; 0; 1; 2;NA;NA
+3; 4; 4;private sector; 0; 1;NA; 1;NA
+3; 4;NA;private sector; 0; 1; 3;NA;NA
+3; 3; 5;government; 0; 1;NA; 1;NA
+3; 4; 4;government; 0; 1;NA; 3;NA
+3; 3; 3;private sector; 0; 1;NA; 2;NA
+3; 4; 4;private sector; 0; 1; 2;NA;NA
+3; 4;NA;NGO; 0; 1;NA; 3;NA
+1; 1;NA;private sector; 1; 0; 1;NA;NA
+2; 3; 5;private sector; 1; 1; 1;NA;NA
+2; 2;NA;private sector; 1; 1;NA; 0;NA
+2; 2;NA;private sector; 0; 1;NA;NA; 2
+3; 3; 4;private sector; 0; 0; 4;NA;NA
+3; 2; 5;private sector; 0; 1;NA;NA; 3
+2; 3; 5;private sector; 1; 1;NA; 1;NA
+2; 2; 5;private sector; 0; 1;NA; 2;NA
+1; 1;NA;private sector; 0; 1;NA; 2;NA
+4; 4; 5;government; 0; 1; 2;NA;NA
+2; 3; 5;government; 1; 1; 3;NA;NA
+3; 2; 5;private sector; 0; 1;NA;NA; 2
+3; 3; 5;NGO; 0; 1;NA;NA; 3
+3; 3;NA;private sector; 1; 1;NA;NA; 3
+4; 3; 5;government; 0; 1;NA; 2;NA
+3; 2;NA;private sector; 0; 1;NA;NA; 2
+2; 2;NA;private sector; 0; 1; 1;NA;NA
+2; 3; 5;Other; 1; 1; 2;NA;NA
+3; 2; 5;private sector; 0; 1; 3;NA;NA
+2; 3; 5;private sector; 1; 1; 4;NA;NA
+2; 2;NA;private sector; 0; 1;NA;NA; 1
+2; 3; 5;NGO; 1; 1; 2;NA;NA
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 2
+3; 3;NA;private sector; 0; 1;NA; 3;NA
+2; 2; 5;private sector; 0; 1;NA;NA; 0
+2; 2; 5;private sector; 1; 0; 2;NA;NA
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 3; 5;government; 0; 1;NA;NA; 3
+3; 2; 5;government; 1; 1; 4;NA;NA
+3; 2;NA;private sector; 0; 1;NA; 2;NA
+4; 2;NA;government; 0; 1;NA; 1;NA
+2; 2;NA;private sector; 0; 1; 2;NA;NA
+2; 3; 5;private sector; 0; 0; 3;NA;NA
+3; 3; 6;private sector;NA;NA;NA;NA; 3
+4; 2;NA;government; 0; 1;NA;NA; 3
+3; 4;NA;private sector; 0; 1; 2;NA;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 1
+4; 4; 5;NGO; 0; 1;NA; 2;NA
+4; 4; 5;NGO; 0; 1;NA;NA; 1
+4; 3; 5;government; 0; 1;NA;NA; 2
+4; 4; 5;government; 0; 1;NA; 1;NA
+3; 2; 5;private sector; 1; 1;NA;NA; 3
+4; 4;NA;private sector; 0; 1;NA;NA; 2
+4; 4; 4;government; 0; 1; 2;NA;NA
+4; 4;NA;government; 0; 1;NA; 2;NA
+4; 4; 5;private sector; 0; 1;NA; 1;NA
+2; 3; 5;private sector; 1; 1;NA; 1;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 0
+4; 3; 5;government; 0; 1;NA;NA; 3
+1; 2;NA;private sector; 0; 1;NA;NA; 3
+3; 2;NA;private sector; 1; 1;NA; 1;NA
+3; 3; 5;government; 0; 1;NA; 2;NA
+2; 2;NA;private sector; 0; 1;NA; 2;NA
+2; 3;NA;NGO; 0; 1; 1;NA;NA
+5; 3; 5;private sector; 0; 1;NA; 1;NA
+3; 2;NA;government; 0; 1; 4;NA;NA
+2; 2; 5;private sector; 0; 1;NA; 2;NA
+2; 4; 6;private sector; 1; 1;NA;NA; 3
+3; 3; 5;government; 1; 0; 2;NA;NA
+1; 3; 5;Other; 0; 0;NA; 0;NA
+2; 3;NA;private sector; 1; 1;NA;NA; 2
+3; 2; 5;government; 1; 1; 3;NA;NA
+2; 1;NA;private sector; 0; 0;NA; 2;NA
+2; 3; 5;government; 0; 0; 3;NA;NA
+2; 2; 5;private sector; 1; 1;NA;NA; 2
+3; 1; 4;Other; 0; 0;NA; 2;NA
+2; 2;NA;private sector; 0; 1;NA;NA; 2
+3; 2; 5;private sector; 1; 1; 3;NA;NA
+3; 3; 5;government; 0; 1;NA;NA; 0
+2; 2; 5;NGO; 0; 1; 1;NA;NA
+2; 3; 5;private sector; 1; 1;NA; 1;NA
+2; 2;NA;private sector; 0; 1; 0;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 3;NA
+4; 4; 5;government; 0; 1;NA;NA; 2
+2; 2;NA;private sector; 0; 1;NA; 2;NA
+2; 2; 5;private sector; 1; 1;NA; 2;NA
+3; 2; 5;private sector; 0; 1;NA; 3;NA
+2; 4; 6;government; 0; 1;NA;NA; 1
+3; 4; 5;private sector; 0; 1;NA; 3;NA
+1; 2;NA;private sector; 0; 1; 2;NA;NA
+2; 2;NA;private sector; 0; 1;NA; 2;NA
+3; 2; 5;government; 0; 1;NA; 3;NA
+4; 4; 5;NGO; 0; 1;NA; 3;NA
+3; 4; 4;private sector; 0; 1;NA;NA; 2
+4; 4;NA;government; 0; 1;NA;NA; 2
+4; 4; 5;private sector; 0; 1;NA;NA; 1
+4; 4;NA;private sector; 0; 1;NA;NA; 1
+4; 3; 4;private sector; 0; 1;NA;NA; 1
+4; 4;NA;NGO; 0; 1;NA; 2;NA
+4; 4;NA;private sector; 0; 1; 2;NA;NA
+3; 4;NA;NGO; 0; 1; 2;NA;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 3
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 3
+3; 3; 5;private sector; 0; 1;NA; 3;NA
+1; 1; 3;private sector; 0; 0; 1;NA;NA
+2; 2; 5;private sector; 0; 1; 1;NA;NA
+2; 2;NA;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+4; 2; 5;government; 0; 0;NA;NA; 2
+3; 3; 5;private sector; 1; 1;NA;NA; 2
+3; 3; 4;private sector; 0; 1;NA;NA; 1
+3; 4; 5;private sector; 0; 1; 2;NA;NA
+3; 3; 5;private sector;NA;NA;NA;NA; 1
+2; 3; 4;private sector;NA;NA;NA;NA; 1
+3; 4; 5;private sector;NA;NA; 1;NA;NA
+3; 3;NA;private sector;NA;NA;NA;NA; 1
+3; 3;NA;private sector;NA;NA; 1;NA;NA
+3; 3; 5;private sector;NA;NA; 1;NA;NA
+3; 2; 5;government; 0; 1;NA;NA; 2
+3; 2;NA;private sector; 1; 1; 1;NA;NA
+3; 3; 5;government; 1; 1;NA;NA; 2
+4; 3; 5;government; 0; 1;NA;NA; 3
+4; 3; 5;government; 1; 1;NA;NA; 1
+4; 3; 5;private sector; 0; 1;NA;NA; 3
+2; 2; 5;government; 1; 1; 1;NA;NA
+3; 1; 5;government; 0; 0;NA; 1;NA
+4; 3;NA;private sector; 1; 1;NA; 1;NA
+2; 3; 5;private sector; 1; 1; 2;NA;NA
+3; 3; 4;private sector; 1; 1;NA;NA; 1
+1; 1; 4;private sector; 1; 0;NA;NA; 1
+3; 4; 5;government; 0; 1;NA; 2;NA
+2; 3;NA;private sector; 0; 1;NA; 1;NA
+2; 3; 5;private sector; 1; 1; 3;NA;NA
+1; 1; 4;Other; 0; 1;NA;NA; 1
+3; 4; 5;private sector; 0; 1;NA; 1;NA
+4; 1; 4;Other;NA; 1;NA;NA; 1
+2; 4; 5;private sector; 0; 1; 2;NA;NA
+3; 3; 4;private sector; 0; 1;NA;NA; 2
+4; 3;NA;government; 1; 1;NA;NA; 3
+2; 3; 5;private sector; 0; 0; 1;NA;NA
+3; 3;NA;private sector; 0; 1;NA; 1;NA
+5; 2; 4;Other; 0; 1; 3;NA;NA
+3; 3; 5;government; 0; 1;NA; 3;NA
+2; 3; 5;private sector; 1; 1; 1;NA;NA
+2; 2; 3;NGO; 1; 0;NA;NA; 3
+1; 1; 4;Other; 0; 0;NA; 1;NA
+5; 3; 5;Other; 1; 1;NA;NA; 2
+3; 4; 5;government; 0; 1; 1;NA;NA
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+5; 2; 5;government; 0; 1;NA; 4;NA
+2; 4;NA;government; 1; 1;NA;NA; 4
+4; 3; 5;government; 0; 1;NA; 1;NA
+2; 4; 5;government; 1; 1; 2;NA;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 1
+3; 3; 5;private sector; 1; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+2; 3; 5;private sector;NA; 1; 3;NA;NA
+1; 6;NA;Other; 0; 0;NA;NA; 0
+4; 3; 5;private sector; 0; 1;NA; 2;NA
+4; 3; 5;government; 1; 1; 4;NA;NA
+3; 3;NA;private sector; 1; 1; 1;NA;NA
+2; 4; 5;government; 1; 1;NA;NA; 1
+1; 2; 4;private sector; 0; 1;NA; 3;NA
+4; 4; 5;government; 1; 1;NA; 2;NA
+3; 4; 5;private sector; 0; 1; 2;NA;NA
+2; 3; 5;private sector; 1; 1; 2;NA;NA
+3; 4; 5;private sector; 1; 1;NA; 1;NA
+1; 2;NA;Other; 0; 1;NA;NA; 5
+2; 4; 6;private sector; 1; 1;NA; 2;NA
+3; 2; 5;private sector; 0; 1; 3;NA;NA
+3; 4;NA;private sector; 0; 1;NA; 2;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 2
+2; 2; 7;DK;NA;NA; 0;NA;NA
+3; 2; 3;private sector; 0; 0; 2;NA;NA
+3; 4; 5;government; 0; 1;NA; 1;NA
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+5; 2; 5;government; 0; 1;NA;NA; 4
+1; 2; 5;private sector; 1; 1; 3;NA;NA
+3; 3; 4;private sector; 0; 1; 2;NA;NA
+4; 3; 4;private sector; 1; 1;NA;NA; 2
+4; 2;NA;private sector; 0; 1;NA;NA; 2
+3; 2; 4;private sector; 0; 0; 3;NA;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+5; 2; 5;government; 0; 1; 2;NA;NA
+3; 4;NA;private sector; 1; 1;NA; 1;NA
+5; 3; 4;private sector; 1; 0;NA; 2;NA
+4; 4; 5;private sector; 0; 1; 1;NA;NA
+5; 6; 7;DK; 0; 1;NA; 2;NA
+3; 4; 5;private sector; 0; 1; 3;NA;NA
+4; 2; 4;private sector; 1; 0;NA;NA; 2
+4; 2;NA;private sector; 1; 0;NA;NA; 1
+2; 4; 5;private sector; 1; 1; 4;NA;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 3
+3; 3; 5;government; 1; 1;NA; 4;NA
+2; 3; 5;government; 0; 1;NA;NA; 4
+4; 4;NA;government; 0; 1;NA; 2;NA
+2; 4; 5;private sector;NA; 0;NA; 2;NA
+2; 4; 5;private sector; 0; 1;NA;NA; 3
+3; 6; 5;Other; 1; 1;NA; 0;NA
+4; 4; 5;government; 1; 0;NA; 2;NA
+4; 2; 4;private sector; 1; 0;NA;NA; 2
+2; 3; 5;government; 0; 1; 2;NA;NA
+4; 3;NA;private sector; 0; 0;NA;NA; 1
+2; 2;NA;Other; 0; 0;NA; 2;NA
+2; 3; 5;private sector; 1; 1; 1;NA;NA
+1; 2;NA;private sector; 0; 1;NA;NA; 3
+2; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 1; 1;NA;NA
+1; 6; 7;NA; 0; 0;NA; 0;NA
+4; 3; 4;private sector; 0; 0;NA; 1;NA
+2; 4; 5;government; 1; 1;NA; 3;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+4; 2;NA;private sector; 1; 0;NA; 1;NA
+2; 2; 3;private sector; 1; 1;NA; 2;NA
+3; 3; 4;private sector; 0; 1;NA; 2;NA
+5; 2;NA;government; 0; 1;NA;NA; 5
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 2
+2; 2;NA;private sector;NA;NA; 0;NA;NA
+4; 2; 5;DK; 0; 1; 2;NA;NA
+2; 2;NA;Other; 0; 1;NA;NA; 5
+2; 2; 5;private sector; 1; 1; 2;NA;NA
+2; 4; 5;private sector; 1; 1; 2;NA;NA
+2; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 2; 5;private sector; 1; 1;NA;NA; 3
+3; 4; 5;private sector; 0; 1; 2;NA;NA
+5; 3;NA;private sector; 0; 1; 2;NA;NA
+4; 4;NA;private sector; 0; 1;NA;NA; 2
+4; 3; 5;government; 0; 1;NA;NA; 1
+5; 1; 1;Other; 0; 0; 0;NA;NA
+3; 2; 5;government; 1; 1;NA; 2;NA
+4; 2;NA;government; 1; 1;NA;NA; 1
+3; 2; 4;private sector; 1; 1; 2;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 1
+2; 4; 7;private sector; 0; 1;NA; 1;NA
+2; 2;NA;private sector; 1; 1;NA;NA; 2
+3; 3; 4;private sector; 1; 0; 2;NA;NA
+4; 2; 4;private sector; 1; 0;NA;NA; 2
+3; 3; 6;private sector; 0; 1;NA;NA; 0
+4; 3; 5;government; 1; 1;NA; 1;NA
+2; 4; 5;private sector; 0; 0;NA; 3;NA
+1; 2; 3;private sector; 0; 1;NA;NA; 2
+2; 3;NA;private sector; 0; 1;NA;NA; 1
+1; 1; 3;Other; 1; 0;NA; 2;NA
+3; 3; 4;private sector; 0; 1;NA; 2;NA
+2; 1; 4;Other; 0; 0;NA;NA; 1
+2; 3; 4;private sector; 1; 0;NA; 3;NA
+4; 2; 5;government; 1; 1; 2;NA;NA
+3; 2; 5;private sector; 0; 0;NA; 2;NA
+3; 3; 6;government; 1; 1; 3;NA;NA
+4; 2; 4;private sector; 1; 0;NA; 1;NA
+5; 2;NA;government; 0; 1; 3;NA;NA
+3; 3;NA;private sector; 0; 1; 2;NA;NA
+2; 4; 6;private sector; 0; 1;NA; 1;NA
+4; 3;NA;private sector; 1; 1;NA;NA; 3
+4; 2; 5;government; 0; 1; 3;NA;NA
+3; 2;NA;private sector; 0; 1; 3;NA;NA
+1; 6;NA;Other; 1; 0;NA; 0;NA
+3; 2;NA;private sector; 1; 0; 2;NA;NA
+2; 2; 3;private sector; 1; 1; 2;NA;NA
+3; 2; 4;private sector; 0; 0; 2;NA;NA
+2; 4; 5;private sector; 1; 1; 3;NA;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 2
+4; 2;NA;government; 0; 1;NA;NA; 1
+3; 3;NA;private sector; 1; 0;NA;NA; 1
+3; 3;NA;private sector; 0; 1;NA;NA; 2
+4; 4; 5;private sector;NA;NA; 3;NA;NA
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 3; 5;government; 1; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 2
+2; 3;NA;private sector; 0; 1; 3;NA;NA
+3; 1; 4;private sector; 0; 0;NA; 1;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 1
+3; 3; 4;private sector; 0; 0; 2;NA;NA
+2; 2; 5;government; 0; 1;NA;NA; 4
+4; 3; 4;private sector; 1; 0;NA;NA; 3
+2; 3; 5;government; 1; 1;NA;NA; 5
+5; 2; 4;government; 0; 0;NA;NA; 3
+4; 3; 5;private sector; 1; 1; 2;NA;NA
+3; 2; 4;private sector; 0; 1;NA;NA; 3
+2; 2; 5;private sector; 1; 1; 3;NA;NA
+3; 2; 4;private sector; 0; 0; 2;NA;NA
+3; 4; 5;government;NA; 1; 3;NA;NA
+2; 2; 5;Other; 1; 1; 1;NA;NA
+4; 4; 5;government; 0; 1;NA; 2;NA
+2; 4; 5;private sector; 0; 1; 5;NA;NA
+3; 2; 5;government; 0; 1;NA; 1;NA
+4; 3; 5;private sector; 1; 1;NA;NA; 3
+4; 3; 5;government; 0; 1;NA;NA; 2
+3; 3;NA;government; 1; 0; 2;NA;NA
+4; 3; 4;private sector; 0; 1;NA;NA; 3
+4; 4; 5;private sector; 0; 1;NA; 3;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 3; 6;government; 0; 1;NA; 3;NA
+2; 4; 5;private sector; 1; 1;NA; 3;NA
+4; 2; 4;private sector; 1; 0;NA; 1;NA
+1; 1;NA;Other; 1; 0;NA;NA; 1
+1; 2; 5;private sector; 1; 0;NA; 2;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 2
+2; 3; 5;government; 1; 1;NA; 3;NA
+4; 3; 5;government; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+3; 3; 5;NGO; 0; 1;NA; 3;NA
+3; 2; 5;NGO; 0; 1;NA;NA; 2
+2; 3; 6;private sector; 1; 1; 1;NA;NA
+1; 2; 4;private sector; 1; 0;NA;NA; 3
+3; 3;NA;private sector; 1; 1;NA;NA; 3
+3; 2; 5;government; 0; 1;NA; 2;NA
+1; 1;NA;government; 0; 1;NA;NA; 5
+3; 3; 5;private sector; 0; 1;NA; 3;NA
+2; 3; 5;private sector; 0; 1; 3;NA;NA
+2; 4; 5;private sector; 0; 1; 3;NA;NA
+2; 2; 5;private sector; 1; 1; 3;NA;NA
+1; 1; 4;private sector; 0; 0; 2;NA;NA
+3; 3; 5;government; 0; 1;NA;NA; 2
+4; 2;NA;government; 0; 1; 2;NA;NA
+3; 3;NA;private sector; 0; 1;NA; 3;NA
+3; 2;NA;private sector;NA;NA; 2;NA;NA
+1; 3; 5;NGO;NA; 1;NA;NA; 4
+2; 3; 5;private sector; 1; 1;NA; 3;NA
+4; 2;NA;government; 0; 1;NA; 2;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 2
+3; 4; 5;private sector; 0; 1;NA;NA; 2
+3; 4; 6;government;NA; 1; 2;NA;NA
+1; 1; 4;Other; 0; 0;NA; 2;NA
+5; 1;NA;Other; 0; 1; 3;NA;NA
+1; 4; 3;Other; 0; 0;NA; 4;NA
+3; 1; 4;government; 1; 1;NA; 1;NA
+1; 1; 5;government; 0; 0;NA; 1;NA
+1; 1; 4;DK; 0; 0;NA;NA;NA
+3; 2; 6;government; 1; 1;NA;NA; 2
+3; 1; 3;Other; 1; 1;NA;NA; 5
+3; 3;NA;private sector; 0; 1;NA;NA; 2
+4; 1; 5;government; 0; 1;NA;NA; 3
+4; 1; 5;private sector; 0; 1; 2;NA;NA
+3; 2;NA;private sector; 0; 1; 2;NA;NA
+1; 1;NA;Other; 0; 1;NA; 3;NA
+2; 4; 5;private sector; 0; 1;NA; 2;NA
+1; 1; 5;Other; 0; 0;NA;NA; 3
+3; 4; 5;government; 1; 1; 2;NA;NA
+1; 1; 4;private sector; 0; 0; 2;NA;NA
+2; 4; 5;government; 0; 1;NA; 2;NA
+3; 3; 4;private sector; 1; 1; 2;NA;NA
+3; 3;NA;government; 0; 0;NA; 2;NA
+1; 6; 4;Other; 0; 0; 1;NA;NA
+5; 4;NA;government; 0; 1; 3;NA;NA
+4; 3;NA;private sector; 1; 1; 3;NA;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 4; 5;private sector; 1; 1;NA; 1;NA
+4; 4; 6;government; 0; 1;NA;NA; 3
+2; 4; 5;government; 0; 1;NA;NA; 4
+2; 3; 5;private sector; 1; 1;NA;NA; 2
+3; 4; 5;private sector; 0; 1;NA;NA; 2
+4; 2; 3;private sector; 0; 0;NA;NA; 2
+3; 3;NA;government; 1; 1;NA; 1;NA
+2; 3; 6;DK; 0; 0; 2;NA;NA
+4; 2;NA;private sector; 1; 1; 1;NA;NA
+3; 2; 5;private sector; 1; 1; 2;NA;NA
+3; 2;NA;NGO; 0; 1;NA; 2;NA
+2; 4; 4;private sector; 0; 1;NA;NA; 2
+3; 3; 6;government; 0; 0; 2;NA;NA
+2; 3; 6;Other; 1; 1;NA; 1;NA
+4; 1;NA;private sector; 0; 1; 2;NA;NA
+3; 2; 5;private sector; 1; 1;NA; 3;NA
+2; 3; 5;private sector; 1; 1;NA; 1;NA
+3; 1; 4;government; 1; 1;NA; 1;NA
+2; 1; 4;Other; 1; 0;NA;NA; 4
+3; 2; 5;private sector; 0; 1;NA;NA; 2
+5; 1;NA;private sector; 1; 1;NA; 1;NA
+4; 1; 5;Other; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA;NA; 1
+3; 3;NA;government; 0; 0;NA;NA; 1
+3; 2;NA;private sector; 0; 1;NA; 2;NA
+3; 2; 5;private sector; 1; 1;NA;NA; 3
+1; 1; 5;Other; 1; 1;NA; 2;NA
+3; 2; 5;government; 1; 1; 2;NA;NA
+1; 1; 4;Other; 1; 0;NA; 1;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 3
+3; 4;NA;private sector; 1; 1;NA;NA; 2
+3; 3; 6;government; 0; 1;NA; 0;NA
+3; 4; 5;private sector; 1; 1;NA; 3;NA
+2; 1; 4;private sector; 0; 0;NA; 1;NA
+5; 6; 7;DK; 0; 0; 0;NA;NA
+4; 3; 5;private sector; 1; 1; 2;NA;NA
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 2; 5;government; 0; 1; 2;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 2; 5;NGO; 1; 1;NA;NA; 2
+3; 2;NA;private sector; 0; 1;NA; 3;NA
+3; 2; 5;private sector; 0; 1;NA; 2;NA
+2; 4; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1; 4;NA;NA
+2; 3; 5;private sector; 1; 1;NA; 3;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 4
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 4; 6;private sector; 0; 1; 1;NA;NA
+4; 4; 5;government; 0; 1; 3;NA;NA
+3; 4; 5;government; 1; 1;NA; 1;NA
+3; 4;NA;private sector; 1; 1;NA;NA; 2
+4; 2;NA;private sector; 0; 0; 3;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+1; 2; 5;Other; 1; 0;NA;NA; 3
+2; 3; 5;private sector; 0; 1;NA;NA; 1
+1; 2; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+4; 3; 5;government; 1; 1;NA;NA; 3
+3; 2; 5;private sector;NA;NA;NA;NA; 2
+3; 4; 6;government; 1; 1;NA; 2;NA
+1; 1; 5;government; 1; 0;NA; 1;NA
+3; 3; 5;private sector; 0; 0; 2;NA;NA
+3; 3; 5;government; 1; 1;NA;NA; 3
+5; 1; 5;government; 1; 1;NA;NA; 3
+4; 3; 5;government; 1; 1;NA;NA; 2
+3; 4; 6;government; 0; 1;NA;NA; 1
+3; 4;NA;private sector; 0; 1;NA; 1;NA
+4; 3; 5;private sector; 0; 1; 4;NA;NA
+2; 2; 5;private sector; 0; 1; 2;NA;NA
+3; 3; 5;private sector; 1; 1;NA; 1;NA
+2; 4; 5;private sector; 0; 1;NA;NA; 3
+3; 4; 5;private sector; 0; 1; 2;NA;NA
+4; 1; 4;private sector; 1; 1; 2;NA;NA
+3; 2;NA;private sector;NA; 1; 1;NA;NA
+3; 2; 5;private sector; 1; 1;NA;NA; 2
+2; 4; 6;government; 0; 1;NA; 3;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 3
+3; 2; 5;NGO; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1; 1;NA;NA
+2; 3; 5;government; 0; 1;NA;NA; 3
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+4; 3; 5;private sector; 1; 1;NA; 3;NA
+2; 4; 6;private sector; 0; 1; 2;NA;NA
+3; 2; 5;private sector; 0; 1;NA; 3;NA
+3; 4; 4;private sector; 1; 1;NA;NA; 3
+2; 4;NA;private sector; 1; 1;NA;NA; 1
+2; 3;NA;private sector; 1; 1;NA;NA; 5
+3; 4; 5;private sector; 0; 1;NA; 1;NA
+4; 3; 5;government; 1; 1;NA;NA; 2
+3; 2; 5;private sector; 1; 1; 2;NA;NA
+2; 2; 5;private sector; 1; 1;NA;NA; 3
+2; 3;NA;private sector;NA;NA; 3;NA;NA
+1; 1; 4;private sector; 1; 1;NA; 3;NA
+2; 4; 5;private sector; 1; 1;NA; 2;NA
+2; 4; 5;private sector; 0; 1;NA; 2;NA
+2; 3; 6;government; 1; 0; 5;NA;NA
+3; 4; 5;private sector;NA;NA; 3;NA;NA
+2; 3; 5;government; 0; 1;NA;NA; 1
+3; 2; 6;private sector; 1; 1;NA; 1;NA
+3; 3; 3;NGO; 0; 1;NA;NA; 4
+3; 4; 5;private sector; 0; 1;NA; 2;NA
+4; 1; 4;government; 1; 0;NA; 1;NA
+3; 2; 6;private sector; 1; 1;NA;NA; 0
+1; 6; 5;Other; 1; 1; 1;NA;NA
+3; 2; 5;private sector; 1; 1;NA; 2;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1; 5;NA;NA
+2; 4; 6;private sector; 0; 1;NA; 2;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 2
+4; 2;NA;government; 0; 1;NA; 1;NA
+4; 3; 5;government; 0; 1;NA;NA; 3
+1; 6; 7;DK; 0; 0; 0;NA;NA
+2; 2; 5;private sector; 1; 0;NA; 1;NA
+2; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 1; 4;Other; 0; 1;NA; 4;NA
+2; 6;NA;government; 0; 1;NA;NA; 4
+2; 3; 5;private sector; 0; 0;NA; 1;NA
+2; 2; 5;private sector; 0; 1; 2;NA;NA
+4; 3; 5;private sector; 1; 1; 2;NA;NA
+2; 3; 5;government; 0; 1; 0;NA;NA
+3; 4; 5;government; 1; 1;NA;NA; 1
+3; 3; 3;private sector; 1; 0;NA; 4;NA
+4; 2; 5;government; 0; 1;NA; 1;NA
+3; 2; 5;private sector; 1; 1;NA;NA; 2
+1; 1;NA;NGO; 0; 0;NA; 4;NA
+3; 4; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1;NA; 3;NA
+3; 2; 4;private sector; 1; 1;NA;NA; 2
+3; 2; 6;private sector;NA; 1;NA; 0;NA
+3; 2; 6;private sector; 1; 1; 0;NA;NA
+2; 2; 5;government;NA; 1; 1;NA;NA
+2; 1;NA;government; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 1; 1;NA; 1;NA
+3; 4;NA;private sector; 1; 1;NA;NA; 0
+1; 6; 5;Other; 1; 0; 1;NA;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 1
+5; 2; 3;Other; 0; 0;NA; 1;NA
+3; 3; 5;private sector; 1; 1; 2;NA;NA
+3; 2;NA;government; 1; 1;NA;NA; 2
+3; 3; 5;government;NA; 1;NA; 2;NA
+4; 4; 4;private sector; 0; 1; 2;NA;NA
+1; 1;NA;private sector; 0; 0;NA; 2;NA
+4; 2;NA;private sector; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1; 4;NA;NA
+3; 2;NA;private sector; 0; 1;NA; 2;NA
+2; 2;NA;private sector; 0; 1;NA;NA; 3
+1; 2; 5;government; 1; 1;NA;NA; 4
+2; 3;NA;government; 1; 1;NA; 3;NA
+2; 3; 4;NGO; 1; 1;NA;NA; 4
+3; 2; 5;private sector; 1; 1; 1;NA;NA
+5; 3;NA;private sector; 0; 1; 2;NA;NA
+3; 3; 5;private sector; 0; 1;NA; 1;NA
+4; 4; 5;government; 1; 1;NA;NA; 1
+4; 2; 5;government; 0; 1; 2;NA;NA
+2; 3; 3;private sector; 1; 1;NA; 3;NA
+3; 3;NA;government; 0; 1;NA;NA; 1
+4; 2; 4;private sector; 1; 0;NA;NA; 2
+3; 3; 5;government; 0; 1;NA; 1;NA
+2; 2; 5;government; 1; 1;NA; 2;NA
+4; 3;NA;government; 0; 1;NA;NA; 3
+3; 3;NA;private sector; 0; 0; 3;NA;NA
+4; 3;NA;private sector; 1; 1; 2;NA;NA
+2; 2; 5;private sector; 1; 1;NA;NA; 1
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+2; 3; 5;private sector; 1; 1; 1;NA;NA
+2; 3;NA;private sector; 1; 1;NA; 1;NA
+3; 4; 6;government; 0; 1; 2;NA;NA
+3; 3;NA;private sector; 1; 1; 2;NA;NA
+4; 4;NA;government; 0; 1; 1;NA;NA
+4; 2; 5;private sector; 0; 1; 4;NA;NA
+2; 2; 5;private sector; 0; 1; 2;NA;NA
+5; 6; 1;DK; 0; 0;NA; 2;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 0; 3;NA;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 3
+2; 4; 5;NGO; 0; 1;NA;NA; 3
+2; 2;NA;private sector; 1; 0; 2;NA;NA
+3; 4; 6;private sector; 0; 1; 3;NA;NA
+3; 3;NA;government; 1; 1;NA; 3;NA
+4; 3; 5;government; 1; 1;NA;NA; 2
+1; 1;NA;private sector; 1; 0; 1;NA;NA
+2; 3;NA;private sector; 1; 1;NA;NA; 4
+4; 1;NA;government; 1;NA;NA; 2;NA
+3; 2;NA;private sector; 0; 0; 3;NA;NA
+4; 3; 5;government; 0; 1; 3;NA;NA
+2; 2; 5;private sector; 0; 0; 1;NA;NA
+1; 6;NA;DK; 0; 1;NA; 2;NA
+4; 2; 5;government; 0; 1;NA; 2;NA
+3; 3;NA;private sector; 1; 1; 3;NA;NA
+2; 3;NA;private sector; 1; 1;NA;NA; 2
+3; 2; 5;private sector; 1; 1;NA; 2;NA
+1; 2; 5;private sector; 0; 0; 3;NA;NA
+3; 3; 3;private sector; 1; 0;NA;NA; 2
+5; 4; 4;private sector; 0; 1;NA;NA; 2
+3; 2;NA;private sector; 1; 1;NA;NA; 3
+2; 3;NA;private sector; 1; 1; 1;NA;NA
+3; 3; 5;government; 1; 1; 2;NA;NA
+4; 3; 4;private sector; 0; 1; 3;NA;NA
+4; 3; 6;government; 0; 1;NA;NA; 2
+2; 3;NA;private sector; 1; 1;NA;NA; 3
+4; 4; 4;private sector; 1; 1; 2;NA;NA
+4; 2; 5;government; 0; 1;NA;NA; 2
+1; 2;NA;government; 1; 1; 2;NA;NA
+2; 3; 5;private sector; 0; 1; 1;NA;NA
+2; 4; 5;private sector; 0; 1;NA; 2;NA
+2; 3;NA;private sector; 0; 0;NA; 2;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 3
+4; 3;NA;government; 1; 1;NA;NA; 3
+2; 3; 5;government; 0; 1;NA;NA; 2
+2; 2;NA;private sector; 0; 1;NA;NA; 1
+4; 2; 5;government; 0; 0; 2;NA;NA
+2; 4;NA;private sector; 0; 0;NA;NA; 1
+2; 3;NA;private sector; 1; 1;NA;NA; 1
+3; 1;NA;private sector; 0; 1;NA;NA; 1
+4; 3; 5;private sector; 0; 1; 3;NA;NA
+4; 2; 3;private sector; 0; 1;NA;NA; 2
+2; 3; 5;private sector;NA; 1;NA;NA; 3
+4; 1;NA;private sector; 0; 1; 3;NA;NA
+3; 4; 5;government; 1; 1;NA; 3;NA
+3; 2; 5;government; 1; 0;NA; 2;NA
+5; 2; 5;government; 0; 1;NA; 3;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 2
+2; 2; 5;private sector; 1; 0;NA; 1;NA
+5; 3; 5;government; 0; 1;NA;NA; 3
+3; 2; 3;private sector; 0; 0;NA; 2;NA
+3; 4; 5;private sector; 0; 1; 2;NA;NA
+3; 6; 5;government; 0; 1;NA; 1;NA
+4; 4; 5;government;NA; 1; 2;NA;NA
+3; 2; 5;private sector;NA;NA; 3;NA;NA
+2; 3; 5;private sector; 1; 1; 1;NA;NA
+2; 4; 6;private sector; 0; 1; 3;NA;NA
+2; 2;NA;government;NA; 1; 5;NA;NA
+3; 2; 5;private sector; 0; 1; 2;NA;NA
+2; 4; 5;private sector; 1; 1;NA;NA; 2
+2; 6; 5;Other; 1; 1; 1;NA;NA
+1; 4; 5;private sector; 0; 1;NA;NA; 3
+1; 1;NA;private sector; 0; 0;NA;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 2; 5;government; 1; 1; 4;NA;NA
+1; 3; 5;private sector; 0; 1;NA;NA; 3
+2; 3; 5;private sector; 0; 1;NA;NA; 1
+2; 2; 5;private sector; 0; 1; 3;NA;NA
+2; 4; 5;private sector; 0; 1;NA;NA; 2
+2; 4; 6;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1;NA; 4;NA
+1; 1; 4;Other; 0; 0;NA; 1;NA
+3; 3;NA;private sector; 0; 1;NA; 3;NA
+2; 2; 5;private sector; 1; 1;NA; 2;NA
+1; 1;NA;private sector; 1; 1; 1;NA;NA
+3; 4; 5;private sector; 1; 1;NA; 4;NA
+3; 3; 5;private sector; 0; 1; 4;NA;NA
+1; 1; 5;Other; 1; 0;NA; 1;NA
+3; 2; 5;government; 1; 1; 3;NA;NA
+3; 1; 5;government; 1; 1;NA;NA; 2
+4; 2; 5;government; 0; 1;NA; 2;NA
+2; 3; 5;private sector; 0; 1; 1;NA;NA
+5; 2;NA;government; 1; 1; 4;NA;NA
+2; 2;NA;private sector; 0; 1;NA; 3;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 3
+2; 3;NA;private sector; 1; 1;NA;NA; 3
+1; 6; 4;Other; 1; 0;NA; 3;NA
+2; 3; 5;private sector;NA; 1;NA;NA; 2
+3; 1;NA;government; 0; 1;NA;NA; 1
+3; 3; 5;private sector; 1; 1; 1;NA;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 2
+3; 1; 5;private sector; 1; 1;NA;NA; 2
+2; 1; 5;Other; 1; 0;NA; 2;NA
+2; 4; 5;private sector; 0; 1;NA;NA; 2
+2; 3; 6;private sector; 1; 1;NA;NA; 2
+1; 1; 5;private sector; 0; 1;NA; 2;NA
+2; 2; 5;private sector; 1; 1; 1;NA;NA
+2; 4; 5;private sector; 0; 1;NA; 3;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 1
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 2
+3; 3; 5;government; 1; 1;NA;NA; 4
+2; 3; 5;private sector; 0; 1;NA;NA; 1
+1; 1; 4;Other; 0; 0; 2;NA;NA
+1; 3; 5;private sector; 1; 1; 3;NA;NA
+3; 2; 5;private sector; 0; 0;NA;NA; 3
+2; 1; 4;private sector; 0; 0;NA; 4;NA
+2; 2; 6;private sector; 1; 1;NA;NA; 2
+1; 1; 5;government; 0; 1;NA;NA; 4
+3; 2; 6;government; 1; 1;NA; 2;NA
+2; 1; 5;private sector; 0; 0;NA;NA; 1
+3; 4; 5;Other; 1; 1;NA;NA; 2
+3; 2; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 6;private sector; 0; 1;NA;NA; 4
+3; 4; 6;private sector; 0; 1;NA; 2;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 1
+1; 6;NA;Other; 1; 1; 2;NA;NA
+2; 2; 5;government; 0; 0; 2;NA;NA
+2; 4; 5;private sector; 1; 1;NA; 2;NA
+2; 4; 5;private sector; 0; 1;NA; 1;NA
+1; 1; 4;Other; 0; 1; 3;NA;NA
+5; 2; 5;government; 1; 1;NA;NA; 1
+3; 3; 5;private sector; 1; 1;NA;NA; 2
+1; 2; 4;NGO; 0; 0;NA;NA; 4
+2; 4; 5;government; 0; 1; 2;NA;NA
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 1; 5;government; 0; 0; 3;NA;NA
+1; 4; 5;private sector; 1; 1;NA;NA; 1
+3; 4; 5;government; 0; 1;NA;NA; 2
+3; 2; 5;private sector; 0; 1;NA;NA; 3
+3; 3;NA;private sector;NA; 1;NA; 1;NA
+2; 2; 5;private sector; 0; 1;NA;NA; 3
+2; 2;NA;private sector; 0; 0;NA;NA; 3
+3; 3; 5;private sector; 1; 1;NA;NA; 2
+2; 1; 5;government; 0; 1;NA; 2;NA
+4; 2;NA;government; 0; 1; 2;NA;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 1
+1; 1; 5;private sector; 0; 0;NA;NA; 4
+2; 3;NA;government; 0; 1; 4;NA;NA
+5; 1; 4;Other; 1; 1; 2;NA;NA
+1; 2; 5;private sector; 0; 0;NA;NA; 2
+2; 3; 5;government; 0; 1;NA;NA; 1
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+4; 3;NA;private sector; 0; 1; 3;NA;NA
+2; 3; 5;private sector; 1; 1; 2;NA;NA
+1; 1; 4;Other; 1; 0;NA; 0;NA
+4; 2; 5;government; 0; 1;NA;NA; 3
+2; 1;NA;government; 0; 1; 3;NA;NA
+2; 3; 5;private sector; 0; 0;NA; 2;NA
+3; 2; 4;private sector; 1; 1; 0;NA;NA
+2; 3; 5;private sector; 1; 0;NA;NA; 3
+2; 2; 5;private sector; 1; 1; 1;NA;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 2
+4; 2; 5;private sector; 1; 1;NA; 2;NA
+3; 2; 5;private sector; 1; 1;NA; 3;NA
+2; 1; 6;Other; 1; 0;NA;NA; 1
+2; 1; 4;Other; 0; 0;NA;NA; 1
+4; 3; 5;Other; 0; 1;NA;NA; 2
+4; 4; 5;private sector; 1; 1;NA; 2;NA
+1; 1; 4;Other; 1; 0;NA;NA; 2
+2; 4; 5;private sector; 1; 1; 2;NA;NA
+2; 2; 6;government; 1; 1; 3;NA;NA
+3; 6;NA;Other; 1; 1;NA; 2;NA
+1; 6; 6;DK; 0; 1; 0;NA;NA
+1; 3; 5;private sector; 0; 1; 3;NA;NA
+1; 6; 5;Other; 1; 0; 0;NA;NA
+2; 1; 4;private sector; 0; 1; 5;NA;NA
+1; 1; 5;Other; 0; 1; 4;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 4
+4; 4; 5;private sector; 1; 1;NA;NA; 3
+3; 4; 5;private sector; 0; 1;NA; 3;NA
+4; 1; 4;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1; 2;NA;NA
+2; 2; 5;private sector;NA;NA;NA;NA; 1
+3; 3; 5;private sector; 1; 1;NA;NA; 1
+3; 3; 6;private sector; 0; 1;NA;NA; 2
+3; 2; 6;government; 1; 1; 1;NA;NA
+2; 2; 3;private sector; 1; 0;NA;NA; 2
+1; 1; 4;private sector; 0; 0;NA; 2;NA
+1; 2; 5;private sector; 1; 1; 1;NA;NA
+3; 1;NA;private sector; 1; 0; 2;NA;NA
+3; 3; 5;private sector;NA; 1;NA; 1;NA
+3; 3; 6;private sector; 1; 1;NA;NA; 1
+1; 4;NA;government; 1; 0;NA;NA; 2
+1; 1; 5;Other; 1; 1;NA;NA; 1
+4; 2; 4;private sector; 0; 1; 2;NA;NA
+1; 1;NA;Other; 1; 0;NA;NA; 2
+1; 6; 3;Other; 1; 0;NA; 3;NA
+1; 6; 7;DK; 1; 0;NA;NA; 4
+3; 1; 5;government; 1; 1;NA; 2;NA
+4; 2; 4;government; 0; 1;NA; 2;NA
+2; 2; 4;private sector; 0; 0;NA; 2;NA
+2; 4; 5;private sector; 0; 1;NA; 3;NA
+2; 4; 5;private sector; 1; 1;NA;NA; 3
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 2; 5;Other; 1; 0;NA;NA; 2
+1; 1; 3;government; 0; 0; 1;NA;NA
+1; 6;NA;Other; 1; 1;NA;NA; 3
+4; 2;NA;private sector;NA; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1; 2;NA;NA
+1; 1; 3;private sector; 0; 0; 1;NA;NA
+3; 4; 5;government; 0; 1;NA; 3;NA
+1; 3; 4;private sector; 1; 0;NA; 2;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+4; 4; 5;private sector; 0; 1;NA;NA; 1
+3; 3;NA;private sector; 1; 1;NA; 2;NA
+3; 3; 6;private sector; 1; 1;NA;NA; 1
+3; 2; 5;government; 0; 1; 2;NA;NA
+3; 3; 5;private sector; 1; 1; 2;NA;NA
+4; 3; 5;government; 0; 1;NA;NA; 2
+4; 2;NA;government; 0; 1;NA; 2;NA
+4; 1;NA;government; 0; 1; 2;NA;NA
+4; 2; 5;government; 0; 1;NA;NA; 2
+2; 2; 5;private sector; 1; 0; 2;NA;NA
+2; 3; 5;private sector;NA;NA; 2;NA;NA
+3; 2;NA;government; 1; 1;NA; 2;NA
+1; 1; 3;private sector; 0; 0; 2;NA;NA
+2; 1;NA;government; 0; 1;NA;NA; 2
+3; 3; 5;government; 1; 1;NA; 3;NA
+1; 2; 4;government; 0; 1; 5;NA;NA
+1; 1;NA;private sector; 1; 0;NA;NA; 0
+3; 3; 5;private sector; 1; 1;NA;NA; 3
+3; 2; 5;private sector; 1; 1;NA;NA; 2
+3; 3;NA;private sector;NA;NA;NA; 2;NA
+1; 1; 4;Other; 0; 0;NA;NA; 1
+3; 3;NA;private sector; 0; 1; 2;NA;NA
+2; 3;NA;private sector; 1; 1;NA; 1;NA
+2; 3;NA;government;NA; 1;NA; 1;NA
+3; 2; 5;private sector; 1; 1;NA;NA; 0
+5; 1; 5;private sector; 1; 1;NA;NA; 2
+3; 1;NA;government; 1; 1; 2;NA;NA
+4; 4;NA;private sector; 0; 1;NA;NA; 1
+4; 1; 5;government; 1; 1;NA;NA; 2
+3; 4; 4;private sector; 0; 1;NA; 1;NA
+2; 2;NA;private sector; 1; 1;NA; 3;NA
+2; 3; 4;private sector; 1; 0;NA;NA; 3
+2; 2; 4;Other; 1; 0;NA; 1;NA
+1; 1;NA;DK; 0; 1; 3;NA;NA
+2; 2; 4;private sector; 1; 0; 2;NA;NA
+2; 2; 5;private sector; 1; 1;NA; 0;NA
+4; 2; 5;government; 0; 1;NA; 3;NA
+3; 4;NA;private sector; 0; 1;NA;NA; 3
+1; 3; 4;NGO; 0; 0;NA;NA; 4
+3; 2; 4;private sector; 1; 1;NA; 1;NA
+3; 1; 3;private sector; 0; 0;NA;NA; 1
+3; 3; 5;government; 0; 1;NA;NA; 3
+4; 1;NA;private sector; 1; 1;NA;NA;NA
+2; 4; 5;government; 1; 1;NA;NA; 2
+3; 2;NA;private sector; 0; 0; 3;NA;NA
+3; 4; 5;government; 0; 1;NA;NA; 2
+2; 4; 5;government;NA; 1;NA;NA; 3
+4; 3;NA;private sector; 0; 1; 2;NA;NA
+4; 3;NA;private sector; 0; 1;NA; 2;NA
+2; 3; 5;government; 1; 1; 3;NA;NA
+3; 3;NA;government; 1; 1;NA;NA; 2
+1; 6; 7;Other; 0; 0;NA;NA; 0
+2; 3; 6;government; 0; 1;NA;NA; 2
+3; 1; 4;government; 1; 1;NA;NA; 1
+2; 4; 5;private sector; 0; 1; 1;NA;NA
+2; 4; 5;government; 0; 1; 2;NA;NA
+2; 2; 5;private sector; 1; 1;NA; 2;NA
+2; 6; 4;Other; 1; 0;NA;NA; 0
+2; 4; 5;government; 0; 1; 2;NA;NA
+1; 1; 5;NGO; 0; 0;NA; 2;NA
+1; 6;NA;Other; 0; 0;NA;NA; 2
+2; 2;NA;private sector; 1; 0;NA; 0;NA
+2; 4; 5;government; 1; 1;NA; 2;NA
+3; 4; 5;private sector; 0; 1;NA; 2;NA
+2; 3;NA;private sector; 1; 0;NA;NA; 1
+2; 2; 5;government; 1; 1;NA;NA; 1
+1; 1; 1;Other; 0; 0; 0;NA;NA
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 4; 5;private sector; 1; 1; 2;NA;NA
+3; 2; 5;government; 0; 1; 2;NA;NA
+3; 2;NA;private sector; 0; 1;NA; 2;NA
+1; 6; 4;Other; 0; 1;NA; 1;NA
+2; 2; 5;private sector; 1; 1; 3;NA;NA
+2; 4; 6;private sector; 0; 1; 3;NA;NA
+3; 3; 5;government; 1; 1;NA; 1;NA
+3; 3;NA;government; 1; 1; 3;NA;NA
+4; 4; 4;private sector; 0; 1;NA; 2;NA
+4; 2; 4;private sector; 0; 1;NA;NA; 2
+1; 6; 1;government; 0; 0;NA;NA; 2
+4; 3; 5;government; 0; 1;NA;NA; 3
+2; 6; 3;private sector; 1; 0;NA; 2;NA
+1; 6; 4;Other; 0; 0; 0;NA;NA
+1; 6;NA;Other; 1; 0;NA;NA; 3
+1; 1; 4;Other; 1; 0; 0;NA;NA
+3; 3; 5;government; 1; 1;NA; 3;NA
+3; 2;NA;private sector; 0; 1;NA;NA; 1
+1; 3;NA;Other; 0; 1; 2;NA;NA
+2; 1; 5;private sector; 1; 1;NA;NA; 4
+2; 3; 6;private sector; 1; 1; 3;NA;NA
+1; 4;NA;government; 1; 0;NA; 1;NA
+1; 1; 4;Other; 0; 1;NA;NA; 3
+2; 2; 5;private sector; 0; 1;NA;NA; 1
+2; 3; 5;private sector; 0; 1;NA; 3;NA
+5; 1; 1;Other; 0; 0;NA;NA; 0
+1; 1; 5;Other; 0; 0; 1;NA;NA
+3; 2; 5;private sector; 0; 1;NA; 3;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 1; 2;NA;NA
+2; 6; 3;DK; 1; 0; 3;NA;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 1
+4; 3; 5;government; 0; 1; 2;NA;NA
+3; 4;NA;NGO; 0; 1;NA; 4;NA
+1; 1; 5;DK; 1; 1; 5;NA;NA
+3; 2; 5;government; 1; 1;NA; 2;NA
+2; 2; 5;private sector; 1; 1; 2;NA;NA
+3; 2;NA;private sector; 0; 0;NA; 1;NA
+4; 2; 5;government; 0; 1;NA;NA; 2
+2; 2; 5;Other; 0; 1;NA; 3;NA
+1; 1; 4;government; 0; 0;NA;NA; 5
+1; 6;NA;Other; 0; 1;NA;NA; 2
+1; 6; 4;Other; 1; 1; 3;NA;NA
+2; 3; 5;private sector; 1; 1; 4;NA;NA
+3; 1;NA;private sector; 0; 1; 2;NA;NA
+3; 4; 6;private sector; 1; 1; 4;NA;NA
+4; 3; 4;private sector; 1; 1;NA; 2;NA
+2; 3; 5;government; 0; 1; 4;NA;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 3
+3; 3; 6;private sector; 0; 1; 1;NA;NA
+5; 1; 7;Other; 1; 1; 0;NA;NA
+4; 3; 4;private sector; 1; 1; 2;NA;NA
+5; 2; 5;government; 1; 1;NA;NA; 3
+2; 4; 3;private sector;NA; 0;NA;NA; 3
+2; 4; 5;private sector; 0; 1; 3;NA;NA
+4; 3; 4;NGO; 1; 1;NA;NA; 1
+3; 4; 5;private sector; 1; 1; 3;NA;NA
+4; 3;NA;private sector; 1; 1; 2;NA;NA
+1; 3; 6;government; 0; 1;NA;NA; 2
+2; 1; 5;Other; 0; 1; 0;NA;NA
+3; 2; 5;Other; 1; 1;NA; 3;NA
+2; 2;NA;private sector; 0; 1; 1;NA;NA
+3; 1; 5;private sector; 0; 1;NA;NA; 3
+3; 2; 5;government; 1; 1; 3;NA;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 1
+2; 3; 5;private sector; 1; 1;NA;NA; 2
+2; 2; 4;private sector; 0; 0;NA;NA; 2
+1; 2; 5;private sector; 0; 0;NA; 4;NA
+4; 3;NA;private sector; 0; 1;NA; 1;NA
+3; 1; 5;private sector; 1; 1; 3;NA;NA
+1; 1;NA;Other; 1; 0;NA;NA; 2
+1; 1;NA;Other; 0; 1;NA;NA; 2
+2; 2; 5;private sector; 0; 1;NA;NA; 3
+2; 3; 6;government; 1; 1;NA;NA; 1
+2; 2;NA;private sector; 1; 1; 2;NA;NA
+4; 3;NA;private sector; 1; 1; 2;NA;NA
+1; 4; 5;Other; 0; 0;NA;NA; 2
+3; 4; 5;government; 0; 1;NA;NA; 2
+1; 3; 4;NGO; 0; 0; 2;NA;NA
+2; 3; 5;private sector; 0; 0;NA;NA; 2
+2; 2;NA;Other; 0; 1; 1;NA;NA
+3; 1; 5;Other; 0; 1;NA; 2;NA
+1; 2; 5;Other; 1; 0; 2;NA;NA
+3; 3; 5;government; 1; 1; 2;NA;NA
+3; 2; 4;private sector; 0; 1;NA;NA; 4
+1; 1;NA;Other; 0; 1;NA;NA; 1
+1; 3; 5;private sector; 0; 1;NA;NA; 3
+3; 4; 6;government; 0; 1;NA; 2;NA
+2; 3; 5;government; 1; 1;NA; 2;NA
+1; 2; 5;government; 1; 1;NA; 2;NA
+2; 3;NA;private sector; 0; 1;NA; 2;NA
+3; 4;NA;private sector; 0; 1;NA;NA; 3
+2; 4; 5;private sector; 1; 1;NA; 2;NA
+3; 1;NA;Other; 0; 0; 0;NA;NA
+1; 1; 4;private sector; 0; 0; 1;NA;NA
+1; 6; 4;Other; 0; 1; 2;NA;NA
+1; 6; 5;DK; 1; 1;NA; 1;NA
+3; 4; 6;private sector; 0; 1;NA; 3;NA
+3; 4; 5;private sector; 0; 1;NA; 1;NA
+3; 3;NA;government; 1; 1;NA;NA; 3
+2; 2;NA;private sector; 1; 1;NA; 3;NA
+2; 2; 5;Other; 1; 1;NA;NA; 2
+1; 2; 4;private sector; 0; 0;NA;NA; 3
+2; 4; 5;government; 0; 1;NA; 2;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 1
+3; 2; 5;private sector; 1; 1; 1;NA;NA
+4; 4; 3;private sector; 0; 0;NA;NA; 3
+1; 2; 4;Other; 1; 1; 0;NA;NA
+1; 6;NA;DK; 0; 0;NA;NA; 2
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+4; 3; 5;government; 0; 1;NA;NA; 2
+2; 2; 3;NGO; 0; 0;NA; 3;NA
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+1; 1;NA;Other; 1; 0;NA;NA; 3
+1; 1; 5;Other; 0; 1; 2;NA;NA
+3; 3; 5;government; 1; 1;NA;NA; 2
+2; 3;NA;private sector; 0; 1; 2;NA;NA
+2; 3;NA;private sector; 0; 1;NA;NA; 1
+2; 3; 5;private sector; 0; 1;NA; 3;NA
+1; 2; 5;Other; 0; 0; 1;NA;NA
+2; 3;NA;private sector; 0; 1;NA; 2;NA
+3; 1;NA;private sector; 0; 1;NA; 1;NA
+3; 3; 5;government; 1; 1; 3;NA;NA
+2; 4; 6;Other; 0; 1;NA; 4;NA
+2; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 1; 2;NA;NA
+2; 3; 4;private sector; 1; 0; 1;NA;NA
+1; 1; 5;government; 0; 1;NA; 3;NA
+2; 4; 6;Other; 0; 1;NA; 1;NA
+2; 2; 4;NGO; 0; 0;NA;NA; 3
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 2; 5;private sector; 0; 1;NA; 2;NA
+1; 1; 5;Other; 1; 0;NA; 0;NA
+2; 4; 5;private sector; 0; 1;NA;NA; 5
+2; 2; 5;private sector; 0; 1;NA;NA; 1
+2; 3; 5;government; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 2; 5;government; 1; 1;NA; 4;NA
+1; 1; 5;Other; 1; 1;NA;NA; 1
+2; 3;NA;Other;NA;NA;NA; 3;NA
+3; 4; 4;Other; 1; 1; 3;NA;NA
+1; 1; 5;private sector; 0; 1;NA;NA; 1
+2; 4; 5;private sector; 0; 1;NA;NA; 2
+3; 4; 5;government; 0; 1;NA; 2;NA
+2; 3;NA;private sector; 0; 1; 1;NA;NA
+1; 1; 4;government; 0; 0; 3;NA;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 1;NA;government; 1; 1;NA; 3;NA
+3;NA; 5;private sector; 0; 1; 2;NA;NA
+3; 4; 5;private sector; 1; 1;NA;NA; 2
+1; 1; 4;DK; 1; 0;NA;NA; 3
+2; 2; 5;government; 0; 1;NA;NA; 2
+1; 1; 4;Other; 0; 0;NA; 2;NA
+4; 3;NA;private sector; 0; 1;NA;NA; 2
+1; 1; 3;Other; 0; 0; 1;NA;NA
+2; 2;NA;Other; 0; 0;NA; 2;NA
+1; 1; 5;Other; 1; 1;NA; 4;NA
+2; 3; 5;private sector; 1; 1;NA; 1;NA
+3; 4; 5;private sector;NA; 1; 2;NA;NA
+3; 4; 6;private sector; 1; 1;NA;NA; 2
+2; 2;NA;private sector; 1; 0; 2;NA;NA
+2; 1;NA;government; 0; 1;NA;NA; 3
+3; 2;NA;private sector; 1; 1;NA; 2;NA
+4; 3; 5;private sector; 0; 1; 2;NA;NA
+1; 6;NA;Other; 1; 0; 1;NA;NA
+3; 3;NA;private sector; 1; 1;NA; 2;NA
+1; 1; 5;Other; 0; 1; 1;NA;NA
+1; 1;NA;Other; 1; 0;NA; 2;NA
+1; 1; 5;Other; 0; 0;NA; 2;NA
+2; 2; 5;government; 0; 1;NA;NA; 2
+4; 3; 3;Other; 0; 1;NA;NA; 1
+3; 2; 5;government; 0; 1; 1;NA;NA
+2; 3; 5;private sector; 0; 0;NA; 3;NA
+1; 1;NA;Other; 1; 0;NA; 1;NA
+1; 1; 5;private sector; 0; 1;NA; 1;NA
+2; 1;NA;private sector; 0; 0;NA; 0;NA
+1; 1;NA;Other; 0; 0;NA; 2;NA
+4; 3; 5;private sector; 0; 1;NA; 1;NA
+1; 1; 4;Other; 0; 1;NA;NA; 2
+2; 4; 5;private sector; 1; 1;NA; 3;NA
+1; 3; 5;private sector; 1; 1; 4;NA;NA
+1; 1; 5;Other; 0; 1;NA; 2;NA
+2; 1; 4;Other; 1; 0; 0;NA;NA
+3; 4; 5;private sector; 1; 1; 3;NA;NA
+1; 2; 5;private sector; 1; 1;NA;NA; 2
+1; 1; 4;Other; 1; 0;NA;NA; 0
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+1; 1;NA;Other; 0; 0;NA; 2;NA
+1; 1; 5;NGO; 0; 1;NA;NA; 3
+3; 4;NA;private sector; 1; 1;NA; 1;NA
+1; 1; 3;NGO; 0; 0;NA; 1;NA
+1; 2;NA;DK; 1; 0; 0;NA;NA
+2; 3;NA;NGO; 0; 1;NA;NA; 1
+2; 2; 5;private sector; 1; 1;NA;NA; 3
+2; 3; 5;private sector; 1; 1; 2;NA;NA
+1; 1;NA;Other; 1; 1; 2;NA;NA
+2; 2; 5;private sector; 1; 1;NA; 2;NA
+2; 2; 4;private sector; 1; 1;NA;NA; 3
+2; 3; 5;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 2;NA;private sector; 0; 0;NA; 2;NA
+2; 3; 3;NGO; 0; 1;NA;NA; 1
+1; 1;NA;private sector; 0; 0;NA;NA; 2
+2; 6; 4;DK; 0; 0; 0;NA;NA
+1; 1; 4;Other; 1; 0;NA;NA; 1
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+1; 6;NA;DK; 0; 1;NA; 0;NA
+2; 4;NA;government; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+1; 4; 5;government; 1; 1; 2;NA;NA
+2; 2; 2;private sector; 0; 0;NA;NA; 1
+3; 3;NA;private sector; 0; 1;NA;NA; 0
+2; 2; 4;private sector; 1; 1;NA;NA; 2
+1; 2; 5;private sector; 0; 0;NA; 2;NA
+3; 1; 4;Other; 1; 0; 1;NA;NA
+4; 1; 4;NGO; 0; 0;NA;NA; 3
+1; 1;NA;Other; 0; 0;NA; 1;NA
+1; 2; 4;private sector; 1; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1;NA;NA; 2
+1; 1; 5;Other; 1; 0; 2;NA;NA
+2; 3; 5;private sector; 1; 1; 2;NA;NA
+1; 1; 4;Other; 1; 0;NA;NA; 1
+1; 1;NA;Other; 0; 0;NA; 1;NA
+2; 6; 5;DK; 0; 0;NA;NA; 4
+4; 4; 6;private sector; 0; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 2; 6;private sector; 0; 1;NA; 2;NA
+2; 2;NA;private sector; 0; 0;NA;NA; 3
+2; 6;NA;Other; 0; 1;NA;NA; 3
+1; 1;NA;Other; 0; 0;NA;NA; 3
+3; 1; 3;Other; 1; 0;NA; 3;NA
+2; 4; 5;private sector; 1; 1;NA; 1;NA
+1; 1;NA;Other; 1; 1; 5;NA;NA
+4; 3; 5;private sector; 1; 1;NA; 3;NA
+1; 1; 4;NGO; 1; 1;NA; 3;NA
+1; 6; 4;DK; 1; 0; 2;NA;NA
+1; 1; 5;Other; 1; 1;NA;NA; 2
+2; 3; 5;private sector; 1; 1;NA;NA; 3
+2; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 4; 5;government;NA;NA; 2;NA;NA
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+1; 2; 5;Other; 0; 1;NA; 1;NA
+4; 3; 5;private sector; 1; 1; 2;NA;NA
+2; 3; 5;private sector; 0; 1;NA;NA; 3
+1; 2;NA;private sector; 1; 1; 2;NA;NA
+1; 6; 4;Other; 0; 0;NA; 2;NA
+1; 6;NA;DK; 0; 0; 2;NA;NA
+3; 6; 4;government; 1; 0;NA;NA; 3
+2; 3; 5;private sector; 1; 1; 1;NA;NA
+1; 1;NA;Other; 0; 0;NA;NA; 1
+5; 2;NA;government; 1; 1; 3;NA;NA
+2; 1; 4;private sector; 0; 0; 1;NA;NA
+1; 6; 5;Other; 1; 1; 2;NA;NA
+2; 1;NA;Other; 1; 0;NA; 2;NA
+4; 4; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1; 2;NA;NA
+2; 2; 5;Other; 0; 0;NA;NA; 2
+2; 1; 4;private sector; 1; 0; 3;NA;NA
+1; 6; 5;DK; 0; 1;NA; 1;NA
+1; 6; 4;Other; 1; 0; 0;NA;NA
+2; 2;NA;private sector; 0; 0;NA; 1;NA
+3; 2; 5;government; 0; 1;NA;NA; 3
+2; 3; 5;private sector; 1; 1;NA;NA; 3
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 2; 4;Other; 1; 0; 2;NA;NA
+2; 1; 4;NGO; 1; 0; 2;NA;NA
+2; 3;NA;private sector; 1; 1;NA; 2;NA
+3; 3; 5;government; 0; 1;NA;NA; 3
+2; 3;NA;NGO; 1; 1; 2;NA;NA
+4; 3; 5;private sector; 1; 1; 2;NA;NA
+2; 3;NA;private sector; 1; 1; 3;NA;NA
+2; 3; 5;private sector; 1; 1; 2;NA;NA
+1; 1; 4;Other; 0; 1;NA;NA; 1
+3; 2;NA;private sector; 0; 1; 2;NA;NA
+2; 2; 4;NGO; 1; 1;NA;NA; 2
+3; 4; 5;government; 0; 1;NA; 3;NA
+2; 4; 5;government; 0; 1; 3;NA;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 2
+4; 3; 5;private sector; 1; 1;NA;NA; 2
+1; 6;NA;government; 1; 1;NA; 4;NA
+2; 3;NA;private sector; 1; 1;NA;NA; 2
+2; 2; 5;private sector; 0; 1; 3;NA;NA
+1; 6; 3;private sector; 1; 0; 1;NA;NA
+2; 3; 5;private sector; 1; 1; 3;NA;NA
+4; 3; 5;private sector; 1; 1;NA;NA; 3
+2; 3;NA;private sector; 0; 1; 3;NA;NA
+1; 1; 5;Other; 0; 1;NA;NA; 2
+2; 1; 4;Other; 0; 0; 3;NA;NA
+1; 3;NA;private sector; 1; 0; 2;NA;NA
+1; 6;NA;Other; 0; 0;NA;NA; 2
+2; 2; 5;government; 0; 1;NA;NA; 5
+3; 4; 5;private sector; 1; 1;NA;NA; 2
+1; 1; 4;private sector; 0; 0;NA;NA; 2
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 2; 4;private sector; 1; 1;NA; 1;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+3; 2; 4;Other; 1; 0; 3;NA;NA
+2; 4;NA;government; 1; 1; 3;NA;NA
+3; 4; 5;government; 1; 1; 2;NA;NA
+2; 3;NA;private sector; 0; 1;NA; 1;NA
+2; 3; 5;private sector; 0; 1;NA; 3;NA
+2; 2; 4;private sector; 0; 0;NA; 0;NA
+4; 4; 5;private sector; 1; 1;NA;NA; 3
+2; 2; 5;private sector; 0; 1; 3;NA;NA
+2; 3; 5;NGO; 1; 1; 2;NA;NA
+3; 4; 6;government; 0; 1;NA; 1;NA
+1; 3; 5;government; 0; 1;NA;NA; 4
+2; 2; 5;private sector; 1; 1; 3;NA;NA
+2; 4; 6;private sector; 1; 1;NA;NA; 2
+1; 6; 5;Other; 1; 1;NA; 2;NA
+1; 2; 4;government; 1; 0;NA; 3;NA
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 1; 4;private sector; 1; 0;NA; 3;NA
+1; 1; 4;Other; 1; 0; 2;NA;NA
+1; 1; 3;private sector; 0; 0;NA;NA;NA
+3; 2;NA;private sector; 0; 0;NA; 2;NA
+1; 2;NA;DK; 0; 0;NA;NA; 1
+2; 2; 5;private sector; 0; 1; 3;NA;NA
+4; 3; 5;private sector; 1; 1; 2;NA;NA
+2; 1; 4;Other; 0; 0;NA;NA; 3
+4; 3;NA;private sector; 1; 1; 2;NA;NA
+2; 4; 5;government;NA;NA;NA;NA; 2
+2; 2;NA;private sector; 1; 1; 3;NA;NA
+1; 2; 4;private sector; 0; 0;NA; 4;NA
+4; 3;NA;private sector; 1; 1;NA;NA; 3
+3; 3; 5;government; 1; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 0;NA;NA; 2
+2; 4; 6;private sector; 0; 1;NA;NA; 1
+4; 4; 5;private sector; 1; 1;NA;NA; 2
+1; 1; 4;private sector; 0; 0;NA; 2;NA
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+1; 6; 5;DK; 1; 1; 3;NA;NA
+3; 3; 5;government; 1; 1;NA;NA; 2
+1; 4; 5;private sector; 1; 0;NA; 1;NA
+4; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 2; 5;Other; 0; 1; 4;NA;NA
+2; 2;NA;private sector; 0; 1;NA; 3;NA
+3; 4; 5;private sector; 0; 1;NA; 3;NA
+5; 6; 1;DK; 0; 0;NA;NA; 2
+4; 3;NA;private sector; 0; 1;NA;NA; 1
+3; 2; 3;private sector; 0; 0;NA; 0;NA
+2; 3; 5;government; 1; 1;NA;NA; 3
+4; 3;NA;private sector; 0; 0; 4;NA;NA
+4; 3;NA;private sector; 1; 1; 2;NA;NA
+3; 3; 5;government; 0; 1;NA;NA; 3
+3; 3; 5;private sector; 0; 1; 3;NA;NA
+3; 4; 5;government; 0; 1;NA; 3;NA
+2; 2; 5;government; 1; 1;NA;NA; 3
+4; 4; 5;private sector; 0; 1;NA;NA; 3
+4; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 1; 4;private sector; 0; 1;NA; 2;NA
+1; 2; 2;private sector; 0; 1;NA; 1;NA
+1; 1;NA;DK; 1; 1; 3;NA;NA
+4; 3;NA;private sector; 0; 1; 3;NA;NA
+4; 2; 5;private sector; 0; 1; 2;NA;NA
+4; 4; 5;private sector; 0; 1; 2;NA;NA
+4; 2; 5;private sector; 0; 1;NA;NA; 2
+1; 1; 5;DK; 0; 0; 2;NA;NA
+2; 2; 5;private sector; 0; 1;NA;NA; 3
+1; 6; 5;private sector; 1; 1; 2;NA;NA
+1; 3; 5;private sector; 1; 1;NA;NA; 2
+4; 3; 5;private sector; 0; 1;NA; 1;NA
+2; 3; 5;private sector; 1; 1; 1;NA;NA
+2; 4; 6;private sector; 0; 1; 2;NA;NA
+1; 1; 5;private sector; 0; 0;NA;NA; 2
+3; 3; 5;government; 1; 1;NA;NA; 2
+5; 3;NA;private sector; 0; 1;NA; 2;NA
+4; 4; 5;private sector; 0; 1;NA; 2;NA
+1; 2; 3;private sector; 0; 0;NA;NA; 2
+3; 3;NA;government; 1; 1;NA; 2;NA
+2; 4; 6;private sector; 1; 1; 1;NA;NA
+1; 6; 1;DK; 0; 0;NA;NA; 0
+1; 1;NA;Other; 1; 0; 5;NA;NA
+4; 4; 5;private sector; 1; 1;NA;NA; 2
+3; 3; 5;private sector; 1; 0;NA; 2;NA
+3; 3;NA;private sector; 0; 1; 3;NA;NA
+2; 3;NA;private sector; 0; 1; 3;NA;NA
+2; 2;NA;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 0; 2;NA;NA
+4; 4; 5;private sector; 0; 1;NA; 1;NA
+2; 2; 5;private sector; 0; 1;NA; 3;NA
+1; 2; 3;private sector; 1; 0;NA; 3;NA
+4; 2; 5;government; 0; 1; 3;NA;NA
+3; 3;NA;private sector; 0; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 2
+1; 2;NA;government; 0; 1; 1;NA;NA
+2; 2; 5;private sector; 0; 1;NA;NA; 3
+4; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 2; 5;government; 1; 1;NA;NA; 3
+2; 1;NA;private sector; 1; 1; 3;NA;NA
+3; 2; 5;private sector; 1; 1;NA; 1;NA
+4; 3;NA;private sector; 0; 1; 3;NA;NA
+3; 2;NA;private sector; 1; 0; 2;NA;NA
+3; 2;NA;government; 1; 1;NA;NA; 3
+2; 1; 2;government; 0; 0;NA;NA;NA
+1; 3; 5;government; 1; 1;NA; 2;NA
+4; 3;NA;private sector; 0;NA;NA; 2;NA
+2; 2; 5;private sector; 1;NA;NA;NA; 3
+3; 3;NA;government; 0; 1;NA;NA; 3
+3; 2; 5;government; 1; 1; 3;NA;NA
+1; 2; 3;private sector; 0; 1;NA;NA; 2
+2; 3;NA;private sector; 0; 1;NA; 3;NA
+3; 3;NA;private sector; 0; 1; 3;NA;NA
+3; 4;NA;private sector; 1; 0;NA; 2;NA
+1; 2;NA;private sector; 0; 0;NA; 3;NA
+3; 3;NA;private sector; 0; 1;NA; 3;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 4
+4; 3;NA;private sector; 1; 1; 2;NA;NA
+3; 2; 5;government; 1; 1;NA;NA; 3
+4; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 2;NA;private sector; 1; 0; 2;NA;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 2
+2; 3; 5;private sector; 1; 1;NA; 3;NA
+4; 3;NA;private sector; 0; 1;NA; 3;NA
+2; 1; 4;Other; 0; 0; 3;NA;NA
+3; 1; 5;private sector; 0; 0;NA; 2;NA
+2; 2; 4;private sector; 0; 0;NA; 2;NA
+4; 3; 5;private sector; 0; 1; 2;NA;NA
+1; 6; 4;private sector; 1; 1;NA;NA; 1
+1; 1;NA;Other; 1; 1; 2;NA;NA
+3; 1;NA;government;NA; 1; 1;NA;NA
+2; 2; 5;government; 0; 1;NA;NA; 3
+2; 2;NA;private sector; 1; 0;NA;NA; 2
+3; 2; 5;NGO; 0; 1;NA;NA; 2
+4; 2; 4;government;NA;NA;NA; 1;NA
+4; 3; 4;private sector; 0; 1;NA;NA; 3
+1; 1;NA;Other; 1; 1;NA;NA; 1
+2; 2; 5;private sector; 0; 1;NA;NA; 3
+4; 3;NA;private sector; 0; 1;NA; 2;NA
+2; 3;NA;private sector; 0; 1;NA; 2;NA
+2; 4; 5;private sector; 0; 0;NA; 2;NA
+3; 3; 6;private sector; 1; 1;NA; 2;NA
+2; 4; 5;private sector; 1; 1;NA;NA; 2
+2; 2; 5;private sector; 1; 1;NA; 3;NA
+2; 3; 5;private sector; 1; 0;NA;NA; 2
+4; 4; 5;private sector; 1; 1;NA; 2;NA
+4; 3;NA;private sector; 0; 1; 4;NA;NA
+1; 1;NA;Other; 1; 1;NA; 2;NA
+3; 2; 6;private sector; 0; 1;NA;NA; 1
+3; 3;NA;government; 0; 1;NA; 2;NA
+1; 3;NA;private sector; 1; 1;NA;NA; 2
+1; 6; 2;Other;NA; 0;NA;NA; 1
+4; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 2; 5;private sector; 0; 1; 3;NA;NA
+3; 1; 4;private sector; 0; 0; 4;NA;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 3
+2; 2; 5;government; 0; 1;NA; 3;NA
+1; 2;NA;private sector; 1; 0;NA;NA; 2
+4; 4; 5;private sector; 0; 1;NA;NA; 2
+2; 2;NA;private sector; 1; 1; 2;NA;NA
+1; 1;NA;government; 1; 1; 2;NA;NA
+1; 2; 5;Other; 1; 1; 5;NA;NA
+4; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+3; 2; 5;private sector; 0; 1;NA;NA; 3
+2; 3; 5;private sector; 1; 0;NA;NA; 2
+3; 2; 5;government; 0; 1;NA; 3;NA
+1; 2;NA;private sector; 0; 1;NA;NA; 1
+2; 6; 4;private sector; 1; 1; 0;NA;NA
+1; 1;NA;private sector; 1; 1;NA;NA; 3
+2; 2;NA;private sector; 0; 1; 2;NA;NA
+2; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 2; 4;private sector; 0; 1;NA;NA; 3
+2; 2;NA;private sector; 0; 1; 3;NA;NA
+1; 2;NA;private sector; 1; 1;NA; 2;NA
+1; 2; 5;private sector; 1; 1;NA;NA; 3
+4; 3; 5;private sector; 1; 1; 2;NA;NA
+1; 2;NA;private sector; 1; 1;NA; 2;NA
+4; 3;NA;private sector; 0; 1; 2;NA;NA
+2; 2; 5;Other; 1; 0;NA; 2;NA
+3; 2;NA;government; 0; 1;NA; 3;NA
+1; 2;NA;private sector; 1; 0;NA; 2;NA
+4; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 2;NA;private sector; 1; 1;NA; 3;NA
+1; 1;NA;private sector; 1; 1; 2;NA;NA
+4; 3; 5;private sector; 1; 1; 2;NA;NA
+2; 3;NA;private sector; 0; 1;NA;NA; 3
+2; 2; 5;private sector; 1; 1;NA;NA; 3
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 1;NA;private sector; 1; 1;NA;NA; 2
+2; 2;NA;private sector; 1; 1;NA; 3;NA
+4; 3;NA;private sector; 1; 1; 2;NA;NA
+1; 1;NA;private sector; 1; 1; 2;NA;NA
+1; 3; 4;private sector; 0; 0;NA; 0;NA
+1; 2; 4;private sector; 0; 0;NA; 3;NA
+4; 4; 5;private sector; 1; 1;NA;NA; 2
+3; 3;NA;private sector; 0; 1;NA; 2;NA
+3; 2; 5;government; 0; 1;NA; 3;NA
+3; 1; 3;private sector; 1; 0;NA; 1;NA
+1; 2;NA;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 0; 3;NA;NA
+3; 2; 5;government; 1; 1;NA;NA; 3
+3; 3;NA;government; 0; 1;NA;NA; 2
+1; 2;NA;private sector; 1; 1; 2;NA;NA
+4; 2;NA;private sector; 1; 1;NA; 2;NA
+2; 2; 5;private sector; 0; 1; 3;NA;NA
+1; 2;NA;private sector; 1; 1;NA;NA; 2
+3; 4; 5;private sector; 1; 0;NA;NA; 2
+3; 2;NA;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+4; 2;NA;private sector; 0; 1; 2;NA;NA
+1; 6; 7;DK; 0; 0;NA; 3;NA
+3; 3; 5;government; 1; 1;NA;NA; 2
+1; 2;NA;private sector; 1; 1;NA; 2;NA
+3; 3;NA;private sector; 0; 1;NA; 3;NA
+3; 2; 5;private sector; 1; 1;NA; 1;NA
+4; 3;NA;private sector; 0; 1; 2;NA;NA
+1; 2;NA;private sector; 1; 1;NA; 1;NA
+3; 3; 5;private sector; 1; 1; 3;NA;NA
+4; 2; 4;private sector; 1; 1; 2;NA;NA
+3; 2; 5;private sector; 1; 1;NA; 2;NA
+1; 2;NA;private sector; 1; 1;NA; 2;NA
+4; 2;NA;government; 1; 1; 2;NA;NA
+2; 2; 5;private sector; 1; 1;NA; 2;NA
+4; 2; 4;private sector; 1; 1;NA; 2;NA
+2; 2; 5;private sector; 0; 1; 3;NA;NA
+2; 1;NA;private sector; 1; 1;NA; 2;NA
+3; 2;NA;government; 0; 1;NA; 1;NA
+3; 3; 5;private sector; 1; 1;NA; 1;NA
+3; 3; 5;government; 1; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 2;NA;private sector; 1; 1; 3;NA;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 3
+2; 2;NA;private sector; 1; 1; 2;NA;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 3
+2; 2;NA;private sector; 0; 1;NA; 3;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 2;NA;private sector; 0; 1; 2;NA;NA
+2; 2; 5;private sector; 1; 1; 3;NA;NA
+3; 2;NA;private sector; 1; 1; 2;NA;NA
+3; 3; 5;private sector; 0; 1; 2;NA;NA
+1; 2;NA;private sector; 1; 1;NA; 1;NA
+2; 2; 5;private sector; 0; 1;NA;NA; 3
+4; 3;NA;private sector; 0; 1; 2;NA;NA
+1; 2;NA;private sector; 1; 1;NA; 1;NA
+1; 1;NA;Other; 1; 1; 5;NA;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 3
+2; 2;NA;private sector; 1; 0;NA; 2;NA
+3; 3; 4;private sector; 0; 1; 2;NA;NA
+3; 3; 5;NGO; 1; 1; 1;NA;NA
+3; 2; 4;private sector; 0; 1;NA;NA; 2
+2; 1;NA;private sector; 1; 1;NA;NA; 2
+3; 3; 5;private sector; 0; 1;NA; 3;NA
+1; 4; 5;Other; 1; 1; 2;NA;NA
+2; 2;NA;private sector; 1; 1; 3;NA;NA
+1; 2;NA;private sector; 1; 1; 2;NA;NA
+4; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 2; 5;private sector; 1; 1; 2;NA;NA
+4; 3;NA;government; 0; 1;NA; 2;NA
+3; 4; 5;private sector; 0; 1;NA; 2;NA
+2; 1;NA;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA; 3;NA
+1; 1;NA;Other; 1; 1; 4;NA;NA
+3; 2;NA;government; 0; 1;NA;NA; 2
+3; 2;NA;private sector; 1; 1; 1;NA;NA
+3; 3;NA;private sector; 1; 1;NA; 3;NA
+2; 2; 5;private sector; 1; 1;NA; 3;NA
+2; 3;NA;private sector; 1; 1; 3;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+3; 3;NA;private sector; 0; 1;NA;NA; 3
+2; 2;NA;private sector; 0; 1; 2;NA;NA
+4; 2;NA;private sector; 1; 0; 2;NA;NA
+2; 2; 5;private sector; 1; 1;NA; 2;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 3
+2; 2; 5;private sector; 0; 1;NA; 3;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 3
+2; 3; 5;private sector; 0; 1;NA; 3;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 0
+2; 2; 5;private sector; 1; 1;NA; 3;NA
+2; 2;NA;private sector; 1; 1;NA;NA; 2
+1; 2;NA;private sector; 1; 1;NA; 2;NA
+4; 2;NA;private sector; 1; 0; 2;NA;NA
+1; 1;NA;Other; 1; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1; 1;NA;NA
+2; 2; 5;private sector; 0; 1;NA; 2;NA
+3; 2; 5;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1;NA; 3;NA
+3; 3;NA;private sector; 0; 1;NA;NA; 3
+3; 4; 5;government; 0; 1; 3;NA;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 2;NA;private sector; 0; 0;NA; 2;NA
+1; 2;NA;private sector; 0; 1; 1;NA;NA
+3; 2;NA;private sector; 0; 1; 3;NA;NA
+3; 2; 5;NGO; 1; 1;NA; 3;NA
+4; 2;NA;private sector; 1; 0;NA; 2;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 2;NA;private sector; 1; 1; 2;NA;NA
+1; 1;NA;Other; 1; 1;NA; 1;NA
+2; 3;NA;private sector; 0; 1;NA; 3;NA
+2; 2; 5;private sector; 1; 1; 2;NA;NA
+3; 3;NA;private sector; 1; 1; 3;NA;NA
+2; 3; 5;private sector; 1; 1;NA; 1;NA
+2; 2; 5;private sector; 1; 1;NA; 3;NA
+3; 2;NA;private sector; 1; 1;NA;NA; 0
+2; 2; 5;private sector; 0; 1;NA; 3;NA
+3; 2;NA;private sector; 1; 1;NA;NA; 1
+2; 2;NA;private sector; 1; 1;NA;NA; 2
+2; 3; 5;private sector; 1; 1;NA; 1;NA
+2; 2;NA;private sector; 1; 1;NA; 2;NA
+1; 1;NA;private sector; 1; 1;NA;NA; 3
+2; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 3;NA;private sector; 1; 1;NA; 2;NA
+3; 4; 5;government; 0; 1; 3;NA;NA
+2; 2; 5;private sector; 0; 1;NA; 2;NA
+2; 3; 5;NGO; 1; 1; 3;NA;NA
+1; 2;NA;private sector; 0; 1; 2;NA;NA
+2; 3; 4;private sector; 0; 0; 1;NA;NA
+2; 3; 5;Other; 1; 1; 3;NA;NA
+2; 3; 5;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 0; 1;NA; 2;NA
+1; 2;NA;private sector; 1; 1; 2;NA;NA
+2; 6; 3;Other; 1; 0;NA;NA; 3
+1; 1; 5;Other; 1; 1; 5;NA;NA
+3; 4; 5;government; 0; 1;NA;NA; 1
+4; 2;NA;private sector; 1; 0;NA; 2;NA
+2; 2; 5;private sector; 1; 1;NA;NA; 3
+5; 3;NA;government; 0; 1;NA;NA; 3
+2; 2;NA;private sector; 0; 1;NA; 1;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 2; 5;private sector; 1; 1;NA; 4;NA
+1; 1; 5;Other; 1; 1;NA; 1;NA
+3; 4; 5;NGO; 1; 1;NA;NA; 4
+3; 3; 5;government; 1; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1;NA;NA; 1
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 3;NA;private sector; 1; 1; 1;NA;NA
+2; 3; 5;private sector; 1; 1; 3;NA;NA
+1; 1; 5;Other; 1; 1;NA;NA; 1
+3; 2;NA;private sector; 0; 1; 3;NA;NA
+1; 3;NA;private sector; 0; 1;NA;NA; 3
+2; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 2;NA;private sector; 1; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1;NA;NA; 3
+2; 2; 3;Other; 1; 0; 5;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 2
+2; 4; 5;private sector; 1; 1;NA; 2;NA
+2; 2;NA;private sector; 0; 1;NA; 3;NA
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+3; 3;NA;government; 0; 0;NA;NA; 4
+2; 3; 5;private sector; 1; 1;NA; 2;NA
+4; 2;NA;private sector; 1; 1;NA; 2;NA
+2; 3; 6;government; 1; 1;NA; 1;NA
+2; 3;NA;private sector; 0; 1;NA; 2;NA
+3; 3; 5;private sector; 1; 1;NA; 2;NA
+2; 2;NA;private sector; 0; 0;NA; 2;NA
+2; 1;NA;Other; 1; 0;NA;NA; 1
+2; 3;NA;private sector; 1; 1; 4;NA;NA
+2; 2;NA;Other; 0; 1; 2;NA;NA
+2; 2;NA;private sector;NA; 1;NA;NA; 3
+2; 3; 5;private sector; 0; 1; 3;NA;NA
+1; 6;NA;Other; 0; 1;NA;NA; 2
+3; 2; 4;private sector; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1; 1;NA;NA
+2; 3;NA;NGO; 0; 1;NA; 3;NA
+1; 1;NA;Other; 1; 0;NA; 4;NA
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 3;NA;private sector; 0; 0;NA; 2;NA
+2; 4; 5;private sector; 1; 1;NA;NA; 1
+2; 2;NA;private sector; 0; 1; 3;NA;NA
+2; 2; 5;NGO; 1; 1;NA;NA; 2
+2; 3;NA;private sector; 0; 1;NA; 3;NA
+5; 2; 5;government; 0; 1;NA;NA; 2
+3; 2;NA;private sector; 1; 1; 2;NA;NA
+2; 3; 5;government; 1; 1; 2;NA;NA
+2; 2; 4;private sector; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 1; 1;NA; 3;NA
+2; 4; 5;private sector; 0; 1;NA;NA; 2
+1; 1;NA;private sector; 0; 1;NA;NA; 2
+1; 3;NA;private sector; 0; 1;NA; 3;NA
+3; 4;NA;private sector; 1; 1;NA;NA; 3
+4; 2;NA;private sector; 1; 0;NA;NA; 2
+2; 3;NA;private sector; 1; 1;NA; 2;NA
+1; 2;NA;private sector; 1; 1;NA;NA; 2
+1; 1;NA;Other; 1; 1;NA; 2;NA
+1; 6; 4;Other; 0; 1;NA;NA; 2
+2; 2;NA;government; 1; 1;NA;NA; 2
+2; 3;NA;private sector; 0; 1;NA;NA; 3
+2; 3; 5;private sector; 0; 1; 0;NA;NA
+2; 4; 5;private sector; 1; 1;NA;NA; 1
+3; 6; 4;private sector; 0; 0; 2;NA;NA
+2; 3; 5;NGO; 1; 1;NA; 3;NA
+2; 3;NA;private sector; 0; 1;NA;NA; 3
+3; 2;NA;private sector; 1; 1; 2;NA;NA
+2; 3;NA;private sector; 1; 1;NA;NA; 2
+2; 2; 5;private sector;NA; 1;NA;NA; 2
+2; 2;NA;private sector; 0; 1;NA; 1;NA
+1; 1; 3;private sector; 1; 0; 2;NA;NA
+3; 2;NA;private sector; 1; 1;NA; 1;NA
+2; 3;NA;private sector; 0; 1; 4;NA;NA
+2; 2; 5;Other; 0; 0;NA; 3;NA
+1; 1;NA;private sector; 1; 1;NA; 2;NA
+1; 2;NA;private sector; 1; 1;NA; 1;NA
+2; 3; 5;private sector; 0; 1;NA; 2;NA
+2; 3; 4;private sector; 0; 0; 3;NA;NA
+3; 3; 5;private sector; 0; 1;NA;NA; 3
+3; 2; 5;private sector; 0; 0;NA;NA; 2
+1; 2;NA;government; 0; 1;NA;NA; 2
+2; 4;NA;NGO; 1; 1; 2;NA;NA
+1; 2;NA;private sector;NA;NA;NA;NA; 2
+2; 3;NA;private sector; 0; 1;NA; 3;NA
+1; 1;NA;Other; 0; 1;NA; 3;NA
+1; 6; 7;DK; 1; 1;NA;NA;NA
+2; 3; 5;Other; 0; 1;NA;NA; 1
+3; 4;NA;private sector; 1; 1;NA;NA; 3
+4; 4; 5;private sector; 1; 1; 1;NA;NA
+2; 3; 5;Other; 0; 1;NA;NA; 3
+3; 4; 5;private sector; 1; 1;NA; 2;NA
+4; 4;NA;government; 0; 1; 2;NA;NA
+4; 3;NA;private sector; 0; 1;NA; 2;NA
+4; 4; 5;government; 1; 1;NA;NA; 1
+3; 2;NA;private sector; 1; 1;NA;NA; 2
+4; 3; 5;government; 1; 1; 3;NA;NA
+4; 3; 5;private sector; 0; 1; 4;NA;NA
+2; 3;NA;private sector; 0; 1;NA; 3;NA
+4; 3; 5;private sector; 0; 1; 2;NA;NA
+4; 3; 5;private sector; 0; 1;NA; 3;NA
+2; 3; 5;private sector; 1; 1;NA;NA; 3
+2; 4; 4;Other; 1; 0; 3;NA;NA
+4; 3; 5;private sector; 1; 1; 4;NA;NA
+2; 4; 5;private sector; 1; 1; 2;NA;NA
+3; 4; 5;private sector; 0; 1;NA; 1;NA
+3; 2;NA;private sector; 0; 1;NA; 2;NA
+2; 2;NA;private sector; 0; 1;NA; 2;NA
+2; 4; 5;private sector; 1; 1;NA; 1;NA
+5; 4; 5;private sector; 0; 1;NA; 4;NA
+2; 4;NA;private sector; 1; 1;NA; 2;NA
+2; 3; 5;private sector; 1; 1; 1;NA;NA
+4; 3;NA;private sector; 0; 1;NA; 2;NA
+4; 2; 5;government;NA;NA; 3;NA;NA
+2; 2;NA;private sector; 0; 1;NA;NA; 2
+1; 2;NA;private sector; 0; 1;NA; 1;NA
+4; 2; 5;government; 0; 1;NA;NA; 2
+4; 3; 5;private sector; 0; 1;NA; 1;NA
+2; 4; 5;private sector; 1; 1;NA; 2;NA
+1; 1;NA;Other; 0; 1; 4;NA;NA
+2; 3;NA;private sector; 0; 1;NA;NA; 2
+3; 1; 3;Other; 0; 0;NA;NA; 3
+2; 3; 5;private sector; 1; 1; 2;NA;NA
+4; 3; 5;government; 1; 1;NA; 2;NA
+3; 4; 5;private sector; 0; 1;NA;NA; 2
+3; 1; 4;government; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1; 2;NA;NA
+2; 3;NA;private sector; 0; 1;NA;NA; 2
+2; 3; 5;private sector; 0; 1;NA; 3;NA
+2; 3;NA;private sector; 0; 1; 4;NA;NA
+2; 3; 4;private sector; 0; 1; 2;NA;NA
+3; 4;NA;private sector; 0; 1; 2;NA;NA
+2; 2;NA;private sector; 0; 1;NA; 3;NA
+2; 4; 5;government; 0; 1; 2;NA;NA
+3; 3;NA;private sector; 1; 1;NA;NA; 0
+2; 4;NA;private sector; 1; 1;NA; 3;NA
+1; 2;NA;private sector; 1; 1;NA;NA; 1
